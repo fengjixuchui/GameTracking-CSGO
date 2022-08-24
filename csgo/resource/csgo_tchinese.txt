@@ -2004,7 +2004,6 @@
 		"Econ_Loot_List_Sticker_ProOrgsStickers"	"可能為代表以下任何組織團體的貼紙："
 		"Econ_Loot_List_Sticker_ProOrgsPatches"		"可能為代表以下任何組織團體的補丁："
 		"Econ_Loot_List_Sticker_ProOrgs_AndSomeMore" "…以及其它 %s1 個組織團體"
-
 		"Econ_Revolving_Loot_List"				"含有下列其中一項物品："
 		"Econ_Revolving_Loot_List_Rare_Item"	"或超稀有的特殊物品！"
 		"Exceedingly_Rare_Item"					"★ 特殊稀有物品 ★"
@@ -2836,14 +2835,12 @@
 		"CSGO_Collectible_MapTokenAbbey"				"Abbey 地圖硬幣"
 		"CSGO_Collectible_MapTokenAbbey_Desc"			"
 "
-
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"忠誠勳章"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"本勳章紀念受蹭者在《Counter-Strike》的危險區域改版前便已加入其社群的忠誠。<i>忠誠生力量。</i>"
 		"CSGO_CollectibleCoin_FiveYearService"		"5 年老兵硬幣"
 		"CSGO_CollectibleCoin_FiveYearService_Desc"	"已為《Counter-Strike》社群成員超過五年。"
 		"CSGO_CollectibleCoin_TenYearService"		"10 年老兵硬幣"
 		"CSGO_CollectibleCoin_TenYearService_Desc"	"已為《Counter-Strike》社群成員超過十年。"
-
 		"CSGO_CollectibleCoin_DH2013_Champion"				"DreamHack 2013 的冠軍"
 		"CSGO_CollectibleCoin_DH2013_Champion_Desc"			"這塊獎牌是授予給 2013 年 DreamHack Steel Series CS:GO 錦標賽冠軍的。"
 		"CSGO_CollectibleCoin_DH2013_Finalist"				"DreamHack 2013 的決賽選手"
@@ -3687,6 +3684,10 @@
 		"CSGO_crate_sticker_pack_op_riptide_capsule"	    		"《猛潮行動》貼紙收藏"
 		"CSGO_crate_sticker_pack_op_riptide_capsule_desc"			"這組收藏包含了多種歡慶《猛潮行動》的貼紙。"
 
+		"CSGO_crate_community_31"		"迅猛反擊武器箱"
+		"CSGO_crate_key_community_31"			"迅猛反擊武器箱鑰匙"
+		"CSGO_crate_key_community_31_desc"		"這把鑰匙只能打開迅猛反擊武器箱"
+		
 		"SprayKit_vcap1_ace_01"		"Ace"
 "SprayKit_vcap1_banana"		"香蕉"
 "SprayKit_vcap1_cerberus"		"地獄犬"
@@ -4491,6 +4492,7 @@
 		"CSGO_set_vertigo_2021"			"2021 Vertigo 收藏"
 		"CSGO_set_vertigo_2021_short"		"Vertigo 2021"
 		"CSGO_set_community_29"			"《猛潮行動》收藏"
+		"CSGO_set_community_31"			"迅猛反擊收藏"
 		/////////////////
 		// lootlist override strings
 		//////////////////
@@ -19820,7 +19822,6 @@
 	"PaintKit_cu_m249_deep_relief_Tag"							"等深線"
 
 	"PaintKit_cu_m4a1s_printstream"								"漆有黑白鮮明設計的客製化塗裝，並以珍珠彩光加以點綴。\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;</i>"
-	"PaintKit_cu_m4a1s_printstream_Tag"							"字符輸出"
 
 	"PaintKit_cu_m4a4_cyberpunk"								"這把 M4 的黑色底漆上漆有藍、紅、金色斜橫條的客製化塗裝。\n\n<i>於您當地的模控零售商販售中</i>"
 	"PaintKit_cu_m4a4_cyberpunk_Tag"							"賽博防護"
@@ -20176,7 +20177,7 @@
 
 	"PaintKit_gs_xm1014_watchdog"									"塗有自訂的翠綠底色和兩頭分別面向一前一後石獅子。第三頭石獅子位於後方瞄準鏡底下。\n\n<i>守護並興盛</i>"
 	"PaintKit_gs_xm1014_watchdog_Tag"								"看門石獅"
-// END COMMUNITY_30
+// END COMMUNITY_31
 
 		//Recipes
 		"CSGO_Recipe_TradeUp"						"汰換合約"
@@ -25070,7 +25071,7 @@
 
 		"SFUI_QMM_State_find_registering"			"和遊戲配對伺服器連線中…"
 		"SFUI_QMM_State_find_heartbeating"			"正在更新遊戲配對資訊…"
-		"SFUI_QMM_State_find_unavailable"			"無法配對，重試中…"
+		"SFUI_QMM_State_find_unavailable"			"<font color='#EED03F'>無法配對，重試中…</font>"
 		"SFUI_QMM_State_find_searching"				"正在搜尋玩家及伺服器…"
 		"SFUI_QMM_State_find_reserved"				"正在確認比賽…"
 		"SFUI_QMM_State_find_connect"				"比賽即將開始…"
@@ -25080,7 +25081,7 @@
 
 		"SFUI_QMM_State_reconnect_registering"		"正在重新連線至遊戲配對伺服器…"
 		"SFUI_QMM_State_reconnect_heartbeating"		"正在取得遊戲配對資訊…"
-		"SFUI_QMM_State_reconnect_unavailable"		"無法連線，重試中…"
+		"SFUI_QMM_State_reconnect_unavailable"		"<font color='#EED03F'>無法連線，重試中…</font>"
 		"SFUI_QMM_State_reconnect_searching"		"驗證伺服器狀態以重新連線…"
 		"SFUI_QMM_State_reconnect_reserved"			"正在重新連線至遊戲伺服器…"
 		"SFUI_QMM_State_reconnect_connect"			"重新連線至比賽…"
@@ -30713,8 +30714,8 @@
 
 		"Propcounter_money" "$%s1" //e.g. used on danger zone security door
 
-// crow_mask_36163_comment
-// crow_mask_36164_comment
+// crow_mask_36451_comment
+// crow_mask_36452_comment
 }
 
 

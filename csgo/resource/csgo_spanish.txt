@@ -2009,6 +2009,7 @@
 		"Econ_Loot_List_Sticker_ProOrgsStickers"	"La pegatina puede representar a una de las siguientes organizaciones:"
 		"Econ_Loot_List_Sticker_ProOrgsPatches"		"El parche puede representar a una de las siguientes organizaciones:"
 		"Econ_Loot_List_Sticker_ProOrgs_AndSomeMore" "... y otras %s1 organizaciones."
+		"Econ_Loot_List_AndSomeMoreItems" "...y %s1 más"
 
 		"Econ_Revolving_Loot_List"				"Contiene uno de los siguientes objetos:"
 		"Econ_Revolving_Loot_List_Rare_Item"	"¡o un objeto especial extraordinariamente raro!"
@@ -2820,12 +2821,15 @@
 		"CSGO_Collectible_MapTokenTulip"				"Moneda del mapa Tulip"
 		"CSGO_Collectible_MapTokenCruise"				"Moneda del mapa Cruise"
 		"CSGO_Collectible_MapTokenAbbey"				"Moneda del mapa Abbey"
+		"CSGO_Collectible_MapTokenBlagai"				"Moneda del mapa Blagai"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"Insignia de lealtad"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"Esta insignia conmemora la membresía leal en la comunidad de Counter-Strike antes de la actualización de Danger Zone. <i>Fuerza a través de la lealtad.</i>"
 		"CSGO_CollectibleCoin_FiveYearService"		"Moneda de 5 años de veteranía"
 		"CSGO_CollectibleCoin_FiveYearService_Desc"	"Miembro de la comunidad de Counter-Strike durante más de 5 años."
 		"CSGO_CollectibleCoin_TenYearService"		"Moneda de 10 años de veteranía"
 		"CSGO_CollectibleCoin_TenYearService_Desc"	"Miembro de la comunidad de Counter-Strike durante más de 10 años."
+		"CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia"		"Moneda del 10.º cumpleaños"
+		"CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia_Desc"	"Celebra el 10.º cumpleaños de CS:GO con la comunidad.\n\n<i>Celebrando diez años de disparos a la cabeza, momentos clutch y la comunidad. ¡Feliz 10.º cumpleaños, CS:GO!</i>"
 
 		"CSGO_CollectibleCoin_DH2013_Champion"				"Campeón del DreamHack 2013"
 		"CSGO_CollectibleCoin_DH2013_Champion_Desc"			"Este trofeo fue otorgado a los vencedores del campeonato de CS:GO DreamHack SteelSeries 2013."
@@ -3284,8 +3288,8 @@
 		"CSGO_Item_Desc_Firebomb"											"La granada incendiaria es una poderosa arma experimental que estalla en llamas de alta temperatura cuando se tira al suelo, quemando químicamente a cualquier jugador que se encuentre dentro de su amplio radio de propagación."
 		"CSGO_Item_Desc_Molotov"											"El molotov es un arma poderosa, impredecible y bastante útil para cortar el paso a los enemigos. Cuando impacta contra el suelo se esparce cubriéndolo de llamas y causando quemaduras a los jugadores que pasan sobre él."
 		"CSGO_Item_Desc_Incindiary_Grenade"									"Al lanzarla, la granada incendiaria libera una reacción química a alta temperatura que causará quemaduras a cualquiera que pase sobre el área de la explosión."
-		"CSGO_Item_desc_Knife"												"Silencioso y siempre disponible, el cuchillo tiene un veloz ataque principal leve y un ataque secundario algo más lento pero que causa mucho daño. Apuñalar por la espalda a un jugador con el ataque secundario será un asesinato instantáneo."
-		"CSGO_Item_desc_Knife_T"											"Silencioso y siempre disponible, el cuchillo tiene un veloz ataque principal leve y un ataque secundario algo más lento pero que causa mucho daño. Apuñalar por la espalda a un jugador con el ataque secundario será un asesinato instantáneo."
+		"CSGO_Item_desc_Knife"												"El cuchillo, silencioso y siempre disponible, tiene un ataque principal rápido y de daño reducido y un ataque secundario lento y de daño elevado. Una puñalada por la espalda con el ataque secundario permite asesinar de manera instantánea y discreta."
+		"CSGO_Item_desc_Knife_T"											"El cuchillo, silencioso y siempre disponible, tiene un ataque principal rápido y de daño reducido y un ataque secundario lento y de daño elevado. Una puñalada por la espalda con el ataque secundario permite asesinar de manera instantánea y discreta."
 		"CSGO_Item_desc_Knife_Ghost"										"A los fantasmas les encantan los cuchillos. ¡Ten cuidado si ves a alguno con uno en sus manos! Intentarán clavártelo por la espalda en cuanto puedan. Una pena que sean fantasmas y los cuchillos fantasma no puedan hacer daño..."
 		"CSGO_Item_desc_m4a1_silencer"								"El M4A1 con silenciador tiene un cargador más pequeño que su homólogo no silenciado, pero proporciona disparos menos audibles con menor retroceso y mayor precisión."
 		"CSGO_Item_Desc_usp_silencer"										"La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador de quita y pon tiene menos retroceso y menos ruido para no llamar la atención."
@@ -3703,6 +3707,13 @@
 		"CSGO_crate_sticker_pack_spring2022_capsule"	    		"Cápsula de pegatinas de la sala de juntas"
 		"CSGO_crate_sticker_pack_spring2022_capsule_desc"			"Esta cápsula contiene una variedad de pegatinas de artistas de Steam Workshop y fue lanzada en febrero de 2022."
 		"coupon_spring2022_sticker_capsule"							"Cápsula de pegatinas de la sala de juntas"
+
+		"CSGO_crate_community_31"		"Caja Retroceso"
+		"CSGO_crate_key_community_31"			"Llave de caja Retroceso"
+		"CSGO_crate_key_community_31_desc"		"Esta llave solo abre cajas Retroceso"
+		
+		"CSGO_crate_sticker_pack_csgo10_capsule"	    		"Cápsula de pegatinas del 10.º cumpleaños"
+		"coupon_csgo10_sticker_capsule"							"Cápsula de pegatinas del 10.º cumpleaños"
 		
 
 "SprayKit_vcap1_ace_01"		"Ace"
@@ -4495,6 +4506,7 @@
 		"CSGO_set_vertigo_2021_short"		"Vertigo 2021"
 		"CSGO_set_community_29"			"Colección Riptide"
 		"CSGO_set_community_30"			"Colección Sueños y Pesadillas"
+		"CSGO_set_community_31"			"Colección Retroceso"
 		/////////////////
 		// lootlist override strings
 		//////////////////
@@ -16791,6 +16803,7 @@
 	"CSGO_TournamentJournal_antwerp2022_Gold" "Moneda de oro de Amberes 2022"
 	"CSGO_TournamentJournal_antwerp2022_Crystal" "Moneda de diamante de Amberes 2022"
 
+	"CSGO_TournamentChallenge_antwerp2022_activate_pass" "Activa tu moneda antes de que termine el torneo"
 	"CSGO_TournamentChallenge_antwerp2022_challengers_calender" "Haz las nueve predicciones de Pick'Em para la fase de aspirantes antes de que comience"
 	"CSGO_TournamentChallenge_antwerp2022_challengers_pickem" "Haz cinco predicciones de Pick'Em correctas para la fase de aspirantes"
 	"CSGO_TournamentChallenge_antwerp2022_legends_calender" "Haz las nueve predicciones de Pick'Em para la fase de leyendas antes de que comience"
@@ -16832,14 +16845,20 @@
 	"StickerKit_antwerp2022_team_navi_glitter" "Natus Vincere (purpurina) | Amberes 2022"
 	"StickerKit_antwerp2022_team_navi_holo" "Natus Vincere (holográfica) | Amberes 2022"
 	"StickerKit_antwerp2022_team_navi_gold" "Natus Vincere (oro) | Amberes 2022"
+	"StickerKit_antwerp2022_team_ence" "ENCE | Amberes 2022"
+	"StickerKit_antwerp2022_team_ence_glitter" "ENCE (purpurina) | Amberes 2022"
+	"StickerKit_antwerp2022_team_ence_holo" "ENCE (holográfica) | Amberes 2022"
+	"StickerKit_antwerp2022_team_ence_gold" "ENCE (oro) | Amberes 2022"
 	"StickerKit_antwerp2022_team_g2" "G2 Esports | Amberes 2022"
 	"StickerKit_antwerp2022_team_g2_glitter" "G2 Esports (purpurina) | Amberes 2022"
 	"StickerKit_antwerp2022_team_g2_holo" "G2 Esports (holográfica) | Amberes 2022"
 	"StickerKit_antwerp2022_team_g2_gold" "G2 Esports (oro) | Amberes 2022"
 	"StickerKit_antwerp2022_team_forz" "forZe eSports | Amberes 2022"
+	"StickerKit_antwerp2022_team_forz_glitter" "forZe eSports (purpurina) | Amberes 2022"
 	"StickerKit_antwerp2022_team_forz_holo" "forZe eSports (holográfica) | Amberes 2022"
 	"StickerKit_antwerp2022_team_forz_gold" "forZe eSports (oro) | Amberes 2022"
 	"StickerKit_antwerp2022_team_astr" "Astralis | Amberes 2022"
+	"StickerKit_antwerp2022_team_astr_glitter" "Astralis (purpurina) | Amberes 2022"
 	"StickerKit_antwerp2022_team_astr_holo" "Astralis (holográfica) | Amberes 2022"
 	"StickerKit_antwerp2022_team_astr_gold" "Astralis (oro) | Amberes 2022"
 	"StickerKit_antwerp2022_team_vita" "Vitality | Amberes 2022"
@@ -16855,9 +16874,11 @@
 	"StickerKit_antwerp2022_team_imp_holo" "Imperial Esports (holográfica) | Amberes 2022"
 	"StickerKit_antwerp2022_team_imp_gold" "Imperial Esports (oro) | Amberes 2022"
 	"StickerKit_antwerp2022_team_bne" "Bad News Eagles | Amberes 2022"
+	"StickerKit_antwerp2022_team_bne_glitter" "Bad News Eagles (purpurina) | Amberes 2022"
 	"StickerKit_antwerp2022_team_bne_holo" "Bad News Eagles (holográfica) | Amberes 2022"
 	"StickerKit_antwerp2022_team_bne_gold" "Bad News Eagles (oro) | Amberes 2022"
 	"StickerKit_antwerp2022_team_eter" "Eternal Fire | Amberes 2022"
+	"StickerKit_antwerp2022_team_eter_glitter" "Eternal Fire (purpurina) | Amberes 2022"
 	"StickerKit_antwerp2022_team_eter_holo" "Eternal Fire (holográfica) | Amberes 2022"
 	"StickerKit_antwerp2022_team_eter_gold" "Eternal Fire (oro) | Amberes 2022"
 	"StickerKit_antwerp2022_team_spir" "Team Spirit | Amberes 2022"
@@ -16894,14 +16915,21 @@
 	"StickerKit_antwerp2022_team_pgl_gold" "PGL (oro) | Amberes 2022"
 
 
+	"CSGO_crate_store_pack_antwerp2022_legends_groupname" "Pegatinas de leyendas"
+	"CSGO_crate_store_pack_antwerp2022_challengers_groupname" "Pegatinas de aspirantes"
+	"CSGO_crate_store_pack_antwerp2022_contenders_groupname" "Pegatinas de contendientes"
+
 	"CSGO_crate_sticker_pack_antwerp2022_legends_tag" "Pegatinas de leyendas de Amberes 2022"
 	"CSGO_crate_sticker_pack_antwerp2022_legends"     "Cápsula de pegatinas de leyendas de Amberes 2022"
+	"CSGO_crate_sticker_pack_antwerp2022_legends_tinyname" "Pegatinas de leyendas"
 	"CSGO_crate_sticker_pack_antwerp2022_legends_desc" "Esta cápsula contiene una pegatina de alta calidad, con purpurina, holográfica o de oro de un participante de leyendas de Amberes 2022.\n\nEl 50 % de los beneficios de la venta de esta cápsula se destina a las organizaciones incluidas.\n\nLa pegatina puede colocarse en cualquier arma que tengas y rasparse para que parezca más desgastada. Puedes raspar la misma pegatina varias veces para desgastarla progresivamente hasta eliminarla del arma."
 	"CSGO_crate_sticker_pack_antwerp2022_challengers_tag" "Pegatinas de aspirantes de Amberes 2022"
 	"CSGO_crate_sticker_pack_antwerp2022_challengers"     "Cápsula de pegatinas de aspirantes de Amberes 2022"
+	"CSGO_crate_sticker_pack_antwerp2022_challengers_tinyname" "Pegatinas de aspirantes"
 	"CSGO_crate_sticker_pack_antwerp2022_challengers_desc" "Esta cápsula contiene una pegatina de alta calidad, con purpurina, holográfica o de oro de un participante de aspirantes de Amberes 2022.\n\nEl 50 % de los beneficios de la venta de esta cápsula se destina a las organizaciones incluidas.\n\nLa pegatina puede colocarse en cualquier arma que tengas y rasparse para que parezca más desgastada. Puedes raspar la misma pegatina varias veces para desgastarla progresivamente hasta eliminarla del arma."
 	"CSGO_crate_sticker_pack_antwerp2022_contenders_tag" "Pegatinas de contendientes de Amberes 2022"
 	"CSGO_crate_sticker_pack_antwerp2022_contenders"     "Cápsula de pegatinas de contendientes de Amberes 2022"
+	"CSGO_crate_sticker_pack_antwerp2022_contenders_tinyname" "Pegatinas de contendientes"
 	"CSGO_crate_sticker_pack_antwerp2022_contenders_desc" "Esta cápsula contiene una pegatina de alta calidad, con purpurina, holográfica o de oro de un participante de contendientes de Amberes 2022.\n\nEl 50 % de los beneficios de la venta de esta cápsula se destina a las organizaciones incluidas.\n\nLa pegatina puede colocarse en cualquier arma que tengas y rasparse para que parezca más desgastada. Puedes raspar la misma pegatina varias veces para desgastarla progresivamente hasta eliminarla del arma."
 
 	"CSGO_crate_store_pack_antwerp2022_signatures_groupname" "Autógrafos de jugadores"
@@ -16917,6 +16945,7 @@
 	"CSGO_crate_signature_pack_antwerp2022_group_contenders_tinyname" "Autógrafos de los contendientes"
 	"CSGO_crate_signature_pack_antwerp2022_group_contenders_desc" "Esta cápsula contiene una pegatina de alta calidad, con purpurina, holográfica o de oro autografiada por uno de los contendientes de Amberes 2022.\n\nEl 50 % de los beneficios de la venta de esta cápsula se destina a los jugadores y las organizaciones incluidos.\n\nLa pegatina puede colocarse en cualquier arma que tengas y rasparse para que parezca más desgastada. Puedes raspar la misma pegatina varias veces para desgastarla progresivamente hasta eliminarla del arma."
 	"CSGO_crate_signature_pack_antwerp2022_group_champions"     "Cápsula de autógrafos de campeones de Amberes 2022"
+	"CSGO_crate_signature_pack_antwerp2022_group_champions_tinyname" "Autógrafos de los campeones"
 	"CSGO_crate_signature_pack_antwerp2022_group_champions_desc" "Esta cápsula contiene una pegatina de alta calidad, con purpurina, holográfica o de oro autografiada por uno de los campeones de Amberes 2022.\n\nEl 50 % de los beneficios de la venta de esta cápsula se destina a los jugadores y las organizaciones incluidos.\n\nLa pegatina puede colocarse en cualquier arma que tengas y rasparse para que parezca más desgastada. Puedes raspar la misma pegatina varias veces para desgastarla progresivamente hasta eliminarla del arma."
 
 	"StickerKit_antwerp2022_signature_rain_champion" "rain (campeón) | Amberes 2022"
@@ -16968,6 +16997,7 @@
 	"StickerKit_antwerp2022_signature_stavn" "stavn | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_stavn" "Esta pegatina está autografiada por el jugador profesional Martin Lund, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_stavn_glitter" "stavn (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_stavn_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Martin Lund, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_stavn_holo" "stavn (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_stavn_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Martin Lund, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_stavn_gold" "stavn (oro) | Amberes 2022"
@@ -16975,6 +17005,8 @@
 
 	"StickerKit_antwerp2022_signature_cadian" "cadiaN | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_cadian" "Esta pegatina está autografiada por el jugador profesional Casper Møller, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_cadian_glitter" "cadiaN (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_cadian_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Casper Møller, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_cadian_holo" "cadiaN (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_cadian_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Casper Møller, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_cadian_gold" "cadiaN (oro) | Amberes 2022"
@@ -16983,6 +17015,7 @@
 	"StickerKit_antwerp2022_signature_teses" "TeSeS | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_teses" "Esta pegatina está autografiada por el jugador profesional René Stensig Madsen, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_teses_glitter" "TeSeS (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_teses_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional René Stensig Madsen, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_teses_holo" "TeSeS (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_teses_holo" "Esta pegatina holográfica está autografiada por el jugador profesional René Stensig Madsen, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_teses_gold" "TeSeS (oro) | Amberes 2022"
@@ -16991,6 +17024,7 @@
 	"StickerKit_antwerp2022_signature_refrezh" "refrezh | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_refrezh" "Esta pegatina está autografiada por el jugador profesional Ismail Ali, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_refrezh_glitter" "refrezh (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_refrezh_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Ismail Ali, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_refrezh_holo" "refrezh (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_refrezh_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Ismail Ali, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_refrezh_gold" "refrezh (oro) | Amberes 2022"
@@ -16999,28 +17033,57 @@
 	"StickerKit_antwerp2022_signature_sjuush" "sjuush | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_sjuush" "Esta pegatina está autografiada por el jugador profesional Rasmus Beck, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_sjuush_glitter" "sjuush (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_sjuush_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Rasmus Beck, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_sjuush_holo" "sjuush (holográfica) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_sjuush_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Rasmus Beck, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_sjuush_gold" "sjuush (oro) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_sjuush_gold" "Esta pegatina de oro está autografiada por el jugador profesional Rasmus Beck, jugador del equipo Heroic en el Major Championship de CS:GO PGL Amberes 2022."
+
 	"StickerKit_antwerp2022_signature_roej" "roeJ | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_roej" "Esta pegatina está autografiada por el jugador profesional Fredrik Jørgensen, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_roej_glitter" "roeJ (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_roej_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Fredrik Jørgensen, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_roej_holo" "roeJ (holográfica) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_roej_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Fredrik Jørgensen, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_roej_gold" "roeJ (oro) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_roej_gold" "Esta pegatina de oro está autografiada por el jugador profesional Fredrik Jørgensen, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
+
 	"StickerKit_antwerp2022_signature_zyphon" "Zyphon | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_zyphon" "Esta pegatina está autografiada por el jugador profesional Rasmus Nordfoss, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_zyphon_glitter" "Zyphon (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_zyphon_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Rasmus Nordfoss, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_zyphon_holo" "Zyphon (holográfica) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_zyphon_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Rasmus Nordfoss, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_zyphon_gold" "Zyphon (oro) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_zyphon_gold" "Esta pegatina de oro está autografiada por el jugador profesional Rasmus Nordfoss, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
+
 	"StickerKit_antwerp2022_signature_hooxi" "HooXi | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_hooxi" "Esta pegatina está autografiada por el jugador profesional Rasmus Nielsen, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_hooxi_glitter" "HooXi (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_hooxi_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Rasmus Nielsen, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_hooxi_holo" "HooXi (holográfica) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_hooxi_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Rasmus Nielsen, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_hooxi_gold" "HooXi (oro) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_hooxi_gold" "Esta pegatina de oro está autografiada por el jugador profesional Rasmus Nielsen, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
+
 	"StickerKit_antwerp2022_signature_jabbi" "jabbi | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_jabbi" "Esta pegatina está autografiada por el jugador profesional Jakob Nygaard, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_jabbi_glitter" "jabbi (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_jabbi_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Jakob Nygaard, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_jabbi_holo" "jabbi (holográfica) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_jabbi_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Jakob Nygaard, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_jabbi_gold" "jabbi (oro) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_jabbi_gold" "Esta pegatina de oro está autografiada por el jugador profesional Jakob Nygaard, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
+
 	"StickerKit_antwerp2022_signature_nicoodoz" "nicoodoz | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_nicoodoz" "Esta pegatina está autografiada por el jugador profesional Nico Tamjidi, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_nicoodoz_glitter" "nicoodoz (purpurina) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_nicoodoz_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Nico Tamjidi, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_nicoodoz_holo" "nicoodoz (holográfica) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_nicoodoz_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Nico Tamjidi, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_nicoodoz_gold" "nicoodoz (oro) | Amberes 2022"
+	"StickerKit_desc_antwerp2022_signature_nicoodoz_gold" "Esta pegatina de oro está autografiada por el jugador profesional Nico Tamjidi, jugador del equipo Copenhagen Flames en el Major Championship de CS:GO PGL Amberes 2022."
+
 	"StickerKit_antwerp2022_signature_tabsen" "tabseN | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_tabsen" "Esta pegatina está autografiada por el jugador profesional Johannes Wodarz, jugador del equipo BIG en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_tabsen_glitter" "tabseN (purpurina) | Amberes 2022"
@@ -17095,6 +17158,7 @@
 
 	"StickerKit_antwerp2022_signature_ax1le" "Ax1Le | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_ax1le" "Esta pegatina está autografiada por el jugador profesional Sergei Rykhtorov, jugador del equipo Cloud9 en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_ax1le_glitter" "Ax1Le (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_ax1le_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Sergei Rykhtorov, jugador del equipo Cloud9 en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_ax1le_holo" "Ax1Le (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_ax1le_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Sergei Rykhtorov, jugador del equipo Cloud9 en el Major Championship de CS:GO PGL Amberes 2022."
@@ -17119,9 +17183,13 @@
 	"StickerKit_antwerp2022_signature_yuurih_gold" "yuurih (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_yuurih_gold" "Esta pegatina de oro está autografiada por el jugador profesional Yuri Boian, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_art" "arT | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_art" "Esta pegatina está autografiada por el jugador profesional Andrei Piovezan, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_art_glitter" "arT (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_art_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Andrei Piovezan, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_art_holo" "arT (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_art_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Andrei Piovezan, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_art_gold" "arT (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_art_gold" "Esta pegatina de oro está autografiada por el jugador profesional Andrei Piovezan, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_kscerato" "KSCERATO | Amberes 2022"
@@ -17133,9 +17201,13 @@
 	"StickerKit_antwerp2022_signature_kscerato_gold" "KSCERATO (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_kscerato_gold" "Esta pegatina de oro está autografiada por el jugador profesional Kaike Cerato, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_drop" "drop | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_drop" "Esta pegatina está autografiada por el jugador profesional André Wagner de Abreu, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_drop_glitter" "drop (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_drop_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional André Wagner de Abreu, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_drop_holo" "drop (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_drop_holo" "Esta pegatina holográfica está autografiada por el jugador profesional André Wagner de Abreu, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_drop_gold" "drop (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_drop_gold" "Esta pegatina de oro está autografiada por el jugador profesional André Wagner de Abreu, jugador del equipo FURIA en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_saffee" "saffee | Amberes 2022"
@@ -17174,9 +17246,13 @@
 	"StickerKit_antwerp2022_signature_twistzz_gold" "Twistzz (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_twistzz_gold" "Esta pegatina de oro está autografiada por el jugador profesional Russel Van Dulken, jugador del equipo FaZe Clan en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_broky" "broky | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_broky" "Esta pegatina está autografiada por el jugador profesional Helvijs Saukants, jugador del equipo FaZe Clan en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_broky_glitter" "broky (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_broky_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Helvijs Saukants, jugador del equipo FaZe Clan en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_broky_holo" "broky (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_broky_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Helvijs Saukants, jugador del equipo FaZe Clan en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_broky_gold" "broky (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_broky_gold" "Esta pegatina de oro está autografiada por el jugador profesional Helvijs Saukants, jugador del equipo FaZe Clan en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_ropz" "ropz | Amberes 2022"
@@ -17215,14 +17291,22 @@
 	"StickerKit_antwerp2022_signature_plopski_gold" "Plopski (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_plopski_gold" "Esta pegatina de oro está autografiada por el jugador profesional Nicolas González Zamora, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_es3tag" "es3tag | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_es3tag" "Esta pegatina está autografiada por el jugador profesional Patrick Hansen, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_es3tag_glitter" "es3tag (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_es3tag_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Patrick Hansen, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_es3tag_holo" "es3tag (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_es3tag_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Patrick Hansen, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_es3tag_gold" "es3tag (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_es3tag_gold" "Esta pegatina de oro está autografiada por el jugador profesional Patrick Hansen, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_brollan" "Brollan | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_brollan" "Esta pegatina está autografiada por el jugador profesional Ludvig Brolin, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_brollan_glitter" "Brollan (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_brollan_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Ludvig Brolin, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_brollan_holo" "Brollan (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_brollan_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Ludvig Brolin, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_brollan_gold" "Brollan (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_brollan_gold" "Esta pegatina de oro está autografiada por el jugador profesional Ludvig Brolin, jugador del equipo Ninjas in Pyjamas en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_s1mple" "s1mple | Amberes 2022"
@@ -17234,9 +17318,13 @@
 	"StickerKit_antwerp2022_signature_s1mple_gold" "s1mple (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_s1mple_gold" "Esta pegatina de oro está autografiada por el jugador profesional Oleksandr Kostyliev, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_boombl4" "Boombl4 | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_boombl4" "Esta pegatina está autografiada por el jugador profesional Kirill Mikhailov, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_boombl4_glitter" "Boombl4 (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_boombl4_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Kirill Mikhailov, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_boombl4_holo" "Boombl4 (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_boombl4_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Kirill Mikhailov, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_boombl4_gold" "Boombl4 (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_boombl4_gold" "Esta pegatina de oro está autografiada por el jugador profesional Kirill Mikhailov, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_perfecto" "Perfecto | Amberes 2022"
@@ -17248,14 +17336,22 @@
 	"StickerKit_antwerp2022_signature_perfecto_gold" "Perfecto (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_perfecto_gold" "Esta pegatina de oro está autografiada por el jugador profesional Ilya Zalutskiy, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_electronic" "electronic | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_electronic" "Esta pegatina está autografiada por el jugador profesional Denis Sharipov, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_electronic_glitter" "electronic (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_electronic_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Denis Sharipov, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_electronic_holo" "electronic (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_electronic_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Denis Sharipov, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_electronic_gold" "electronic (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_electronic_gold" "Esta pegatina de oro está autografiada por el jugador profesional Denis Sharipov, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_b1t" "b1t | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_b1t" "Esta pegatina está autografiada por el jugador profesional Valerii Vakhovskyi, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_b1t_glitter" "b1t (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_b1t_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Valerii Vakhovskyi, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_b1t_holo" "b1t (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_b1t_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Valerii Vakhovskyi, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_b1t_gold" "b1t (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_b1t_gold" "Esta pegatina de oro está autografiada por el jugador profesional Valerii Vakhovskyi, jugador del equipo Natus Vincere en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_snappi" "Snappi | Amberes 2022"
@@ -17267,9 +17363,13 @@
 	"StickerKit_antwerp2022_signature_snappi_gold" "Snappi (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_snappi_gold" "Esta pegatina de oro está autografiada por el jugador profesional Marco Pfeiffer, jugador del equipo ENCE en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_dycha" "dycha | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dycha" "Esta pegatina está autografiada por el jugador profesional Paweł Dycha, jugador del equipo ENCE en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dycha_glitter" "dycha (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dycha_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Paweł Dycha, jugador del equipo ENCE en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dycha_holo" "dycha (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dycha_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Paweł Dycha, jugador del equipo ENCE en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dycha_gold" "dycha (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dycha_gold" "Esta pegatina de oro está autografiada por el jugador profesional Paweł Dycha, jugador del equipo ENCE en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_spinx" "Spinx | Amberes 2022"
@@ -17299,9 +17399,13 @@
 	"StickerKit_antwerp2022_signature_maden_gold" "maden (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_maden_gold" "Esta pegatina de oro está autografiada por el jugador profesional Pavle Bošković, jugador del equipo ENCE en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_aleksib" "Aleksib | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_aleksib" "Esta pegatina está autografiada por el jugador profesional Aleksi Virolainen, jugador del equipo G2 Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_aleksib_glitter" "Aleksib (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_aleksib_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Aleksi Virolainen, jugador del equipo G2 Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_aleksib_holo" "Aleksib (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_aleksib_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Aleksi Virolainen, jugador del equipo G2 Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_aleksib_gold" "Aleksib (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_aleksib_gold" "Esta pegatina de oro está autografiada por el jugador profesional Aleksi Virolainen, jugador del equipo G2 Esports en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_hunter" "huNter | Amberes 2022"
@@ -17394,9 +17498,13 @@
 	"StickerKit_antwerp2022_signature_gla1ve_gold" "gla1ve (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_gla1ve_gold" "Esta pegatina de oro está autografiada por el jugador profesional Lukas Rossander, jugador del equipo Astralis en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_blamef" "blameF | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_blamef" "Esta pegatina está autografiada por el jugador profesional Benjamin Vang Bremer, jugador del equipo Astralis en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_blamef_glitter" "blameF (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_blamef_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Benjamin Vang Bremer, jugador del equipo Astralis en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_blamef_holo" "blameF (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_blamef_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Benjamin Vang Bremer, jugador del equipo Astralis en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_blamef_gold" "blameF (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_blamef_gold" "Esta pegatina de oro está autografiada por el jugador profesional Benjamin Vang Bremer, jugador del equipo Astralis en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_k0nfig" "k0nfig | Amberes 2022"
@@ -17426,9 +17534,13 @@
 	"StickerKit_antwerp2022_signature_farlig_gold" "Farlig (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_farlig_gold" "Esta pegatina de oro está autografiada por el jugador profesional Asger Chen Jensen, jugador del equipo Astralis en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_apex" "apEX | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_apex" "Esta pegatina está autografiada por el jugador profesional Dan Madesclaire, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_apex_glitter" "apEX (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_apex_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Dan Madesclaire, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_apex_holo" "apEX (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_apex_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Dan Madesclaire, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_apex_gold" "apEX (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_apex_gold" "Esta pegatina de oro está autografiada por el jugador profesional Dan Madesclaire, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_misutaaa" "misutaaa | Amberes 2022"
@@ -17440,9 +17552,13 @@
 	"StickerKit_antwerp2022_signature_misutaaa_gold" "misutaaa (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_misutaaa_gold" "Esta pegatina de oro está autografiada por el jugador profesional Kévin Rabier, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_dupreeh" "dupreeh | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dupreeh" "Esta pegatina está autografiada por el jugador profesional Peter Rasmussen, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dupreeh_glitter" "dupreeh (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dupreeh_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Peter Rasmussen, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dupreeh_holo" "dupreeh (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dupreeh_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Peter Rasmussen, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dupreeh_gold" "dupreeh (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dupreeh_gold" "Esta pegatina de oro está autografiada por el jugador profesional Peter Rasmussen, jugador del equipo Vitality en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_magisk" "Magisk | Amberes 2022"
@@ -17472,9 +17588,13 @@
 	"StickerKit_antwerp2022_signature_wood7_gold" "WOOD7 (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_wood7_gold" "Esta pegatina de oro está autografiada por el jugador profesional Adriano Cerato, jugador del equipo MIBR en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_chelo" "chelo | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_chelo" "Esta pegatina está autografiada por el jugador profesional Marcelo Cespedes, jugador del equipo MIBR en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_chelo_glitter" "chelo (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_chelo_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Marcelo Cespedes, jugador del equipo MIBR en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_chelo_holo" "chelo (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_chelo_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Marcelo Cespedes, jugador del equipo MIBR en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_chelo_gold" "chelo (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_chelo_gold" "Esta pegatina de oro está autografiada por el jugador profesional Marcelo Cespedes, jugador del equipo MIBR en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_tuurtle" "Tuurtle | Amberes 2022"
@@ -17488,6 +17608,7 @@
 
 	"StickerKit_antwerp2022_signature_exit" "exit | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_exit" "Esta pegatina está autografiada por el jugador profesional Raphael Lacerda, jugador del equipo MIBR en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_exit_glitter" "exit (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_exit_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Raphael Lacerda, jugador del equipo MIBR en el Major Championship de CS:GO PGL Amberes 2022."
 	"StickerKit_antwerp2022_signature_exit_holo" "exit (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_exit_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Raphael Lacerda, jugador del equipo MIBR en el Major Championship de CS:GO PGL Amberes 2022."
@@ -17530,9 +17651,13 @@
 	"StickerKit_antwerp2022_signature_fnx_gold" "fnx (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_fnx_gold" "Esta pegatina de oro está autografiada por el jugador profesional Lincoln Lau, jugador del equipo Imperial Esports en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_boltz" "boltz | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_boltz" "Esta pegatina está autografiada por el jugador profesional Ricardo Prass, jugador del equipo Imperial Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_boltz_glitter" "boltz (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_boltz_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Ricardo Prass, jugador del equipo Imperial Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_boltz_holo" "boltz (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_boltz_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Ricardo Prass, jugador del equipo Imperial Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_boltz_gold" "boltz (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_boltz_gold" "Esta pegatina de oro está autografiada por el jugador profesional Ricardo Prass, jugador del equipo Imperial Esports en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_vini" "VINI | Amberes 2022"
@@ -17616,9 +17741,13 @@
 	"StickerKit_antwerp2022_signature_imorr_gold" "imoRR (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_imorr_gold" "Esta pegatina de oro está autografiada por el jugador profesional Ömer Karatas, jugador del equipo Eternal Fire en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_calyx" "Calyx | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_calyx" "Esta pegatina está autografiada por el jugador profesional Buğra Arkın, jugador del equipo Eternal Fire en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_calyx_glitter" "Calyx (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_calyx_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Bugra Arkın, jugador del equipo Eternal Fire en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_calyx_holo" "Calyx (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_calyx_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Bugra Arkın, jugador del equipo Eternal Fire en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_calyx_gold" "Calyx (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_calyx_gold" "Esta pegatina de oro está autografiada por el jugador profesional Bugra Arkın, jugador del equipo Eternal Fire en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_xfl0ud" "xfl0ud | Amberes 2022"
@@ -17630,9 +17759,13 @@
 	"StickerKit_antwerp2022_signature_xfl0ud_gold" "xfl0ud (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_xfl0ud_gold" "Esta pegatina de oro está autografiada por el jugador profesional Yasin Koc, jugador del equipo Eternal Fire en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_chopper" "chopper | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_chopper" "Esta pegatina está autografiada por el jugador profesional Leonid Vishnyakov, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_chopper_glitter" "chopper (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_chopper_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Leonid Vishnyakov, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_chopper_holo" "chopper (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_chopper_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Leonid Vishnyakov, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_chopper_gold" "chopper (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_chopper_gold" "Esta pegatina de oro está autografiada por el jugador profesional Leonid Vishnyakov, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_magixx" "magixx | Amberes 2022"
@@ -17644,9 +17777,13 @@
 	"StickerKit_antwerp2022_signature_magixx_gold" "magixx (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_magixx_gold" "Esta pegatina de oro está autografiada por el jugador profesional Borislav Vorobev, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_degster" "degster | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_degster" "Esta pegatina está autografiada por el jugador profesional Abdulkhalik Gasanov, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_degster_glitter" "degster (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_degster_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Abdulkhalik Gasanov, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_degster_holo" "degster (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_degster_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Abdulkhalik Gasanov, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_degster_gold" "degster (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_degster_gold" "Esta pegatina de oro está autografiada por el jugador profesional Abdulkhalik Gasanov, jugador del equipo Team Spirit en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_patsi" "Patsi | Amberes 2022"
@@ -17685,9 +17822,13 @@
 	"StickerKit_antwerp2022_signature_qikert_gold" "qikert (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_qikert_gold" "Esta pegatina de oro está autografiada por el jugador profesional Alexey Golubev, jugador del equipo Outsiders en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_buster" "buster | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_buster" "Esta pegatina está autografiada por el jugador profesional Timur Tulepov, jugador del equipo Outsiders en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_buster_glitter" "buster (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_buster_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Timur Tulepov, jugador del equipo Outsiders en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_buster_holo" "buster (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_buster_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Timur Tulepov, jugador del equipo Outsiders en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_buster_gold" "buster (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_buster_gold" "Esta pegatina de oro está autografiada por el jugador profesional Timur Tulepov, jugador del equipo Outsiders en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_yekindar" "YEKINDAR | Amberes 2022"
@@ -17753,9 +17894,13 @@
 	"StickerKit_antwerp2022_signature_junior_gold" "junior (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_junior_gold" "Esta pegatina de oro está autografiada por el jugador profesional Paytyn Johnson, jugador del equipo Complexity Gaming en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_blitz" "bLitz | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_blitz" "Esta pegatina está autografiada por el jugador profesional Garidmagnai Byambasuren, jugador del equipo IHC Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_blitz_glitter" "bLitz (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_blitz_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Garidmagnai Byambasuren, jugador del equipo IHC Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_blitz_holo" "bLitz (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_blitz_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Garidmagnai Byambasuren, jugador del equipo IHC Esports en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_blitz_gold" "bLitz (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_blitz_gold" "Esta pegatina de oro está autografiada por el jugador profesional Garidmagnai Byambasuren, jugador del equipo IHC Esports en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_kabal" "kabal | Amberes 2022"
@@ -17830,9 +17975,13 @@
 	"StickerKit_antwerp2022_signature_hatz_gold" "hatz (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_hatz_gold" "Esta pegatina de oro está autografiada por el jugador profesional Jordan Bajic, jugador del equipo Renegades en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_alistair" "aliStair | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_alistair" "Esta pegatina está autografiada por el jugador profesional Alistair Johnston, jugador del equipo Renegades en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_alistair_glitter" "aliStair (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_alistair_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Alistair Johnston, jugador del equipo Renegades en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_alistair_holo" "aliStair (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_alistair_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Alistair Johnston, jugador del equipo Renegades en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_alistair_gold" "aliStair (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_alistair_gold" "Esta pegatina de oro está autografiada por el jugador profesional Alistair Johnston, jugador del equipo Renegades en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_shox" "shox | Amberes 2022"
@@ -17844,9 +17993,13 @@
 	"StickerKit_antwerp2022_signature_shox_gold" "shox (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_shox_gold" "Esta pegatina de oro está autografiada por el jugador profesional Richard Papillon, jugador del equipo Team Liquid en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_elige" "EliGE | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_elige" "Esta pegatina está autografiada por el jugador profesional Jonathan Jablonowski, jugador del equipo Team Liquid en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_elige_glitter" "EliGE (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_elige_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Jonathan Jablonowski, jugador del equipo Team Liquid en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_elige_holo" "EliGE (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_elige_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Jonathan Jablonowski, jugador del equipo Team Liquid en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_elige_gold" "EliGE (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_elige_gold" "Esta pegatina de oro está autografiada por el jugador profesional Jonathan Jablonowski, jugador del equipo Team Liquid en el Major Championship de CS:GO PGL Amberes 2022."
 
 	"StickerKit_antwerp2022_signature_osee" "oSee | Amberes 2022"
@@ -17903,17 +18056,34 @@
 	"StickerKit_antwerp2022_signature_max_gold" "max (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_max_gold" "Esta pegatina de oro está autografiada por el jugador profesional Maximiliano González, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_dgt" "dgt | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dgt" "Esta pegatina está autografiada por el jugador profesional Franco Cabrera, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dgt_glitter" "dgt (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dgt_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional Franco Cabrera, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dgt_holo" "dgt (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dgt_holo" "Esta pegatina holográfica está autografiada por el jugador profesional Franco Cabrera, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dgt_gold" "dgt (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dgt_gold" "Esta pegatina de oro está autografiada por el jugador profesional Franco Cabrera, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
 
+	"StickerKit_antwerp2022_signature_dav1d" "dav1d | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dav1d" "Esta pegatina está autografiada por el jugador profesional David Maldonado, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dav1d_glitter" "dav1d (purpurina) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dav1d_glitter" "Esta pegatina con purpurina está autografiada por el jugador profesional David Maldonado, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dav1d_holo" "dav1d (holográfica) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dav1d_holo" "Esta pegatina holográfica está autografiada por el jugador profesional David Maldonado, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
+	"StickerKit_antwerp2022_signature_dav1d_gold" "dav1d (oro) | Amberes 2022"
 	"StickerKit_desc_antwerp2022_signature_dav1d_gold" "Esta pegatina de oro está autografiada por el jugador profesional David Maldonado, jugador del equipo 9z Team en el Major Championship de CS:GO PGL Amberes 2022."
 
 
+	"CSGO_crate_antwerp2022_promo_de_inferno"		"Paquete regalo de Inferno - Amberes 2022"
+	"CSGO_crate_antwerp2022_promo_de_mirage"		"Paquete regalo de Mirage - Amberes 2022"
+	"CSGO_crate_antwerp2022_promo_de_dust2"		"Paquete regalo de Dust II - Amberes 2022"
+	"CSGO_crate_antwerp2022_promo_de_overpass"		"Paquete regalo de Overpass - Amberes 2022"
+	"CSGO_crate_antwerp2022_promo_de_ancient"		"Paquete regalo de Ancient - Amberes 2022"
+	"CSGO_crate_antwerp2022_promo_de_nuke"		"Paquete regalo de Nuke - Amberes 2022"
+	"CSGO_crate_antwerp2022_promo_de_vertigo"		"Paquete regalo de Vertigo - Amberes 2022"
+
+	"CSGO_CollectibleCoin_antwerp2022_Champion"				"Campeón del PGL Amberes 2022"
 	"CSGO_CollectibleCoin_antwerp2022_Champion_Desc"			"Este trofeo fue otorgado a los campeones del Major Championship de CS:GO PGL Amberes 2022."
 	"CSGO_CollectibleCoin_antwerp2022_Finalist"				"Finalista del PGL Amberes 2022"
 	"CSGO_CollectibleCoin_antwerp2022_Finalist_Desc"			"Este trofeo fue otorgado a los finalistas del Major Championship de CS:GO PGL Amberes 2022."
@@ -18459,6 +18629,50 @@
 		"StickerKit_spring2022_inferno_diorama_foil"					"Diorama de Inferno (reflectante)"
 		"StickerKit_spring2022_real_mvp_foil"							"El auténtico JMV (reflectante)"
 		"StickerKit_spring2022_rock_paper_scissors_foil"				"Piedra, papel o tijera (reflectante)"
+		//CSGO10 Sticker Capsule
+
+		"StickerKit_csgo10_arms_race_paper"								"Carrera de armamentos"
+		"StickerKit_csgo10_b_day_paper"									"B-Day"
+		"StickerKit_csgo10_baby_cerberus_paper"							"Mini Cerbero"
+		"StickerKit_csgo10_baby_fire_serpent_paper"						"Miniserpiente de fuego"
+		"StickerKit_csgo10_baby_lore_paper"								"Minidragón"
+		"StickerKit_csgo10_baby_medusa_paper"							"Mini Medusa"
+		"StickerKit_csgo10_beaky_decade_paper"							"10 años de picos"
+		"StickerKit_csgo10_booth_paper"									"Booth"
+		"StickerKit_csgo10_call_your_flashes_paper"						"Citas a ciegas"
+		"StickerKit_csgo10_chicken_whisperer_paper"						"Encantador de pollos"
+		"StickerKit_csgo10_clicking_heads_paper"						"Clicacabezas"
+		"StickerKit_csgo10_co_co_cs_paper"								"Co, co, co"
+		"StickerKit_csgo10_cs_on_the_go_paper"							"CS sin parar"
+		"StickerKit_csgo10_cursed_penmanship_paper"						"Caligrafía maldita"
+		"StickerKit_csgo10_dragon_tale_paper"							"Cuento de dragones"
+		"StickerKit_csgo10_dragons_keep_paper"							"Castillo del dragón"
+		"StickerKit_csgo10_dreams_and_mimics_paper"						"Sueños y mimics"
+		"StickerKit_csgo10_endless_cycle_paper"							"Ciclo sin fin"
+		"StickerKit_csgo10_exo_jumper_paper"							"Exosalto"
+		"StickerKit_csgo10_free_range_paper"							"Granadas de corral"
+		"StickerKit_csgo10_glhf_paper"									"Espíritu deportivo"
+		"StickerKit_csgo10_go_paper"									"GO"
+		"StickerKit_csgo10_good_versus_evil_paper"						"El bien contra el mal"
+		"StickerKit_csgo10_green_problem_paper"							"Verde, ¿pero qué haces?"
+		"StickerKit_csgo10_roshambo_paper"								"Elige con cuidado"
+		"StickerKit_csgo10_select_agent_paper"							"Selecciona a un agente"
+		"StickerKit_csgo10_this_is_fine_h_paper"						"Esto está bien (R)"
+		"StickerKit_csgo10_zeused_paper"								"Electrozeusado"
+		"StickerKit_csgo10_ace_clutch_co_holo"							"Asociación de Ases del Clutch (holográfica)"
+		"StickerKit_csgo10_blue_gem_glitter"							"Gema azul (purpurina)"
+		"StickerKit_csgo10_boom_glitter"								"Boom (purpurina)"
+		"StickerKit_csgo10_cbbl_holo"									"Cobblestone (holográfica)"
+		"StickerKit_csgo10_conspiracy_club_holo"						"Club de la conspiración (holográfica)"
+		"StickerKit_csgo10_defuse_it_holo"								"Desactívala (holográfica)"
+		"StickerKit_csgo10_get_smoked_holo"								"Cortina de humo (holográfica)"
+		"StickerKit_csgo10_baby_howl_paper"								"Miniaullido"
+		"StickerKit_csgo10_vertigos_hero_holo"							"Héroe de Vertigo (holográfica)"
+		"StickerKit_csgo10_dust_fa_foil"								"Copa Dust FA (reflectante)"
+		"StickerKit_csgo10_jojo_csgo_foil"								"A cuchillo (reflectante)"
+		"StickerKit_csgo10_freeze_lenticular"							"¡Arriba las manos! (lenticular)"
+		"StickerKit_csgo10_gotv_lenticular"								"Global TV (lenticular)"
+		"StickerKit_csgo10_music_kits_lenticular"						"DJ Revienta cajas (lenticular)"
 		"PatchKit_patch_banana"            "Banana loca"
 		"PatchKit_desc_patch_banana"       "<i>El agente te servirá como escala.</i>"
 		"PatchKit_patch_boss"              "El jefe"
@@ -21543,8 +21757,8 @@
 	"PaintKit_cu_mag7_monster_call"								"Se ha personalizado con una base azul y criaturas submarinas en primer plano.\n\n<i>Siempre hay un pez más grande y más verde.</i>"
 	"PaintKit_cu_mag7_monster_call_Tag"							"Monstruo marino"
 
-	"PaintKit_cu_deag_printstream"								"Se ha personalizado con un férreo diseño y unos acabados con brillos nacarados.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1;</i>"
-	"PaintKit_cu_deag_printstream_Tag"							"PrintStream"
+	"PaintKit_cu_printstream"									"Se ha personalizado con un austero diseño blanco y negro, y un acabado con brillos nacarados.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1;</i>"
+	"PaintKit_cu_printstream_Tag"								"PrintStream"
 
 	"PaintKit_cu_glock_eyecontact"								"Se ha personalizado esta Glock al estilo del arte pop con unos ojos que adornan la corredera del arma.\n\n<i>«¡Mírame a los ojos cuando te disparo!».</i>"
 	"PaintKit_cu_glock_eyecontact_Tag"							"Vogue"
@@ -21614,7 +21828,6 @@
 	"PaintKit_cu_m249_deep_relief_Tag"							"Relieve profundo"
 
 	"PaintKit_cu_m4a1s_printstream"								"Se ha personalizado con un austero diseño blanco y negro, y un acabado con brillos nacarados.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;</i>"
-	"PaintKit_cu_m4a1s_printstream_Tag"							"PrintStream"
 
 	"PaintKit_cu_m4a4_cyberpunk"								"Se ha personalizado la base negra de este M4 con rayas diagonales azules, rojas y doradas.\n\n<i>YA DISPONIBLE EN TU TIENDA CIBERNÉTICA LOCAL.</i>"
 	"PaintKit_cu_m4a4_cyberpunk_Tag"							"Ciberseguridad"
@@ -21784,7 +21997,7 @@
 	"PaintKit_cu_mp9_food_chain"									"Este colorido MP9 se ha personalizado con una cadena alimenticia de monstruos.\n\n<i>Comer o ser comido.</i>"
 	"PaintKit_cu_mp9_food_chain_Tag"								"Cadena alimenticia"
 
-	"PaintKit_cu_galil_chroma_pink"									"Se han aplicado unos colores en una pintura personalizada en posiciones contrapuestas, dando un aspecto de relieve.\n\n<i>(No demasiado) agradable a la vista...</i>"
+	"PaintKit_cu_galil_chroma_pink"									"Los colores en esta pintura personalizada se han aplicado en posiciones contrapuestas, dando lugar a una apariencia espectacular.\n\n<i>(No demasiado) agradable a la vista...</i>"
 	"PaintKit_cu_galil_chroma_pink_Tag"								"Aberración cromática"
 
 	"PaintKit_gs_glock_polymer"										"Se ha pintado la corredera de color bronce y el gatillo de azul. La empuñadura de la pistola está fabricada de un polímero transparente.\n\n<i>Lo que ves es lo que hay.</i>"
@@ -22028,6 +22241,60 @@
 	"PaintKit_cu_sawedoff_ouija_Tag"								"Tablero de espíritus"
 
 // END COMMUNITY_30
+
+// COMMUNITY_31
+
+	"PaintKit_cu_usp_printstream"									"Se ha personalizado con un austero diseño blanco y negro, y un acabado con brillos nacarados.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1; PISTOL_1;</i>"
+	
+	"PaintKit_cu_ak47_cogthings"									"Se ha personalizado con un brillante gradiente de color verde y azul.\n\n<i>Frío al tacto.</i>"
+	"PaintKit_cu_ak47_cogthings_Tag"								"Hielo carbonizado"
+
+	"PaintKit_cu_awp_chroma_pink"									"Los colores en esta pintura personalizada se han aplicado en posiciones contrapuestas, dando lugar a una apariencia espectacular.\n\n<i>(No demasiado) agradable a la vista...</i>"
+	"PaintKit_cu_awp_chroma_pink_Tag"								"Aberración cromática"
+
+	"PaintKit_gs_revolver_purple_elite"								"Se ha personalizado con un cañón morado y el número 8 en la empuñadura.\n\n<i>Inspirada en los eventos del 8 de diciembre de 2015.</i>"
+	"PaintKit_gs_revolver_purple_elite_Tag"							"8 loco"
+
+	"PaintKit_gs_famas_corp_meow"									"Se ha engalando su base verde con el número 36.\n\n<i>No le busques tres pies...</i>"
+	"PaintKit_gs_famas_corp_meow_Tag"								"Miau 36"
+
+	"PaintKit_cu_galil_destroyer"									"Se ha personalizado con la inscripción «DESTROYER», pero solo se puede leer desde determinados ángulos.\n\n<i>Destrúyelos a todos.</i>"
+	"PaintKit_cu_galil_destroyer_Tag"								"Destroyer"
+
+	"PaintKit_cu_m249_downvote"										"Se ha marcado con flechas de color azul y rosa que apuntan en todas las direcciones.\n\n<i>Un estampado de espray diferente.</i>"
+	"PaintKit_cu_m249_downvote_Tag"									"Centro urbano"
+
+	"PaintKit_cu_m4a4_elite_tactical"								"Se ha personalizado con un cargador de polímero transparente y las piezas de la culata, el guardamanos y la empuñadura en color bronce.\n\n<i>Procedimiento operativo estándar.</i>"
+	"PaintKit_cu_m4a4_elite_tactical_Tag"							"Polímero"
+
+	"PaintKit_cu_mac10_monkeyflage"									"Se ha adornado esta MAC-10 con ilustraciones de monos rojos, marrones y verdes.\n\n<i>¡Qué monada!</i>"
+	"PaintKit_cu_mac10_monkeyflage_Tag"								"Bandera macaca"
+
+	"PaintKit_cu_sg553_cyber_dragon"								"Se ha personalizado con un dragón verde biomecánico.\n\n<i>Ese no es mi dragón…</i>"
+	"PaintKit_cu_sg553_cyber_dragon_Tag"							"Ciberdragón"
+
+	"PaintKit_cu_negev_clear_sky"									"Se ha personalizado con una señal de STOP junto a la empuñadura de asalto sobre una base mayormente marrón.\n\n<i>Si la señal de STOP no te convence, la ráfaga de balas quizá lo haga.</i>"
+	"PaintKit_cu_negev_clear_sky_Tag"								"Déjame"
+
+	"PaintKit_gs_p250_visions"										"Se ha personalizado con un diseño en colores vibrantes.\n\n<i>Mata dos pájaros de un tiro.</i>"
+	"PaintKit_gs_p250_visions_Tag"									"Visiones"
+
+	"PaintKit_gs_p90_tangled"										"Se ha personalizado para que parezca un P90 con cinta de reparación, tubos y fuego.\n\n<i>«¿Usted sabe a qué velocidad iba?»</i>"
+	"PaintKit_gs_p90_tangled_Tag"									"Gas a fondo"
+
+	"PaintKit_cu_sawedoff_kisslove"									"Se ha personalizado con la imagen de una mujer con estrellas en los ojos en tonos rosas y morados.\n\n<i>«No aceptaré un no por respuesta. ¡Tengo que tenerlo!»</i>"
+	"PaintKit_cu_sawedoff_kisslove_Tag"								"Beso♥Amor"
+
+	"PaintKit_cu_dual_elites_evil_flora"							"Se ha personalizado con tres plantas carnívoras hambrientas en colores brillantes en cada una de las Berettas.\n\n<i>Ayúdalas a crecer sanas y fuertes.</i>"
+	"PaintKit_cu_dual_elites_evil_flora_Tag"						"Flora carnívora"
+
+	"PaintKit_gs_ump_roadblock"										"Se ha personalizado con líneas horizontales de color naranja y flechas apuntando hacia delante.\n\n<i>Busca rutas alternativas.</i>"
+	"PaintKit_gs_ump_roadblock_Tag"									"Barricada"
+
+	"PaintKit_gs_glock_elite_camo"									"Se ha personalizado con un diseño de camuflaje militar en tonos invernales.\n\n<i>¡No te muevas!</i>"
+	"PaintKit_gs_glock_elite_camo_Tag"								"Invernal"
+
+// END COMMUNITY_31
 
 		//Recipes
 		"CSGO_Recipe_TradeUp"						"Contrato de mejora"
@@ -22606,6 +22873,7 @@
 		"SFUI_Map_dz_frostbite"	"Frostbite"
 		"SFUI_Map_dz_county"	"County"
 
+		"SFUI_Map_de_blagai"	"Blagai"
 		"SFUI_Map_de_mutiny"		"Mutiny"
 		"SFUI_Map_de_swamp"			"Swamp"
 		"SFUI_Map_de_anubis"		"Anubis"
@@ -22632,7 +22900,7 @@
 		"SFUI_Map_de_iris"		"Iris"
 		"SFUI_Map_cs_climb"		"Climb"
 		"SFUI_Map_de_crete"		"Crete"
-		"SFUI_Map_de_hive"		"Colmena"
+		"SFUI_Map_de_hive"		"Hive"
 		"SFUI_Map_dz_vineyard"	"Vineyard"
 		"SFUI_Map_dz_ember"		"Ember"
 		
@@ -23545,6 +23813,7 @@
 		"CSGO_Watch_Cat_Tournament_15"      "Katowice 2019"
 		"CSGO_Watch_Cat_Tournament_16"      "Berlín 2019"
 		"CSGO_Watch_Cat_Tournament_18"      "Estocolmo 2021"
+		"CSGO_Watch_Cat_Tournament_19"      "Amberes 2022"
 		"CSGO_Play_PickEm"					"Jugar al Desafío Pick'Em"
 		"CSGO_Play_FantasyPickEm"			"Jugar Equipo Fantasía/Pick'Em"
 		"CSGO_Watch_Copy_Url"				"Copiar enlace"
@@ -26132,6 +26401,8 @@
 		"SFUI_SteamInputControllerGyroRequiredTitle"	"Mando con giroscopio recomendado"
 
 		"SFUI_SteamInputControllerNotDetected"		"No se ha detectado ningún mando. Conecta un mando, preferiblemente con funcionalidad de giroscopio."
+		"SFUI_SteamInputControllerGyroRequiredMessage"	"Se ha detectado un mando, pero no tiene giroscopio.\n\nNota: Las trampas de precisión no están disponibles para los jugadores con mando.\n\nPor eso, recomendamos utilizar mandos con giroscopio, como:\n\n    • Steam Deck\n    • Steam Controller\n    • DualShock® 4\n    • DualSense®\n    • Mando Pro de Nintendo Switch™"
+		
 		"SFUI_InvertPitch"							"Invertir eje Y (cabeceo)"
 		"SFUI_InvertYaw"							"Invertir eje X (guiñada)"
 		"SFUI_DeadzoneMin"							"Zona muerta circular"
@@ -27100,7 +27371,7 @@
 
 		"SFUI_QMM_State_find_registering"			"Conectando con los servidores..."
 		"SFUI_QMM_State_find_heartbeating"			"Actualizando información de matchmaking..."
-		"SFUI_QMM_State_find_unavailable"			"Matchmaking no disponible. Reintentándolo..."
+		"SFUI_QMM_State_find_unavailable"			"<font color='#EED03F'>Matchmaking no disponible. Reintentándolo...</font>"
 		"SFUI_QMM_State_find_searching"				"Buscando jugadores y servidores..."
 		"SFUI_QMM_State_find_reserved"				"Confirmando partida..."
 		"SFUI_QMM_State_find_connect"				"Iniciando partida..."
@@ -27110,12 +27381,12 @@
 
 		"SFUI_QMM_State_reconnect_registering"		"Reconectando con los servidores de matchmaking..."
 		"SFUI_QMM_State_reconnect_heartbeating"		"Obteniendo información de matchmaking..."
-		"SFUI_QMM_State_reconnect_unavailable"		"Conexión no disponible. Reintentándolo..."
+		"SFUI_QMM_State_reconnect_unavailable"		"<font color='#EED03F'>Conexión no disponible. Reintentándolo...</font>"
 		"SFUI_QMM_State_reconnect_searching"		"Comprobando el estado del servidor para la reconexión..."
 		"SFUI_QMM_State_reconnect_reserved"			"Reconectando con el servidor de juego..."
 		"SFUI_QMM_State_reconnect_connect"			"Reconectando con la partida..."
 
-		"SFUI_QMM_State_outofdate_outofdate"		"Tu cliente necesita actualizarse. Por favor, reinícialo."
+		"SFUI_QMM_State_outofdate_outofdate"		"<font color='#FF0000'>Tu cliente necesita actualizarse. Por favor, reinícialo.</font>"
 
 		"SFUI_MainMenu_Outofdate_Title"				"Tu cliente necesita actualizarse"
 		"SFUI_MainMenu_Outofdate_Body"				"Reinicia el juego para obtener la actualización más reciente."
@@ -27852,6 +28123,7 @@
 
 		"SFUI_MajorEventVenue_Title_19_2"		"En directo desde Amberes"
 		"SFUI_MajorEventVenue_Subtitle_19_2"	"Observa a los mejores equipos del mundo competir en el Major Championship de CS:GO PGL Amberes 2022"
+		"SFUI_MajorEventVenue_StreamTitle_19_2" "Amberes 2022 - Major PGL - Retransmisión en directo"
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		// Countries
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -28621,11 +28893,14 @@
 		"SFUI_ProPlayer_luckydk"    "Philip Ewald"
 		"SFUI_ProPlayer_lack1"    "Viktor Boldyrev"
 		"SFUI_ProPlayer_dav1g"    "David Granado Bermudo"
+		"SFUI_ProPlayer_blamef" "Benjamin Vang Bremer"
 		"SFUI_ProPlayer_blitz" "Garidmagnai Byambasuren"
+		"SFUI_ProPlayer_dav1d" "David Maldonado"
 		"SFUI_ProPlayer_dgt" "Franco Cabrera"
 		"SFUI_ProPlayer_es3tag" "Patrick Hansen"
 		"SFUI_ProPlayer_exit" "Raphael Lacerda"
 		"SFUI_ProPlayer_fang" "Justin Coakley"
+		"SFUI_ProPlayer_farlig" "Asger Chen Jensen"
 		"SFUI_ProPlayer_faven" "Josef Baumann"
 		"SFUI_ProPlayer_floppy" "Ricky Kemery"
 		"SFUI_ProPlayer_gxx" "Genc Kolgeci"
@@ -28634,22 +28909,32 @@
 		"SFUI_ProPlayer_jt" "Ioannis Theodosiou"
 		"SFUI_ProPlayer_juanflatroo" "Flatron Halimi"
 		"SFUI_ProPlayer_junior" "Paytyn Johnson"
+		"SFUI_ProPlayer_kabal" "Batbayar Bat-Enkh"
+		"SFUI_ProPlayer_kensi" "Aleksandr Gurkin"
 		"SFUI_ProPlayer_krimbo" "Karim Moussa"
 		"SFUI_ProPlayer_luken" "Luca Nadotti"
 		"SFUI_ProPlayer_m0nesy" "Ilia Osipov"
 		"SFUI_ProPlayer_maden" "Pavle Bošković"
 		"SFUI_ProPlayer_max" "Maximiliano González"
 		"SFUI_ProPlayer_nin9" "Yesuntumur Gantulga"
+		"SFUI_ProPlayer_norwi" "Evgenii Ermolin"
 		"SFUI_ProPlayer_osee" "Josh Ohm"
 		"SFUI_ProPlayer_patsi" "Robert Isianov"
 		"SFUI_ProPlayer_rigon" "Rigon Gashi"
 		"SFUI_ProPlayer_rox" "Martin Molina"
 		"SFUI_ProPlayer_s1ren" "Pavel Ogloblin"
 		"SFUI_ProPlayer_sener1" "Sener Mahmuti"
+		"SFUI_ProPlayer_shalfey" "Aleksandr Marenov"
+		"SFUI_ProPlayer_sinnopsyy" "Dionis Budeci"
 		"SFUI_ProPlayer_sk0r" "Tengis Batjargal"
 		"SFUI_ProPlayer_techno4k" "Munkhbold Sodbayar"
 		"SFUI_ProPlayer_tuurtle" "Matheus Anhaia"
+		"SFUI_ProPlayer_wood7" "Adriano Cerato"
 		"SFUI_ProPlayer_xfl0ud" "Yasin Koc"
+		"SFUI_ProPlayer_zorte" "Aleksandr Zagodyrenko"
+
+
+
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Leaderboards
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -30018,6 +30303,7 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 	// Blacksite
 	"SurvivalMapLocation_Lighthouse" 						"Faro"
 	"SurvivalMapLocation_Bridge" 						"Puente"
+	"SurvivalMapLocation_Canyon" 						"Cañada"
 	"SurvivalMapLocation_Cliffs" 						"Acantilados"
 	"SurvivalMapLocation_Delta" 						"Delta"
 	"SurvivalMapLocation_Construction" 						"Obra"
@@ -30231,11 +30517,14 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 		//Player Profile
 		"skillgroup_0"						"Grupo de habilidad oculto"
 		"skillgroup_expired"				"Grupo de habilidad caducado"
+		"skillgroup_recalibrating"			"Recalibrando grupo de habilidad"
 		"skillgroup_locked"					"Desbloquea tu grupo de habilidad con Prime"
 		"skillgroup_0wingman"				"Grupo hab. de Compañero oculto"
 		"skillgroup_expiredwingman"			"Grupo de habilidad de Compañero caducado"
+		"skillgroup_recalibratingwingman"	"Recalibrando grupo de habilidad de Compañero"
 		"skillgroup_0dangerzone"			"Grupo de habilidad de Danger Zone oculto"
 		"skillgroup_expireddangerzone"		"Grupo hab. Danger Zone oculto"
+		"skillgroup_recalibratingdangerzone"	"Recalibrando grupo de habilidad de Danger Zone"
 		"skillgroup_1"						"Plata I"
 		"skillgroup_2"						"Plata II"
 		"skillgroup_3"						"Plata III"
@@ -30333,6 +30622,8 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 		"DirectChallenge_Help_personal_desc"		"¡Haz la cola en solitario o con un compañero, o crea tu equipo y desafía a otro quinteto! No hay límite en la cantidad de personas que pueden entrar en tu cola privada, así que siéntete libre de compartir tu código con docenas o miles de tus amigos más cercanos."				
 
 		"DirectChallenge_Help_clan_title"			"<b>Haz una cola con miembros de tus grupos de Steam</b>"
+		"DirectChallenge_Help_clan_desc"			"¡Únete a una comunidad existente o crea una propia! Elige un grupo de Steam de tu lista para jugar con otros miembros del grupo."	
+
 		"DirectChallenge_Help_note"					"<i>Las colas privadas no proporcionan EXP ni progreso en las misiones.</i>"
 
 		"DirectChallenge_EnterKeyField"				"Introduce un código de cola"
@@ -30611,6 +30902,7 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 		"popup_casket_title_remove"			"Recuperando de la unidad"
 		"popup_casket_title_loadcontents"	"Accediendo a la unidad"
 
+		"popup_inv_lootlist_count"		"{d:index}/{d:total}"
 		"popup_casket_title_error_casket_too_full"		"Unidad de almacenamiento llena"
 		"popup_casket_message_error_casket_too_full"	"El objeto no se ha podido transferir porque la unidad de almacenamiento seleccionada está llena. Puedes comprar más unidades de almacenamiento en la tienda del juego."
 
@@ -31259,6 +31551,7 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 		"CSGO_Workshop_Mode_training"				"Entrenamiento"
 		"CSGO_Workshop_Mode_coopstrike"				"Ataque cooperativo"
 		"CSGO_Workshop_Mode_custom"					"Personalizado"
+		"CSGO_Workshop_Mode_armsrace"				"Carrera de Armamentos"
 		"CSGO_Workshop_Mode_demolition"				"Demolición"
 		"CSGO_Workshop_Mode_flyingscoutsman"		"Cazapatos"
 		"CSGO_Workshop_Mode_retakes"				"Recaptura"
@@ -31378,14 +31671,17 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 		"tooltip_skill_group_generic"	"En el matchmaking competitivo, el grupo de habilidad se usa para encontrar partidas acordes con la experiencia del jugador."
 		"tooltip_skill_group_none"		"Gana <b>{d:winsneeded}</b> partidas competitivas para mostrar tu grupo de habilidad."
 		"tooltip_skill_group_expired"	"Tu grupo de habilidad ha expirado por inactividad. Gana una partida para que se muestre de nuevo."
+		"tooltip_skill_group_recalibrating"	"Tu grupo de habilidad se está recalibrando. Gana una partida para que se muestre de nuevo."
 		"tooltip_skill_group_locked"	"Los grupos de habilidad se actualizan jugando partidas clasificatorias. Compra la actualización a estatus Prime para descongelar tu grupo de habilidad."
 
 		"tooltip_skill_group_genericwingman"	"En Compañero, el grupo de habilidad se utiliza para encontrar partidas adecuadas a la habilidad del jugador."
 		"tooltip_skill_group_nonewingman"		"Gana <b>{d:winsneeded}</b> partidas de Compañero para mostrar tu grupo de habilidad."
 		"tooltip_skill_group_expiredwingman"	"Tu grupo de habilidad de Compañero ha expirado por inactividad. Gana una partida para que se muestre de nuevo."
+		"tooltip_skill_group_recalibratingwingman"	"Tu grupo de habilidad de Compañero se está recalibrando. Gana una partida para que se muestre de nuevo."
 		"tooltip_skill_group_genericdangerzone"	"El grupo de habilidad de Danger Zone representa el éxito del jugador en las partidas oficiales de Danger Zone."
 		"tooltip_skill_group_nonedangerzone"	"El grupo de habilidad de Danger Zone se tiene que calibrar. Completa unas partidas de Danger Zone para mostrar tu grupo de habilidad."
 		"tooltip_skill_group_expireddangerzone"	"El grupo de habilidad de Danger Zone se tiene que calibrar. Completa unas partidas de Danger Zone para mostrar tu grupo de habilidad."
+		"tooltip_skill_group_recalibratingdangerzone"	"El grupo de habilidad de Danger Zone se tiene que calibrar. Completa unas partidas de Danger Zone para mostrar tu grupo de habilidad."
 		"tooltip_skill_group_wins"				"<img src='file://{images}/icons/ui/trophy.svg' vspace='6' class='player-card-tooltip-icon'/> {d:wins} victorias"
 
 		"tooltip_xp_current"			"Tu EXP actual es {s:xpcurrent}"
@@ -31928,6 +32224,7 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 		"eom-skillgroup-needed-wins"	"Gana {d:num_matches} partidas para mostrar tu grupo de habilidad"
 		"eom-skillgroup-needed-win"		"Gana {d:num_matches} partida para mostrar tu grupo de habilidad"
 		"eom-skillgroup-expired"		"Grupo de habilidad expirado; gana 1 partida de {s:eom_mode} para mostrarlo"
+		"eom-skillgroup-recalibrating"	"Recalibrando grupo de habilidad. Gana una partida de {s:eom_mode} para mostrarlo."
 		"eom-skillgroup-higher"			"Grupo más alto"
 		"eom-skillgroup-name"			"Tu grupo de habilidad de {s:eom_mode}"
 		"eom-skillgroup-needed-dzgames"	"Juega más partidas de Danger Zone para mostrar tu grupo de habilidad"
@@ -33040,8 +33337,8 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 
 		"Propcounter_money" "%s1 $" //e.g. used on danger zone security door
 
-// crow_mask_36163_comment
-// crow_mask_36164_comment
+// crow_mask_36451_comment
+// crow_mask_36452_comment
 }
 
 

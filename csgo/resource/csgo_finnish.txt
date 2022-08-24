@@ -2007,7 +2007,6 @@
 		"Econ_Loot_List_Sticker_ProOrgsStickers"	"Tarra edustaa yhtä seuraavista organisaatioista:"
 		"Econ_Loot_List_Sticker_ProOrgsPatches"		"Hihamerkki edustaa yhtä seuraavista organisaatioista:"
 		"Econ_Loot_List_Sticker_ProOrgs_AndSomeMore" "... ja %s1 muuta organisaatiota"
-
 		"Econ_Revolving_Loot_List"				"Sisältää yhden seuraavista:"
 		"Econ_Revolving_Loot_List_Rare_Item"	"tai erittäin harvinaisen erikoisesineen!"
 		"Exceedingly_Rare_Item"					"★ Harvinainen erikoisesine ★"
@@ -2439,7 +2438,6 @@
 		"CSGO_Operation_Leaderboard_2v2"		"Kavereiden Asetoveri-johtotilannetaulukko"
 		"CSGO_Operation_Leaderboard_5v5"		"Kavereiden asemestaruuden tulostaulukko"
 		"CSGO_Operation_Leaderboard_xp"			"Saavutettujen kokemuspisteiden tilastotaulukko"
-		"CSGO_Operation_Leaderboard_Pickem"		"Cologne 2014 Pick'Em -haasteen tulostaulu"
 		"CSGO_Operation_Leaderboard_Pickem_Friends"		"KAVERIT"
 		"CSGO_Operation_Leaderboard_Pickem_Points"		"PISTEET"
 		"CSGO_Operation_Leaderboard_Pickem_Percent"		"MAAILMANLAAJUINEN SIJOITUS"
@@ -2458,13 +2456,11 @@
 		"CSGO_official_leaderboard_pickem_eslcologne2014"	"Pick'Em-haaste"
 		"CSGO_official_leaderboard_pickem_dhw2014"	        "DreamHack 2014 Pick'Em -haaste"
 		"CSGO_official_leaderboard_pickem_kat2015"	        "Katowice 2015 Pick'Em -haaste"
-		"CSGO_official_leaderboard_pickem_eslcologne2015"	"Cologne 2015 Pick'Em -haaste"
 		"CSGO_official_leaderboard_pickem_cluj2015_fantasy"	"Cluj-Napoca 2015 -fantasiajoukkuepeli"
 		"CSGO_official_leaderboard_pickem_cluj2015_team"	"Cluj-Napoca 2015 Pick'Em -haaste"
 		"CSGO_official_leaderboard_pickem_columbus2016_fantasy"	"Columbus 2016 -fantasiatiimipeli"
 		"CSGO_official_leaderboard_pickem_columbus2016_team"	"Columbus 2016 Pick'Em -haaste"
 		"CSGO_official_leaderboard_pickem_cologne2016_fantasy"	"Cologne 2016 -fantasiatiimipeli"
-		"CSGO_official_leaderboard_pickem_cologne2016_team"	"Cologne 2016 Pick'Em -haaste"
 		"CSGO_official_leaderboard_pickem_atlanta2017_team"	"Atlanta 2017 Pick'Em -haaste"
 		"CSGO_official_leaderboard_pickem_krakow2017_team"	"Krakova 2017 Pick'Em Challenge"
 		"CSGO_official_leaderboard_pickem_boston2018_team"	"Boston 2018 Pick'Em -haaste"
@@ -2838,7 +2834,6 @@
 		"CSGO_CollectibleCoin_FiveYearService_Desc"	"On ollut Counter-Strike-yhteisön jäsen yli 5 vuotta."
 		"CSGO_CollectibleCoin_TenYearService"		"10 vuoden veteraanimitali"
 		"CSGO_CollectibleCoin_TenYearService_Desc"	"On ollut Counter-Strike-yhteisön jäsen yli 10 vuotta."
-
 		"CSGO_CollectibleCoin_DH2013_Champion"				"DreamHack 2013 -mestari"
 		"CSGO_CollectibleCoin_DH2013_Champion_Desc"			"Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS:GO-turnauksen voittajalle."
 		"CSGO_CollectibleCoin_DH2013_Finalist"				"DreamHack 2013 -finalisti"
@@ -2866,7 +2861,6 @@
 		"CSGO_CollectibleCoin_Cologne2014_QuarterFinalist"		"ESL One Cologne 2014 -neljännesfinalisti"
 		"CSGO_CollectibleCoin_Cologne2014_QuarterFinalist_Desc"	"Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS:GO-turnauksen neljännesfinalistille."
 		
-		"CSGO_CollectibleCoin_Cologne2014_PickEmBronze"			"Pronssinen Cologne 2014 Pick'Em -haastepalkinto"
 		"CSGO_CollectibleCoin_Cologne2014_PickEmBronze_Desc"	"Tämä pronssinen palkinto annettiin ESL One Cologne 2014 Pick'Em -haasteen aikana."
 		"CSGO_CollectibleCoin_Cologne2014_PickEmSilver"			"Hopeinen Cologne 2014 Pick'Em -haastepalkinto"
 		"CSGO_CollectibleCoin_Cologne2014_PickEmSilver_Desc"	"Tämä hopeinen palkinto annettiin ESL One Cologne 2014 Pick'Em -haasteen aikana."
@@ -3729,9 +3723,8 @@
 		"CSGO_crate_sticker_pack_spring2022_capsule"	    		"Johtajisto-tarrakapseli"
 		"CSGO_crate_sticker_pack_spring2022_capsule_desc"			"Kapseli sisältää useita Steam Workshop -taiteilijoiden tekemiä tarroja. Se julkaistiin helmikuussa 2022."
 		"coupon_spring2022_sticker_capsule"							"Johtajisto-tarrakapseli"
-		
 
-"SprayKit_vcap1_ace_01"		"Ässä"
+		"SprayKit_vcap1_ace_01"		"Ässä"
 "SprayKit_desc_vcap1_ace_01"	" "
 "SprayKit_vcap1_banana"		"Banaani"
 "SprayKit_desc_vcap1_banana"	" "
@@ -8270,21 +8263,18 @@
 	"StickerKit_eslcologne2015_signature_pronax" "pronax | Cologne 2015"
 	"StickerKit_desc_eslcologne2015_signature_pronax" "Tämän tarran on nimikirjoittanut ammattilaispelaaja Markus Wallsten, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 	"StickerKit_eslcologne2015_signature_pronax_foil" "pronax (kiilto) | Cologne 2015"
-	"StickerKit_desc_eslcologne2015_signature_pronax_foil" "Tämän kiiltotarran on nimikirjoittanut ammattilaispelaaja Markus Wallsten, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 	"StickerKit_eslcologne2015_signature_pronax_gold" "pronax (kulta) | Cologne 2015"
 	"StickerKit_desc_eslcologne2015_signature_pronax_gold" "Tämän kultatarran on nimikirjoittanut ammattilaispelaaja Markus Wallsten, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 
 	"StickerKit_eslcologne2015_signature_flusha" "flusha | Cologne 2015"
 	"StickerKit_desc_eslcologne2015_signature_flusha" "Tämän tarran on nimikirjoittanut ammattilaispelaaja Robin Rönnquist, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 	"StickerKit_eslcologne2015_signature_flusha_foil" "flusha (kiilto) | Cologne 2015"
-	"StickerKit_desc_eslcologne2015_signature_flusha_foil" "Tämän kiiltotarran on nimikirjoittanut ammattilaispelaaja Robin Rönnquist, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 	"StickerKit_eslcologne2015_signature_flusha_gold" "flusha (kulta) | Cologne 2015"
 	"StickerKit_desc_eslcologne2015_signature_flusha_gold" "Tämän kultatarran on nimikirjoittanut ammattilaispelaaja Robin Rönnquist, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 
 	"StickerKit_eslcologne2015_signature_jw" "JW | Köln 2015"
 	"StickerKit_desc_eslcologne2015_signature_jw" "Tämän tarran on nimikirjoittanut ammattilaispelaaja Jesper Wecksell, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 	"StickerKit_eslcologne2015_signature_jw_foil" "JW (kiilto) | Cologne 2015"
-	"StickerKit_desc_eslcologne2015_signature_jw_foil" "Tämän kiiltotarran on nimikirjoittanut ammattilaispelaaja Jesper Wecksell, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 	"StickerKit_eslcologne2015_signature_jw_gold" "JW (kulta) | Cologne 2015"
 	"StickerKit_desc_eslcologne2015_signature_jw_gold" "Tämän kultatarran on nimikirjoittanut ammattilaispelaaja Jesper Wecksell, joka pelasi Fnaticissa ESL One Cologne 2015 -turnauksessa.\n\n50 % tämän tarran myyntituloista käytetään mukana olleiden pelaajien ja järjestöjen tukemiseen."
 
@@ -17030,7 +17020,6 @@
 	"CSGO_TournamentPass_stockh2021_pack_tinyname" "Passi ja poletit"
 	"CSGO_TournamentPass_stockh2021_pack_Desc" "Tämä on sinetöity PGL 2021 Tukholman CS:GO Major -turnauksen katsojapassi. Avaamalla passin saat Tukholma 2021 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Tukholma 2021 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\n\nVoit päivittää Tukholma 2021 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\n\nTämä katsojapassi aktivoi Tukholma 2021 -kolikkosi kolmella tuliaispoletilla.\n\n50 % myyntituloista käytetään mukana olleiden järjestöjen tukemiseen."
 	"CSGO_TournamentPass_stockh2021_charge" "Tukholma 2021 -tuliaispoletti"
-	"CSGO_TournamentPass_stockh2021_charge_Desc" "Tämä on sinetöity PGL 2021 Tuhkolman CS:GO Major -turnauksen tuliaispoletti. Kun poletin sinetti on avattu, poletti lisätään Tukholma 2021 -kolikkoosi, ja voit lunastaa tuliaispaketin.\n\nPoletteja voi käyttää ainoastaan olemassaolevaan Tuhkolma 2021 -kolikkoosi."
 	"CSGO_TournamentJournal_stockh2021" "Tukholma 2021 -kolikko"
 	"CSGO_TournamentJournal_stockh2021_Desc" "Tämä on  PGL 2021 Tukholma CS:GO Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Tukholma 2021 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajattomaan joukkuegraffitin käyttöön tapahtuman aikana.\n\nVoit päivittää Tukholma 2021 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin."
 	"CSGO_TournamentJournal_stockh2021_Silver" "Tukholma 2021 -hopeakolikko"
@@ -17491,6 +17480,31 @@
 //
 //
 //
+	"StickerKit_antwerp2022_team_hero_glitter" "Heroic (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_cope_glitter" "Copenhagen Flames (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_big_glitter" "BIG (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_c9_glitter" "Cloud9 (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_furi_glitter" "FURIA (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_faze_glitter" "FaZe Clan (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_nip_glitter" "Ninjas in Pyjamas (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_navi_glitter" "Natus Vincere (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_ence_glitter" "ENCE (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_g2_glitter" "G2 Esports (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_forz_glitter" "forZe eSports (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_astr_glitter" "Astralis (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_vita_glitter" "Vitality (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_mibr_glitter" "MIBR (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_imp_glitter" "Imperial Esports (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_bne_glitter" "Bad News Eagles (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_eter_glitter" "Eternal Fire (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_spir_glitter" "Team Spirit (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_out_glitter" "Outsiders (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_cplx_glitter" "Complexity Gaming (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_ihc_glitter" "IHC Esports (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_ren_glitter" "Renegades (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_liq_glitter" "Team Liquid (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_nine_glitter" "9z Team (hile) | Antwerpen 2022"
+	"StickerKit_antwerp2022_team_pgl_glitter" "PGL (hile) | Antwerpen 2022"
 	//
 		// 2022 PGL Antwerp CS:GO Major Championship Strings Block End
 		// ======================================
@@ -18246,7 +18260,7 @@
 		"StickerKit_spring2022_inferno_diorama_foil"					"Helvetillinen diorama (kiilto)"
 		"StickerKit_spring2022_real_mvp_foil"							"Todellinen tähtipelaaja (kiilto)"
 		"StickerKit_spring2022_rock_paper_scissors_foil"				"Kivi, paperi, sakset (kiilto)"
-		"PatchKit_patch_banana"            "Hullu banaani"
+"PatchKit_patch_banana"            "Hullu banaani"
 		"PatchKit_desc_patch_banana"       "<i>Vertailukelpoinen agentti.</i>"
 		"PatchKit_patch_boss"              "Kingi"
 		"PatchKit_desc_patch_boss"         "<i>Levoton kruunun painama on agentin pää.</i>"
@@ -21309,9 +21323,6 @@
 	"PaintKit_cu_mag7_monster_call"								"Aseessa on sinisellä taustalla vedessä eläviä olioita.\n\n<i>Aina jossain on isompi, vihreämpi kala.</i>"
 	"PaintKit_cu_mag7_monster_call_Tag"							"Hirviön kutsu"
 
-	"PaintKit_cu_deag_printstream"								"Se on maalattu jyrkällä mustan ja valkoisen kontrastilla ja viimeistelty helmiäisyksityskohdilla.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1;</i>"
-	"PaintKit_cu_deag_printstream_Tag"							"Printstream"
-
 	"PaintKit_cu_glock_eyecontact"								"Silmäpari koristaa tämän mittatilauksena tehdyn pop-taiteesta inspiroituneen Glockin kylkeä. \n\n<i>\"Kato mua, kun ammun sua!\"</i>"
 	"PaintKit_cu_glock_eyecontact_Tag"							"Vogue"
 
@@ -21380,7 +21391,6 @@
 	"PaintKit_cu_m249_deep_relief_Tag"							"Maastokartta"
 
 	"PaintKit_cu_m4a1s_printstream"								"Se on maalattu jyrkällä mustan ja valkoisen kontrastilla ja viimeistelty helmiäisyksityskohdilla.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;</i>"
-	"PaintKit_cu_m4a1s_printstream_Tag"							"Printstream"
 
 	"PaintKit_cu_m4a4_cyberpunk"								"M4:n mustalle taustalle on maalattu siniset, punaiset ja kultaiset poikkijuovat.\n\n<i>NYT SAATAVILLA PAIKALLISELTA KYBERNETIIKKAKAUPPIAALTASI.</i>"
 	"PaintKit_cu_m4a4_cyberpunk_Tag"							"Kyberturva"
@@ -21516,7 +21526,6 @@
 	"PaintKit_hy_ancient_tiles_peach"							"Aseeseen on tehty kalpean vihreästä, kellanruskeasta ja punaisesta koostuva antiikkinen laattakuvio.\n\n<i>\"Toivo säilyy. Myös niillä, joiden matka alkoi väärältä polulta.\"</i>"
 	"PaintKit_hy_ancient_tiles_peach_Tag"						"Tuulahdus menneisyydestä"
 
-	"PaintKit_am_gold_brick"									"Aseen kultainen viimeistely kimmeltää valossa tuoden sen kaikki puutteet kauniisti esiin.\n\n<i>Kaikki mikä kiiltää...</i>"
 	"PaintKit_am_gold_brick_Tag"								"Kultaharkko"
 	
 	"PaintKit_sp_ancient_bright"								"Puna-vihreä kuviointi, jossa on yksityiskohtaista piirrosjälkeä ja muinaisia otuksia.\n\n<i>Olet etuoikeutettu.</i>"
@@ -21792,8 +21801,7 @@
 	
 	"PaintKit_cu_sawedoff_ouija"									"Asetta koristaa paljon pelattu spiritismilauta.\n\n<i>\"Tiedän, että sä liikutat sitä...\"</i>"
 	"PaintKit_cu_sawedoff_ouija_Tag"								"Spiritismilauta"
-
-// END COMMUNITY_30
+// END COMMUNITY_31
 
 		//Recipes
 		"CSGO_Recipe_TradeUp"						"Vaihtosopimus"
@@ -23333,7 +23341,6 @@
 		"CSGO_Watch_Info_Tournament_14"		"Tietoja FACEIT London 2018 -turnauksesta"
 		"CSGO_Watch_Info_Tournament_15"		"Lisätietoa IEM Katowice 2019 -turnauksesta"
 		"CSGO_Watch_Info_Tournament_16"		"Tietoja StarLadder Berliini 2019 -turnauksesta"
-		"CSGO_Watch_Info_Tournament_18"		"Tietoja PGL Tuhkolma 2021 -turnauksesta"
 		"CSGO_Watch_Stream_Provided"		"Lähetyksen tarjoaa"
 		"CSGO_Watch_External_Stream"		"Katso selaimessa"
 		"CSGO_Watch_External_YouTube"		"YouTube"
@@ -23464,7 +23471,6 @@
 		"CSGO_Watch_Tournament_Info_16"      "Paikka: Berliini, Saksa \n23.8.–8.9."
 		"CSGO_Watch_NoMatch_Tournament_16"   "StarLadder Berliini 2019 -ottelut listataan tänne.\nTällä hetkellä ei ole yhtään suoraa tai ladattavaa ottelua saatavilla."
 		"CSGO_Watch_Loading_Tournament_16"   "Ladataan StarLadder Berliini 2019 -otteluita..."
-		"CSGO_Watch_Tournament_Desc_18"      "PGL Tuhkolma 2021 CS:GO -mestaruuskilpailu oli PGL:n ensimmäisen Counter-Strike-major-turnaus, jossa on 2 000 000 Yhdysvaltain dollarin palkintopotti."
 		"CSGO_Watch_Tournament_Info_18"      "Paikka: Tukholma, Ruotsi \n26.10.–7.11."
 		"CSGO_Watch_NoMatch_Tournament_18"   "PGL Tukholma 2021 -ottelut listataan tänne.\nTällä hetkellä ei ole yhtään suoraa tai ladattavaa ottelua saatavilla."
 		"CSGO_Watch_Loading_Tournament_18"   "Ladataan PGL Tukholma 2021 -otteluita..."
@@ -32574,8 +32580,8 @@ Huomaa! Et voi käyttää kivääriä panssarihyökkäyspuvun kanssa."
 
 		"Propcounter_money" "%s1 $" //e.g. used on danger zone security door
 
-// crow_mask_36163_comment
-// crow_mask_36164_comment
+// crow_mask_36451_comment
+// crow_mask_36452_comment
 }
 
 

@@ -2009,6 +2009,7 @@
 		"Econ_Loot_List_Sticker_ProOrgsStickers"	"O autocolante pode representar uma das seguintes organizações:"
 		"Econ_Loot_List_Sticker_ProOrgsPatches"		"O emblema pode representar uma das seguintes organizações:"
 		"Econ_Loot_List_Sticker_ProOrgs_AndSomeMore" "... e %s1 outras organizações"
+		"Econ_Loot_List_AndSomeMoreItems" "... e mais %s1"
 
 		"Econ_Revolving_Loot_List"				"Contém um dos seguintes itens:"
 		"Econ_Revolving_Loot_List_Rare_Item"	"ou um item especial extremamente raro!"
@@ -2894,13 +2895,17 @@
 		"CSGO_Collectible_MapTokenAbbey"				"Moeda do Mapa \"Abbey\""
 		"CSGO_Collectible_MapTokenAbbey_Desc"			"
 "
-
+		"CSGO_Collectible_MapTokenTuscan"				"Moeda do Mapa \"Tuscan\""
+		"CSGO_Collectible_MapTokenPrime"				"Moeda do Mapa \"Primetime\""
+		"CSGO_Collectible_MapTokenBlagai"				"Moeda do Mapa \"Blagai\""
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"Medalha de Lealdade"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"Esta medalha comemora a tua participação leal na comunidade do Counter-Strike antes do lançamento do modo Zona de Perigo. <i>Da lealdade vem a força.</i>"
 		"CSGO_CollectibleCoin_FiveYearService"		"Moeda de Veterano de 5 Anos"
 		"CSGO_CollectibleCoin_FiveYearService_Desc"	"Este utilizador é um membro da comunidade do Counter-Strike há mais de 5 anos."
 		"CSGO_CollectibleCoin_TenYearService"		"Moeda de Veterano de 10 Anos"
 		"CSGO_CollectibleCoin_TenYearService_Desc"	"Este utilizador é um membro da comunidade do Counter-Strike há mais de 10 anos."
+		"CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia"		"Moeda do 10.º Aniversário"
+		"CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia_Desc"	"Este utilizador celebrou o 10.º aniversário do CS:GO com a comunidade do CS:GO.\n\n<i>Em homenagem a dez anos de headshots, clutches e jogadores dedicados. Feliz 10.º aniversário, CS:GO!</i>"
 
 		"CSGO_CollectibleCoin_DH2013_Champion"				"Campeão da DreamHack 2013"
 		"CSGO_CollectibleCoin_DH2013_Champion_Desc"			"Este troféu foi entregue aos membros da equipa campeã do campeonato de CS:GO da DreamHack SteelSeries 2013."
@@ -3828,6 +3833,14 @@
 		"CSGO_crate_sticker_pack_spring2022_capsule"	    		"Cápsula: Boardroom"
 		"CSGO_crate_sticker_pack_spring2022_capsule_desc"			"Esta cápsula contém um de vários autocolantes criados por artistas do Steam Workshop e foi lançada em fevereiro de 2022."
 		"coupon_spring2022_sticker_capsule"							"Cápsula: Boardroom"
+
+		"CSGO_crate_community_31"		"Caixa Recoil"
+		"CSGO_crate_key_community_31"			"Chave: Caixa Recoil"
+		"CSGO_crate_key_community_31_desc"		"Esta chave só abre Caixas Recoil"
+		
+		"CSGO_crate_sticker_pack_csgo10_capsule"	    		"Cápsula do 10.º Aniversário"
+		"CSGO_crate_sticker_pack_csgo10_capsule_desc"			"Esta cápsula contém um de vários autocolantes criados por artistas do Steam Workshop em comemoração do 10.º aniversário do CS:GO."
+		"coupon_csgo10_sticker_capsule"							"Cápsula do 10.º Aniversário"
 		
 
 "SprayKit_vcap1_ace_01"		"Ace"
@@ -4900,6 +4913,7 @@
 		"CSGO_set_vertigo_2021_short"		"Vertigo 2021"
 		"CSGO_set_community_29"			"A Coleção da Operação Riptide"
 		"CSGO_set_community_30"			"A Coleção Dreams & Nightmares"
+		"CSGO_set_community_31"			"A Coleção Recoil"
 		/////////////////
 		// lootlist override strings
 		//////////////////
@@ -20527,6 +20541,73 @@
 		"StickerKit_spring2022_inferno_diorama_foil"					"Inferno Diorama (Foil)"
 		"StickerKit_spring2022_real_mvp_foil"							"The Real MVP (Foil)"
 		"StickerKit_spring2022_rock_paper_scissors_foil"				"Rock, Paper, Scissors (Foil)"
+		//CSGO10 Sticker Capsule
+
+		"StickerKit_csgo10_arms_race_paper"								"Corrida às Armas"
+		"StickerKit_csgo10_b_day_paper"									"B-Day"
+		"StickerKit_csgo10_baby_cerberus_paper"							"Baby Cerberus"
+		"StickerKit_csgo10_baby_fire_serpent_paper"						"Baby Fire Serpent"
+		"StickerKit_csgo10_baby_lore_paper"								"Baby Lore"
+		"StickerKit_csgo10_baby_medusa_paper"							"Baby Medusa"
+		"StickerKit_csgo10_beaky_decade_paper"							"Beaky Decade"
+		"StickerKit_csgo10_booth_paper"									"Booth"
+		"StickerKit_csgo10_call_your_flashes_paper"						"Call Your Flashes"
+		"StickerKit_csgo10_chicken_whisperer_paper"						"Chicken Whisperer"
+		"StickerKit_csgo10_clicking_heads_paper"						"Clicking Heads"
+		"StickerKit_csgo10_co_co_cs_paper"								"Co Co Co"
+		"StickerKit_csgo10_cs_on_the_go_paper"							"C-S On The Go"
+		"StickerKit_csgo10_cursed_penmanship_paper"						"Cursed Penmanship"
+		"StickerKit_csgo10_dragon_tale_paper"							"Dragon Tale"
+		"StickerKit_csgo10_dragons_keep_paper"							"Dragon's Keep"
+		"StickerKit_csgo10_dreams_and_mimics_paper"						"Dreams And Mimics"
+		"StickerKit_csgo10_endless_cycle_paper"							"Endless Cycle"
+		"StickerKit_csgo10_exo_jumper_paper"							"Exo Jumper"
+		"StickerKit_csgo10_free_range_paper"							"Free Range"
+		"StickerKit_csgo10_glhf_paper"									"Good Sports"
+		"StickerKit_csgo10_go_paper"									"GO"
+		"StickerKit_csgo10_good_versus_evil_paper"						"Good Versus Evil"
+		"StickerKit_csgo10_green_problem_paper"							"Green's Problem"
+		"StickerKit_csgo10_laser_beam_paper"							"Laser Beam"
+		"StickerKit_csgo10_monster_paper"								"Monster"
+		"StickerKit_csgo10_noble_steed_paper"							"Noble Steed"
+		"StickerKit_csgo10_not_for_resale_paper"						"Not For Resale"
+		"StickerKit_csgo10_roshambo_paper"								"Choose Wisely"
+		"StickerKit_csgo10_rush_b_csgo10_paper"							"Shifty Tactics"
+		"StickerKit_csgo10_rush_more_paper"								"Rush More"
+		"StickerKit_csgo10_save_me_paper"								"Save Me"
+		"StickerKit_csgo10_select_agent_paper"							"Agent Select"
+		"StickerKit_csgo10_this_is_fine_h_paper"						"This Is Fine (H)"
+		"StickerKit_csgo10_tv_on_mirage_paper"							"TV On Mirage"
+		"StickerKit_csgo10_zeused_paper"								"Zeused"
+		"StickerKit_csgo10_ace_clutch_co_holo"							"Ace Clutch Co. (Holo)"
+		"StickerKit_csgo10_blue_gem_glitter"							"Blue Gem (Glitter)"
+		"StickerKit_csgo10_boom_glitter"								"Go Boom (Glitter)"
+		"StickerKit_csgo10_cbbl_holo"									"Cbbl (Holo)"
+		"StickerKit_csgo10_conspiracy_club_holo"						"Conspiracy Club (Holo)"
+		"StickerKit_csgo10_defuse_it_holo"								"Defuse It (Holo)"
+		"StickerKit_csgo10_get_smoked_holo"								"Get Smoked (Holo)"
+		"StickerKit_csgo10_kawaii_ct_holo"								"Kawaii CT (Holo)"
+		"StickerKit_csgo10_kawaii_t_holo"								"Kawaii T (Holo)"
+		"StickerKit_csgo10_baby_howl_paper"								"Baby Howl"
+		"StickerKit_csgo10_pain_train_holo"								"Pain Train (Holo)"
+		"StickerKit_csgo10_press_start_paper"							"Press Start"
+		"StickerKit_csgo10_train_heart_holo"							"Leaving The Station (Holo)"
+		"StickerKit_csgo10_vertigos_hero_holo"							"Vertigo's Hero (Holo)"
+		"StickerKit_csgo10_zeusception_holo"							"Zeusception (Holo)"
+		"StickerKit_csgo10_dust_fa_foil"								"Dust FA (Foil)"
+		"StickerKit_csgo10_in_the_fire_foil"							"In The Fire (Foil)"
+		"StickerKit_csgo10_jojo_csgo_foil"								"Approaching Site (Foil)"
+		"StickerKit_csgo10_overpass_b_foil"								"Overpass Diorama (Foil)"
+		"StickerKit_csgo10_pure_malt_foil"								"Pure Malt (Foil)"
+		"StickerKit_csgo10_showdown_foil"								"Showdown (Foil)"
+		"StickerKit_csgo10_ten_years_foil"								"Ten Years (Foil)"
+		"StickerKit_csgo10_wildfire_genie_foil"							"Romanov's Fire (Foil)"
+		"StickerKit_csgo10_freeze_lenticular"							"Freeze (Lenticular)"
+		"StickerKit_csgo10_gotv_lenticular"								"Global TV (Lenticular)"
+		"StickerKit_csgo10_magic_rush_ball_lenticular"					"Magic Rush Ball (Lenticular)"
+		"StickerKit_csgo10_music_kits_lenticular"						"DJ Safecracker (Lenticular)"
+		"StickerKit_csgo10_skin_lover_lenticular"						"Skin Lover (Lenticular)"
+		"StickerKit_csgo10_tv_installation_lenticular"					"TV Installation (Lenticular)"
 		"PatchKit_patch_banana"            "Crazy Banana"
 		"PatchKit_desc_patch_banana"       "<i>Para quê fotografar uma banana para se ter uma noção da escala, quando se pode usar um agente?</i>"
 		"PatchKit_patch_boss"              "The Boss"
@@ -23731,8 +23812,8 @@
 	"PaintKit_cu_mag7_monster_call"								"Esta arma em particular foi pintada com imagens de criaturas subaquáticas sobre um fundo azul.\n\n<i>Há sempre um peixe maior. E mais verde.</i>"
 	"PaintKit_cu_mag7_monster_call_Tag"							"Monster Call"
 
-	"PaintKit_cu_deag_printstream"								"Esta arma em particular foi decorada com um design preto e branco e um acabamento perolado.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1;</i>"
-	"PaintKit_cu_deag_printstream_Tag"							"Printstream"
+	"PaintKit_cu_printstream"									"Esta arma em particular foi decorada com um design preto e branco e um acabamento perolado.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1;</i>"
+	"PaintKit_cu_printstream_Tag"								"Printstream"
 
 	"PaintKit_cu_glock_eyecontact"								"O ferrolho desta Glock em particular foi decorado com um par de olhos inspirados no estilo Pop art.\n\n<i>\"Olha para mim enquanto estou a disparar contra ti!\"</i>"
 	"PaintKit_cu_glock_eyecontact_Tag"							"Vogue"
@@ -23802,7 +23883,6 @@
 	"PaintKit_cu_m249_deep_relief_Tag"							"Deep Relief"
 
 	"PaintKit_cu_m4a1s_printstream"								"Esta arma em particular foi decorada com um design preto e branco e um acabamento perolado.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;</i>"
-	"PaintKit_cu_m4a1s_printstream_Tag"							"Printstream"
 
 	"PaintKit_cu_m4a4_cyberpunk"								"Faixas diagnoais azuis, vermelhas e douradas foram pintadas sobre a camada base negra desta M4.\n\n<i>JÁ DISPONÍVEL NUMA LOJA DE PRODUTOS CIBERNÉTICOS PERTO DE SI</i>"
 	"PaintKit_cu_m4a4_cyberpunk_Tag"							"Cyber Security"
@@ -24216,6 +24296,60 @@
 	"PaintKit_cu_sawedoff_ouija_Tag"								"Spirit Board"
 
 // END COMMUNITY_30
+
+// COMMUNITY_31
+
+	"PaintKit_cu_usp_printstream"									"Esta arma em particular foi decorada com um design preto e branco e um acabamento perolado.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1; PISTOL_1;</i>"
+	
+	"PaintKit_cu_ak47_cogthings"									"Esta arma em particular foi pintada com uma vibrante gradação verde e azul.\n\n<i>Cores tão frias como a vingança</i>"
+	"PaintKit_cu_ak47_cogthings_Tag"								"Ice Coaled"
+
+	"PaintKit_cu_awp_chroma_pink"									"As cores desta arma em particular foram aplicadas em posições desalinhadas, resultando num efeito de aberração cromática.\n\n<i>Um regalo para os olhos (ou não)...</i>"
+	"PaintKit_cu_awp_chroma_pink_Tag"								"Chromatic Aberration"
+
+	"PaintKit_gs_revolver_purple_elite"								"O cano desta arma em particular foi pintado de roxo. O número 8 foi pintado na empunhadura.\n\n<i>Inspirado nos acontecimentos de 8 de dezembro de 2015</i>"
+	"PaintKit_gs_revolver_purple_elite_Tag"							"Crazy 8"
+
+	"PaintKit_gs_famas_corp_meow"									"Esta arma em particular foi decorada com o número 36 sobre um fundo verde.\n\n<i>Tecnicamente, são só quatro gatos, mas quem é que se vai dar ao trabalho de os contar?</i>"
+	"PaintKit_gs_famas_corp_meow_Tag"								"Meow 36"
+
+	"PaintKit_cu_galil_destroyer"									"Esta arma em particular foi decorada com a palavra \"DESTROYER\", a qual só pode ser lida a partir de certos ângulos.\n\n<i>Destrói-os a todos</i>"
+	"PaintKit_cu_galil_destroyer_Tag"								"Destroyer"
+
+	"PaintKit_cu_m249_downvote"										"Esta arma em particular foi decorada com setas azuis e cor-de-rosa a apontar em todas as direções.\n\n<i>Um tipo diferente de spray</i>"
+	"PaintKit_cu_m249_downvote_Tag"									"Downtown"
+
+	"PaintKit_cu_m4a4_elite_tactical"								"Esta arma em particular foi personalizada com um carregador de polímero transparente. A coronha, a empunhadura e o guarda-mão foram pintados de bege.\n\n<i>Procedimento operativo padrão</i>"
+	"PaintKit_cu_m4a4_elite_tactical_Tag"							"Poly Mag"
+
+	"PaintKit_cu_mac10_monkeyflage"									"Esta MAC-10 foi personalizada com desenhos de macacos vermelhos, beges e verdes.\n\n<i>Que MACacada!</i>"
+	"PaintKit_cu_mac10_monkeyflage_Tag"								"Monkeyflage"
+
+	"PaintKit_cu_sg553_cyber_dragon"								"Esta arma em particular foi pintada com a ilustração de um dragão verde biomecânico.\n\n<i>Não era o dragão de que estava à espera…</i>"
+	"PaintKit_cu_sg553_cyber_dragon_Tag"							"Dragon Tech"
+
+	"PaintKit_cu_negev_clear_sky"									"Esta arma em particular foi decorada com um sinal STOP sobre um fundo castanho perto da empunhadura frontal.\n\n<i>Se o sinal não te convencer a parar, a enxurrada de balas vai, com certeza</i>"
+	"PaintKit_cu_negev_clear_sky_Tag"								"Drop Me"
+
+	"PaintKit_gs_p250_visions"										"Esta arma em particular foi decorada com uma ilustração de cores vivas.\n\n<i>Mais vale este pássaro na mão do que dois a voar</i>"
+	"PaintKit_gs_p250_visions_Tag"									"Visions"
+
+	"PaintKit_gs_p90_tangled"										"Esta P90 em particular foi pintada de forma a que se pareça com uma amálgama de fita adesiva, tubos e um padrão de chamas.\n\n<i>Tão rápida que vai tudo à frente</i>"
+	"PaintKit_gs_p90_tangled_Tag"									"Vent Rush"
+
+	"PaintKit_cu_sawedoff_kisslove"									"Esta arma em particular foi decorada com uma ilustração roxa e cor-de-rosa de uma mulher com estrelas nos olhos.\n\n<i>\"Não vou aceitar um não como resposta! Eu tenho de ter isto!\"</i>"
+	"PaintKit_cu_sawedoff_kisslove_Tag"								"Kiss♥Love"
+
+	"PaintKit_cu_dual_elites_evil_flora"							"Cada uma destas duas Berettas foi decorada com ilustrações de três enormes e famintas plantas carnívoras de cores vivas.\n\n<i>Ajuda-as a crescer para que fiquem fortes e saudáveis</i>"
+	"PaintKit_cu_dual_elites_evil_flora_Tag"						"Flora Carnivora"
+
+	"PaintKit_gs_ump_roadblock"										"Esta arma em particular foi decorada com linhas horizontais alaranjadas e setas a apontar para a frente.\n\n<i>Uma via alternativa</i>"
+	"PaintKit_gs_ump_roadblock_Tag"									"Roadblock"
+
+	"PaintKit_gs_glock_elite_camo"									"Esta arma em particular foi decorada com um padrão de camuflagem militar de cores de inverno.\n\n<i>Um frio de matar</i>"
+	"PaintKit_gs_glock_elite_camo_Tag"								"Winterized"
+
+// END COMMUNITY_31
 
 		//Recipes
 		"CSGO_Recipe_TradeUp"						"Contrato de Conversão"
@@ -24793,6 +24927,10 @@
 		"SFUI_Map_dz_junglety"	"Jungle"
 		"SFUI_Map_dz_frostbite"	"Frostbite"
 		"SFUI_Map_dz_county"	"County"
+
+		"SFUI_Map_de_prime"		"Primetime"
+		"SFUI_Map_de_blagai"	"Blagai"
+		"SFUI_Map_de_tuscan"	"Tuscan"
 
 		"SFUI_Map_de_mutiny"		"Mutiny"
 		"SFUI_Map_de_swamp"			"Swamp"
@@ -27463,8 +27601,8 @@
 		"SFUI_vote_failed_team_cant_call"		"A tua equipa não pode pedir esta votação."
 		"SFUI_vote_failed_waitingforplayers"		"Votações não são permitidas durante o aquecimento."
 		"SFUI_vote_failed_cannot_kick_admin"		"Não podes votar para expulsar o administrador do servidor."
-		"SFUI_vote_failed_scramble_in_prog"		"As equipas estão a ser misturadas."
-		"SFUI_vote_failed_swap_in_prog"		"Uma Troca de Equipas está a decorrer."
+		"SFUI_vote_failed_scramble_in_prog"		"Está a decorrer uma mistura de equipas."
+		"SFUI_vote_failed_swap_in_prog"		"Está a decorrer uma troca de equipas."
 		"SFUI_vote_failed_spectator"			"Este servidor desativou a votação para os Espectadores."
 		"SFUI_vote_failed_disabled"			"Este servidor desativou votações."
 		"SFUI_vote_failed_nextlevel_set"		"O nível seguinte já foi definido."
@@ -29321,7 +29459,7 @@
 
 		"SFUI_QMM_State_find_registering"			"A fazer a ligação aos servidores de matchmaking..."
 		"SFUI_QMM_State_find_heartbeating"			"A atualizar informações de matchmaking..."
-		"SFUI_QMM_State_find_unavailable"			"Matchmaking indisponível, a tentar de novo."
+		"SFUI_QMM_State_find_unavailable"			"<font color='#EED03F'>Matchmaking indisponível, a tentar de novo...</font>"
 		"SFUI_QMM_State_find_searching"				"À procura de jogadores e servidores..."
 		"SFUI_QMM_State_find_reserved"				"A confirmar partida..."
 		"SFUI_QMM_State_find_connect"				"A iniciar partida..."
@@ -29331,7 +29469,7 @@
 
 		"SFUI_QMM_State_reconnect_registering"		"A retomar a ligação a servidores de matchmaking..."
 		"SFUI_QMM_State_reconnect_heartbeating"		"A recuperar informações de matchmaking..."
-		"SFUI_QMM_State_reconnect_unavailable"		"Ligação indisponível, a tentar de novo."
+		"SFUI_QMM_State_reconnect_unavailable"		"<font color='#EED03F'>Ligação indisponível, a tentar de novo...</font>"
 		"SFUI_QMM_State_reconnect_searching"		"A verificar estado do servidor para retomar a ligação..."
 		"SFUI_QMM_State_reconnect_reserved"			"A retomar ligação ao servidor..."
 		"SFUI_QMM_State_reconnect_connect"			"A retomar ligação à partida..."
@@ -32480,11 +32618,14 @@
 		//Player Profile
 		"skillgroup_0"						"Grupo de Habilidade oculto"
 		"skillgroup_expired"				"Grupo de Habilidade expirado"
+		"skillgroup_recalibrating"			"Grupo de Habilidade em recalibração"
 		"skillgroup_locked"					"Torna-te Prime e desbloqueia o Grupo de Habilidade"
 		"skillgroup_0wingman"				"Grupo de Habilidade oculto (Braço Direito)"
 		"skillgroup_expiredwingman"			"Grupo de Habilidade expirado (Braço Direito)"
+		"skillgroup_recalibratingwingman"	"GH em recalibração (Braço Direito)"
 		"skillgroup_0dangerzone"			"Grupo de Habilidade oculto (Zona de Perigo)"
 		"skillgroup_expireddangerzone"		"Grupo de Habilidade oculto (Zona de Perigo)"
+		"skillgroup_recalibratingdangerzone"	"GH em recalibração (Zona de Perigo)"
 		"skillgroup_1"						"Prata I"
 		"skillgroup_2"						"Prata II"
 		"skillgroup_3"						"Prata III"
@@ -32861,6 +33002,10 @@
 		"popup_casket_title_add"			"A mover para Unidade de Armazenamento"
 		"popup_casket_title_remove"			"A retirar de Unidade de Armazenamento"
 		"popup_casket_title_loadcontents"	"A aceder a Unidade de Armazenamento"
+
+		"popup_inv_lootlist_header"		"A examinar: {s:container}"
+		"popup_inv_lootlist_count"		"{d:index}/{d:total}"
+		"popup_inv_lootlist_inspect_all"	"EXAMINAR ITENS"
 
 		"popup_casket_title_error_casket_too_full"		"Unidade de Armazenamento cheia"
 		"popup_casket_message_error_casket_too_full"	"Não foi possível mover o teu item porque a Unidade de Armazenamento selecionada está cheia. Podes comprar mais Unidades de Armazenamento na loja do CS:GO."
@@ -33638,14 +33783,17 @@
 		"tooltip_skill_group_generic"	"O Grupo de Habilidade do modo Competitivo serve para encontrar partidas apropriadas à perícia dos jogadores."
 		"tooltip_skill_group_none"		"Vence <b>{d:winsneeded}</b> partidas competitivas para revelares o teu Grupo de Habilidade."
 		"tooltip_skill_group_expired"	"O teu Grupo de Habilidade expirou devido a inatividade, vence 1 partida para que volte a aparecer."
+		"tooltip_skill_group_recalibrating"	"O teu Grupo de Habilidade está a ser recalibrado, vence 1 partida para que volte a aparecer."
 		"tooltip_skill_group_locked"	"Grupos de Habilidade são atualizados ao jogar partidas classificatórias. Compra o Upgrade para Estatuto Prime para desbloqueares o teu Grupo de Habilidade."
 
 		"tooltip_skill_group_genericwingman"	"O Grupo de Habilidade do modo Braço Direito serve para encontrar partidas apropriadas à perícia dos jogadores."
 		"tooltip_skill_group_nonewingman"		"Vence <b>{d:winsneeded}</b> partidas no modo Braço Direito para revelares o teu Grupo de Habilidade"
-		"tooltip_skill_group_expiredwingman"	"O Grupo de Habilidade do modo Braço Direito expirou devido a inatividade, vence 1 partida para que volte a aparecer."
+		"tooltip_skill_group_expiredwingman"	"O teu Grupo de Habilidade de Braço Direito expirou devido a inatividade, vence 1 partida para que volte a aparecer."
+		"tooltip_skill_group_recalibratingwingman"	"O teu Grupo de Habilidade de Braço Direito está a ser recalibrado, vence 1 partida para que volte a aparecer."
 		"tooltip_skill_group_genericdangerzone"	"O Grupo de Habilidade da Zona de Perigo representa o êxito dos jogadores em partidas oficiais do modo Zona de Perigo."
-		"tooltip_skill_group_nonedangerzone"	"O Grupo de Habilidade da Zona de Perigo precisa de ser calibrado, completa algumas partidas no modo Zona de Perigo para revelares o teu Grupo de Habilidade."
-		"tooltip_skill_group_expireddangerzone"	"O Grupo de Habilidade da Zona de Perigo precisa de ser calibrado, completa algumas partidas no modo Zona de Perigo para revelares o teu Grupo de Habilidade."
+		"tooltip_skill_group_nonedangerzone"	"O teu Grupo de Habilidade de Zona de Perigo precisa de ser calibrado, completa algumas partidas no modo Zona de Perigo para que apareça."
+		"tooltip_skill_group_expireddangerzone"	"O teu Grupo de Habilidade de Zona de Perigo precisa de ser calibrado, completa algumas partidas no modo Zona de Perigo para que apareça."
+		"tooltip_skill_group_recalibratingdangerzone"	"O teu Grupo de Habilidade de Zona de Perigo precisa de ser calibrado, completa algumas partidas no modo Zona de Perigo para que apareça."
 		"tooltip_skill_group_wins"				"<img src='file://{images}/icons/ui/trophy.svg' vspace='6' class='player-card-tooltip-icon'/> {d:wins} Vitórias"
 
 		"tooltip_xp_current"			"XP atual: {s:xpcurrent}"
@@ -34244,6 +34392,7 @@
 		"eom-skillgroup-needed-wins"	"Vence {d:num_matches} partidas para revelares o teu Grupo de Habilidade"
 		"eom-skillgroup-needed-win"		"Vence {d:num_matches} partida para revelares o teu Grupo de Habilidade"
 		"eom-skillgroup-expired"		"Grupo de Habilidade expirado, vence 1 partida ({s:eom_mode}) para revelá-lo"
+		"eom-skillgroup-recalibrating"	"Grupo de Habilidade em recalibração, vence 1 partida no modo \"{s:eom_mode}\" para que apareça"
 		"eom-skillgroup-higher"			"Grupo mais alto"
 		"eom-skillgroup-name"			"O teu Grupo de Habilidade ({s:eom_mode})"
 		"eom-skillgroup-needed-dzgames"	"Joga mais partidas no modo Zona de Perigo para revelares o teu Grupo de Habilidade"
@@ -35366,8 +35515,8 @@
 
 		"Propcounter_money" "%s1$" //e.g. used on danger zone security door
 
-// crow_mask_36163_comment
-// crow_mask_36164_comment
+// crow_mask_36451_comment
+// crow_mask_36452_comment
 }
 
 
