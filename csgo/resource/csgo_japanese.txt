@@ -9463,7 +9463,11 @@
 //
 //
 	//
-		// 2022 PGL Antwerp CS:GO Major Championship Strings Block End
+//
+//
+//
+	//
+		// 2022 ESL Rio CS:GO Major Championship Strings Block End
 		// ======================================
 
 		//
@@ -10008,6 +10012,9 @@
 
 	"PaintKit_aq_xm1014_ziggy_anarchy_Tag"									"Ziggy"
 // END COMMUNITY_31
+
+
+
 
 		//Recipes
 		"CSGO_Recipe_TradeUp"						"トレードアップ契約"
@@ -10608,8 +10615,6 @@
 		"Store_Connecting_ToGc_Tooltip"			"CS:GO ネットワークに接続してログインしようとしています。しばらくお待ちください。マッチメイキング、インベントリ、装備、ロビー、招待、ストア等、CS:GO
  ネットワークを必要とする機能は現在利用できません。"
 		"Store_Confirm_Purchase" 				"購入の確認"
-
-
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Blog
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -10666,8 +10671,8 @@
 		"SFUI_MainMenu_Navigation_Submenu"				"${cancel} 戻る ${confirm} 選択 ${north} 招待の表示" [$PS3]
 		"SFUI_MainMenu_Navigation_Submenu_Invite_On"	"${cancel} 戻る ${confirm} 選択 ${north} 招待の表示 <img src='icon-invite.png'/> "
 
-		"SFUI_MainMenu_Navigation_Root"		" " [$WIN32]
-		"SFUI_MainMenu_Navigation_Submenu"	" " [$WIN32]
+		"SFUI_MainMenu_Navigation_Root"		"" [$WIN32]
+		"SFUI_MainMenu_Navigation_Submenu"	"" [$WIN32]
 
 		"SFUI_MainMenu_TickerText"		"本日のメッセージ: 全ての アバターギアがマーケットプレースで50%OFF！"
 
@@ -16714,8 +16719,8 @@ Sir Archibald David Stirlingにより創設された。"
 		"Panorama_FreezePanel_Killer1_Weapon_Plural" 		"{s:h:weapon_name}で倒された"
 //
 //
-// crow_mask_36451_comment
-// crow_mask_36452_comment
+// crow_mask_37835_comment
+// crow_mask_37836_comment
 }
 
 

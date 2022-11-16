@@ -2841,6 +2841,8 @@
 		"CSGO_CollectibleCoin_FiveYearService_Desc"	"已為《Counter-Strike》社群成員超過五年。"
 		"CSGO_CollectibleCoin_TenYearService"		"10 年老兵硬幣"
 		"CSGO_CollectibleCoin_TenYearService_Desc"	"已為《Counter-Strike》社群成員超過十年。"
+		"CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia_Desc"	"和 CS:GO 社群一起慶祝 CS:GO 的 10 歲生日。\n\n<b>慶祝十年的爆頭、反敗為勝和整個社群。10 歲生日快樂，CS:GO！</b>"
+
 		"CSGO_CollectibleCoin_DH2013_Champion"				"DreamHack 2013 的冠軍"
 		"CSGO_CollectibleCoin_DH2013_Champion_Desc"			"這塊獎牌是授予給 2013 年 DreamHack Steel Series CS:GO 錦標賽冠軍的。"
 		"CSGO_CollectibleCoin_DH2013_Finalist"				"DreamHack 2013 的決賽選手"
@@ -16358,8 +16360,54 @@
 //
 //
 //
+	"CSGO_TournamentPass_antwerp2022_pack_tinyname" "通行證與代幣"
+	"CSGO_crate_store_pack_antwerp2022_legends_groupname" "傳奇貼紙"
+	"CSGO_crate_store_pack_antwerp2022_challengers_groupname" "挑戰者貼紙"
+	"CSGO_crate_store_pack_antwerp2022_contenders_groupname" "競爭者貼紙"
+
+	"CSGO_crate_sticker_pack_antwerp2022_legends_tag" "Antwerp 2022 傳奇貼紙"
+	"CSGO_crate_sticker_pack_antwerp2022_legends_tinyname" "傳奇貼紙"
+	"CSGO_crate_sticker_pack_antwerp2022_challengers_tag" "Antwerp 2022 挑戰者貼紙"
+	"CSGO_crate_sticker_pack_antwerp2022_challengers_tinyname" "挑戰者貼紙"
+	"CSGO_crate_sticker_pack_antwerp2022_contenders_tag" "Antwerp 2022 競爭者貼紙"
+	"CSGO_crate_sticker_pack_antwerp2022_contenders_tinyname" "競爭者貼紙"
+	"CSGO_crate_signature_pack_antwerp2022_group_champions_tinyname" "冠軍簽名"
 	//
 		// 2022 PGL Antwerp CS:GO Major Championship Strings Block End
+		// ======================================
+
+		//
+		// 2022 ESL Rio CS:GO Major Championship Strings Block Begin
+		// ======================================
+
+//
+// Strings for all team stickers and capsules for Rio 2022 (auto-generated section)
+//
+	"CSGO_TournamentPass_rio2022_store_title" "RIO 2022 物品"
+	"CSGO_TournamentPass_rio2022_store_desc" "觀眾通行證、貼紙、簽名，以及更多物品"
+
+	"CSGO_TournamentPass_rio2022" "Rio 2022 觀眾通行證"
+	"CSGO_TournamentPass_rio2022_tinyname" "通行證"
+	"CSGO_TournamentPass_rio2022_Desc" "此為緘封的 IEM Rio 2022 CS:GO 特級錦標賽觀眾通行證。一旦啟封，便可在整個賽事中追蹤您的 Rio 2022 硬幣進度、獲得 Rio 2022 投注挑戰的參與資格、Steam.tv 聊天室徽章、硬幣挑戰，與賽事期間不限使用次數的遊戲內塗鴉。\n\n您可以透過完成挑戰來升級您的 Rio 2022 硬幣。每次硬幣升級時可獲得一枚紀念品代幣。\n\n50% 的通行證收益將用於支持參與的組織團體。"
+	"CSGO_TournamentPass_rio2022_pack" "Rio 2022 觀眾通行證 + 3 紀念品代幣"
+	"CSGO_TournamentPass_rio2022_pack_tinyname" "通行證與代幣"
+	"CSGO_TournamentPass_rio2022_pack_Desc" "此為緘封的 IEM Rio 2022 CS:GO 特級錦標賽觀眾通行證。一旦啟封，便可在整個賽事中追蹤您的 Rio 2022 硬幣進度、獲得 Rio 2022 投注挑戰的參與資格、Steam.tv 聊天室徽章、硬幣挑戰，與賽事期間不限使用次數的遊戲內塗鴉。\n\n您可以透過完成挑戰來升級您的 Rio 2022 硬幣。每次硬幣升級時可獲得一枚紀念品代幣。\n\n啟用此觀眾通行證時，將隨 Rio 2022 硬幣附贈 3 枚紀念品代幣。\n\n50% 的通行證收益將用於支持參與的組織團體。"
+	"CSGO_TournamentPass_rio2022_charge" "Rio 2022 紀念品代幣"
+	"CSGO_TournamentPass_rio2022_charge_Desc" "此為緘封的 IEM Rio 2022 CS:GO 特級錦標賽紀念品代幣。一旦啟封，將為您的 Rio 2022 硬幣追加一次兌換紀念包的機會。\n\n代幣僅能用於您現有的 Rio 2022 硬幣。"
+	"CSGO_storageunit_rio2022_tinyname"		"儲存單元"
+	"CSGO_crate_store_pack_rio2022_legends_groupname" "傳奇貼紙"
+	"CSGO_crate_store_pack_rio2022_challengers_groupname" "挑戰者貼紙"
+	"CSGO_crate_store_pack_rio2022_contenders_groupname" "競爭者貼紙"
+
+	"CSGO_crate_sticker_pack_rio2022_legends_tag" "Rio 2022 傳奇貼紙"
+	"CSGO_crate_sticker_pack_rio2022_legends_tinyname" "傳奇貼紙"
+	"CSGO_crate_sticker_pack_rio2022_challengers_tag" "Rio 2022 挑戰者貼紙"
+	"CSGO_crate_sticker_pack_rio2022_challengers_tinyname" "挑戰者貼紙"
+	"CSGO_crate_sticker_pack_rio2022_contenders_tag" "Rio 2022 競爭者貼紙"
+	"CSGO_crate_sticker_pack_rio2022_contenders_tinyname" "競爭者貼紙"
+	"CSGO_crate_signature_pack_rio2022_group_champions_tinyname" "冠軍簽名"
+	//
+		// 2022 ESL Rio CS:GO Major Championship Strings Block End
 		// ======================================
 
 		//
@@ -20179,6 +20227,9 @@
 	"PaintKit_gs_xm1014_watchdog_Tag"								"看門石獅"
 // END COMMUNITY_31
 
+
+
+
 		//Recipes
 		"CSGO_Recipe_TradeUp"						"汰換合約"
 		"CSGO_Recipe_TradeUp_Desc"					"10 件品質相同的物品將可換得 1 件品質高一級，且來自隨機一種您提供的物品所屬收藏的物品。"
@@ -20948,8 +20999,6 @@
 		"Store_Register_License"				"轉移"
 		"Store_Connecting_ToGc"					"正在連線到 CS:GO 網路……"
 		"Store_Confirm_Purchase" 				"確認購買"
-
-
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Blog
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -21009,6 +21058,9 @@
 		"SFUI_MainMenu_Navigation_Submenu"				"${cancel} 返回   ${confirm} 選擇"[$X360]
 		"SFUI_MainMenu_Navigation_Submenu"				"${cancel} 返回 ${confirm} 選擇 ${north} 邀請" [$PS3]
 		"SFUI_MainMenu_Navigation_Submenu_Invite_On"	"${cancel} 返回 ${confirm} 選擇 ${north} 檢視邀請 <img src='icon-invite.png'/>"
+
+		"SFUI_MainMenu_Navigation_Root"		"" [$WIN32]
+		"SFUI_MainMenu_Navigation_Submenu"	"" [$WIN32]
 
 		"SFUI_MainMenu_TickerText"		"今日訊息：市場中的所有頭像裝備全部省 50%"
 
@@ -24772,6 +24824,12 @@
 		"SFUI_BuyMenu_Cost" "價格："
 		"SFUI_BuyMenu_Tagging" "制止力："
 		"Pano_BuyMenu_Tagging_val" "{d:r:tagging}"
+		"SFUI_BuyMenu_Tagging_1" "★☆☆☆☆"
+		"SFUI_BuyMenu_Tagging_2" "★★☆☆☆"
+		"SFUI_BuyMenu_Tagging_3" "★★★☆☆"
+		"SFUI_BuyMenu_Tagging_4" "★★★★☆"
+		"SFUI_BuyMenu_Tagging_5" "★★★★★"
+
 		"SFUI_BuyMenu_TimerText"			"剩餘購買時間："
 		"SFUI_BuyMenu_ImmunityTimerText"	"無敵時間剩餘："
 		"SFUI_BuyMenu_OutOfTime" "%s1 秒購買時間已過"
@@ -27811,7 +27869,22 @@
 	"SurvivalMapLocation_Ravine" 						"山溝"
 	"SurvivalMapLocation_Floatilla" 					"船隊"
 	"SurvivalMapLocation_Tower1" 						"01 號電塔"
-"SurvivalPromotion_Desc"						"為生存而戰"
+	
+	// Community maps
+	"SurvivalMapLocation_Church"						"教堂"
+	"SurvivalMapLocation_Helipad"						"停機坪"
+	"SurvivalMapLocation_Hospital"						"醫院"
+	"SurvivalMapLocation_Hotel"							"旅館"
+	"SurvivalMapLocation_LavaPit"						"熔岩坑"
+	"SurvivalMapLocation_Observatory"					"天文台"
+	"SurvivalMapLocation_Ruins"							"遺跡"
+	"SurvivalMapLocation_Swimming"						"游泳池"
+	"SurvivalMapLocation_VisitorCenter"					"遊客中心"
+	
+	"SurvivalMapLocation_Barn"							"穀倉"
+	"SurvivalMapLocation_Fort"							"堡壘"
+	"SurvivalMapLocation_Sewers"						"下水道"
+	"SurvivalPromotion_Desc"						"為生存而戰"
 	"SurvivalPromotion_Desc_Sirocco"		"新地圖 | 更多玩意 | 重生"
 
 	"Survival_Teammate_Joined"							"  您與 %s1 同隊。"
@@ -29067,6 +29140,7 @@
 		"tooltip_skill_group_genericdangerzone"	"危險區域技術組展示了玩家在官方危險區域比賽中的表現。"
 		"tooltip_skill_group_nonedangerzone"	"危險區域技術組需要校準，請完成幾場危險區域比賽以顯示您的技術組。"
 		"tooltip_skill_group_expireddangerzone"	"危險區域技術組需要校準，請完成幾場危險區域比賽以顯示您的技術組。"
+		"tooltip_skill_group_recalibratingdangerzone"	"危險區域技術組需要校準，請完成幾場危險區域比賽以顯示您的技術組。"
 		"tooltip_skill_group_wins"				"<img src='file://{images}/icons/ui/trophy.svg' vspace='6' class='player-card-tooltip-icon'/> {d:wins} 場勝利"
 
 		"tooltip_xp_current"			"您目前的經驗值為 {s:xpcurrent}"
@@ -30415,7 +30489,7 @@
 
 		"WatchNotice_Reason_Official"						"此為《絕對武力：全球攻勢》特級錦標賽的活動，故顯示於此。"
 		"WatchNotice_Reason_Personal"						"您將此賽事加入最愛，因而顯示於此。"
-		"WatchNotice_Reason_Community"					"此賽事為 {s:watchnotice_fave_month} 月社群最愛，因而標示於此。"
+		"WatchNotice_Reason_Community"					"此賽事為 {s:watchnotice_fave_month}社群最愛，因而標示於此。"
 		"WatchNotice_Watch"											"觀賽"
 
 	
@@ -30714,8 +30788,8 @@
 
 		"Propcounter_money" "$%s1" //e.g. used on danger zone security door
 
-// crow_mask_36451_comment
-// crow_mask_36452_comment
+// crow_mask_37835_comment
+// crow_mask_37836_comment
 }
 
 

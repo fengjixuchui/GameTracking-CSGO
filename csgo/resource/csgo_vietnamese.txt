@@ -1819,6 +1819,7 @@ Hộ tống VIP đến một trong các khu vực này."
 
 		"FreezePanel_Killer2"			" "
 		"FreezePanel_HappyHolidays"		"CHÚC BẠN NGÀY LỄ VUI VẺ"
+		"FreezePanel_ScreenShot"		"[{v:csgo_bind:bind_jpeg}] Lưu khoảnh khắc này"
 		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Sát thương nhận: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> với</font> <font color='#FFFFFF'><b>%s2 phát </b></font> <font color='#A0A0A0'>từ %s3</font>"
 		"FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Sát thương gây: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> với</font> <font color='#FFFFFF'><b>%s2 phát </b></font> <font color='#A0A0A0'>tới %s3</font>"
 		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Sát thương nhận: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> với</font> <font color='#FFFFFF'><b>%s2 phát </b></font> <font color='#A0A0A0'>từ %s3</font>"
@@ -2014,6 +2015,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"Econ_DateFormat_GMT_DateOnly"			"%mmday% %monthshort%, %year% giờ GMT"
 		"Econ_Loot_List_Sticker_ProPlayerSignatures" "Hình dán có thể kèm chữ ký của một trong các tuyển thủ sau:"
 		"Econ_Loot_List_Sticker_ProPlayerSignatures_AndSomeMore" "... và %s1 tuyển thủ chuyên nghiệp khác"
+		"Econ_Loot_List_Sticker_ProOrgsStickers"	"Hình dán có thể đại diện cho một trong các tổ chức sau:"
 		"Econ_Loot_List_Sticker_ProOrgsPatches"		"Phù hiệu có thể đại diện cho một trong các tổ chức sau:"
 		"Econ_Loot_List_Sticker_ProOrgs_AndSomeMore" "... và %s1 tổ chức khác"
 		"Econ_Loot_List_AndSomeMoreItems" "... và %s1 vật phẩm khác"
@@ -2197,6 +2199,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"genuine"								"Chính hãng"
 		"rarity3"								"Thiết kế tốt"
 		"rarity4"								"Phi thường"
+		"strange"								"StatTrak™"
 		"completed"								"Đã hoàn thành"
 
 		// Team Usability
@@ -2482,6 +2485,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"CSGO_official_leaderboard_pickem_katowice2019_team"	"Thử thách Pick'Em Katowice 2019"
 		"CSGO_official_leaderboard_pickem_berlin2019_team"	"Thử thách Pick'Em Berlin 2019"
 		"CSGO_official_leaderboard_pickem_stockh2021_team"	"Thử thách Pick'Em Stockholm 2021"
+		"CSGO_official_leaderboard_pickem_antwerp2022_team"	"Thử thách Pick'Em Antwerp 2022"
 		"CSGO_official_leaderboard_season_3_points_desc"	"*Nhiệm vụ hoàn thành tính hết tất cả các nhiệm vụ đã hoàn thành trong chiến dịch Breakout."
 		"CSGO_official_leaderboard_season_4_points_desc"	"*Nhiệm vụ hoàn thành tính toàn bộ nhiệm vụ hoàn tất trong chiến dịch Vanguard."
 		"CSGO_official_leaderboard_season_5_points_desc"	"*Nhiệm vụ hoàn thành tính toàn bộ nhiệm vụ hoàn tất trong chiến dịch Bloodhound."
@@ -2617,6 +2621,20 @@ Hộ tống VIP đến một trong các khu vực này."
 		"CSGO_EconAction_Preview"	"Xem trong trò chơi..."
 
 		"CSGO_KillEater_Hud"		"StatTrak™"
+
+		"KillEaterRank0"			"StatTrak™"
+		"KillEaterRank1"			"StatTrak™"
+		"KillEaterRank2"			"StatTrak™"
+		"KillEaterRank3"			"StatTrak™"
+		"KillEaterRank4"			"StatTrak™"
+		"KillEaterRank5"			"StatTrak™"
+		"KillEaterRank6"			"StatTrak™"
+		"KillEaterRank7"			"StatTrak™"
+		"KillEaterRank8"			"StatTrak™"
+		"KillEaterRank9"			"StatTrak™"
+		"KillEaterRank10"			"StatTrak™"
+		"KillEaterRank11"			"StatTrak™"
+		"KillEaterRank12"			"StatTrak™"
 
 		// Item names/descriptions
 		"CSGO_Ticket_CommunitySeasonOneSpring2013"					"Vé chiến dịch Payback"
@@ -2855,7 +2873,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"CSGO_Collectible_MapTokenAbbey_Desc"			"
 "
 		"CSGO_Collectible_MapTokenTuscan"				"Huy chương bản đồ - Tuscan"
-		"CSGO_Collectible_MapTokenPrime"				"Huy chương bản đồ - Primetime"
+		"CSGO_Collectible_MapTokenPrime"				"Huy chương bản đồ - Cascade"
 		"CSGO_Collectible_MapTokenBlagai"				"Huy chương bản đồ - Blagai"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"Huy hiệu trung kiên"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"Huy hiệu này vinh danh sự trung thành tận tụy của cộng đồng Counter-Strike trước bản cập nhật Danger Zone. <i>Lấy trung thành làm sức mạnh.</i>"
@@ -3617,6 +3635,14 @@ Hộ tống VIP đến một trong các khu vực này."
 		"CSGO_crate_musickit_tacticians_stattrak_capsule_desc"	"Hộp này chứa một loạt gói âm thanh StatTrak™ từ các nghệ sĩ thực hiện album \"Tacticians\"."
 		"coupon_tacticians_stattrak_musickit_capsule"		"Hộp gói âm thanh kèm StatTrak™ Tacticians"
 		
+		"CSGO_crate_musickit_initiators_capsule"	    "Hộp gói âm thanh Initiators"
+		"CSGO_crate_musickit_initiators_capsule_desc"	"Hộp này chứa một loạt gói âm thanh từ các nghệ sĩ trong bộ \"Initiators\"."
+		"coupon_initiators_musickit_capsule"		"Hộp gói âm thanh Initiators"
+		
+		"CSGO_crate_musickit_initiators_stattrak_capsule"	    "Hộp gói âm thanh kèm StatTrak™ Initiators"
+		"CSGO_crate_musickit_initiators_stattrak_capsule_desc"	"Hộp này chứa một loạt gói âm thanh StatTrak™ từ các nghệ sĩ thực hiện album \"Initiators\"."
+		"coupon_initiators_stattrak_musickit_capsule"		"Hộp gói âm thanh kèm StatTrak™ Initiators"
+		
 		"CSGO_crate_sticker_pack_illuminate_capsule_01"	    "Gói hình dán Perfect World 1"
 		"CSGO_crate_sticker_pack_illuminate_capsule_01_desc"	"Gói hình dán này chứa một loạt các hình dán từ Perfect World để kỉ niệm dịp phát hành Counter-Strike: Global Offensive ở đại lục Trung Quốc."
 		"coupon_illuminate_capsule_01"		"Gói hình dán Perfect World 1"
@@ -4169,6 +4195,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"CSGO_SupportGameAuthKey_Desc_16"		"Các trang web và ứng dụng không thuộc Steam có thể sử dụng mã này để truy cập vào dự đoán Pick'Em 2019 Berlin, và giúp bạn đặt dự đoán trong dịp giải vô địch CS:GO 2019 Berlin."
 		"CSGO_SupportGameAuthKey_Type_18"		"Quản lý Pick'Em Stockholm 2021"
 		"CSGO_SupportGameAuthKey_Desc_18"		"Các trang web và ứng dụng không thuộc Steam có thể sử dụng mã này để truy cập vào dự đoán Pick'Em Stockholm 2021, và giúp bạn đặt dự đoán trong dịp giải vô địch Major CS:GO Stockholm 2021."
+		"CSGO_SupportGameAuthKey_Type_19"		"Quản lý Pick'Em - 2022 Antwerp"
 		"CSGO_SupportGameAuthKey_Type_1000001"	"Truy cập lịch sử trận đấu của bạn"
 		"CSGO_SupportGameAuthKey_Desc_1000001"	"Các trang web và ứng dụng bên thứ ba có thể dùng mã cấp phép này để truy cập vào lịch sử trận đấu, tổng quan phong độ trong các trận đấu đó, tải bản phát lại, và phân tích cách bạn chơi."
 		"CSGO_SupportGameAuthKey_MatchShareCode" "Token trận đấu gần đây bạn vừa chơi xong:"
@@ -4496,6 +4523,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"CSGO_TeamID_105"		"Entropiq"
 		"CSGO_TeamID_106"		"MOUZ"
 		"CSGO_TeamID_107"		"Nemiga"
+		"CSGO_TeamID_115" 		"GamerLegion"
 		"Place_Name_1st"		"Quán quân"
 		"Place_Name_2nd"		"Á quân"
 		"Place_Name_3rd-4th"	"Đội lọt vào bán kết"
@@ -5018,6 +5046,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"coupon_mattlevine_01_stattrak"	"Gói âm thanh StatTrak™ | Matt Levine, Drifter"
 
 		"musickit_treeadams_benbromfield_01"			"Tree Adams và Ben Bromfield, M.U.D.D. FORCE"
+		"musickit_treeadams_benbromfield_01_desc"		"Thành phẩm từ một kỳ loạn lạc mạnh mẽ của những nhà giả kim – đó chính là M.U.D.D. FORCE. Những nhà soạn nhạc Tree Adams và Ben Bromfield đã gắn chắc vào nhau những thanh âm của đàn synth cùng mô-típ của những chiến trận vĩ đại để tạo hình nên một cái hút nước xoáy tít của sự hủy diệt cực độ."
 		"coupon_treeadams_benbromfield_01"				"Gói âm thanh | Tree Adams and Ben Bromfield, M.U.D.D. FORCE"
 		"coupon_treeadams_benbromfield_01_stattrak"		"Gói âm thanh StatTrak™ | Tree Adams and Ben Bromfield, M.U.D.D. FORCE"
 
@@ -5078,6 +5107,41 @@ Hộ tống VIP đến một trong các khu vực này."
 		"musickit_theverkkars_02_desc"			"Từ California đầy nắng tới Lapland lạnh cóng, huyền thoại Counter-Strike n0thing và The Verkkars đã hợp thành để cùng nhau tạo ra bản hit cực bùng nổ, Flashbang Dance! 3, 2, 1 - mỗi thế thôi là đủ lóa mắt váng đầu!"
 		"coupon_theverkkars_02"					"Gói âm thanh | The Verkkars & n0thing — Flashbang Dance"
 		"coupon_theverkkars_02_stattrak"		"Gói âm thanh StatTrak™ | The Verkkars & n0thing — Flashbang Dance"
+
+		"musickit_3kliksphilip_01"				"3kliksphilip, Heading for the Source"
+		"musickit_3kliksphilip_01_desc"			"Trên đường tìm tới đỉnh cao, hay muốn làm một phát như video Going Low? Hãy để gói âm thanh với chất liệu đàn synth những năm 80 cùng những thanh âm mơ màng này nhấc bổng bạn về. Chậm rãi, chậm rãi... quay về ngày xưa cũ."
+		"coupon_3kliksphilip_01"				"Gói âm thanh | 3kliksphilip, Heading for the Source"
+		"coupon_3kliksphilip_01_stattrak"		"Gói âm thanh StatTrak™ | 3kliksphilip, Heading for the Source"
+		
+		"musickit_hlb_01"				"Humanity's Last Breath, Void"
+		"musickit_hlb_01_desc"			"Humanity's Last Breath, một ban nhạc đến từ Thuỵ Điển, đem tới cho bạn chất âm heavy qua gói âm thanh mang tựa đề Void. Những tiếng trống đùng đùng, những hợp âm guitar váng óc cùng một bầu không khí ngột ngạt là đủ để khiến bạn rùng mình."
+		"coupon_hlb_01"					"Gói âm thanh | Humanity's Last Breath, Void"
+		"coupon_hlb_01_stattrak"		"Gói âm thanh StatTrak™ | Humanity's Last Breath, Void"
+		
+		"musickit_juelz_01"					"Juelz, Shooters"
+		"musickit_juelz_01_desc"			"Thanh âm từ đàn synth của dòng nhạc thể nghiệm neo trap, những tiếng bụi bặm từ sample âm 808, cùng một nùi hiệu ứng tiếng súng. Bản quốc ca của dòng nhạc trap \"Shooters\" bởi Juelz chính là chất âm thích hợp nhất cho một gói âm thanh đỉnh của đỉnh. Chỉ thích hợp cho những kẻ lấy MVP làm vinh quang."
+		"coupon_juelz_01"					"Gói âm thanh | Juelz, Shooters"
+		"coupon_juelz_01_stattrak"			"Gói âm thanh StatTrak™ | Juelz, Shooters"
+		
+		"musickit_knock2_01"				"Knock2, dashstar*"
+		"musickit_knock2_01_desc"			"Bản quốc ca thể loại bass house từ Knock2, dashstar*, sẽ không chỉ đảm bảo một luồng sinh khí không ngơi cho người nghe mà còn bộc lộ rõ châm ngôn của người nghệ sĩ gốc San Diego này: \"no limit\"/đi đến cùng."
+		"coupon_knock2_01"					"Gói âm thanh | Knock2, dashstar*"
+		"coupon_knock2_01_stattrak"			"Gói âm thanh StatTrak™ | Knock2, dashstar*"
+		
+		"musickit_meechydarko_01"				"Meechy Darko, Gothic Luxury"
+		"musickit_meechydarko_01_desc"			"Hãy cầm lên tay một khẩu Glock và trang bị thêm cho bản thân gói âm thanh này để được nhấc bổng xuống trái tim của làng hip-hop underground nơi New York sầm uất."
+		"coupon_meechydarko_01"					"Gói âm thanh | Meechy Darko, Gothic Luxury"
+		"coupon_meechydarko_01_stattrak"		"Gói âm thanh StatTrak™ | Meechy Darko, Gothic Luxury"
+		
+		"musickit_sullivanking_01"				"Sullivan King, Lock Me Up"
+		"musickit_sullivanking_01_desc"			"Yêu thích sự mạo hiểm? Thèm khát cảm giác làm kẻ đi săn? Gói âm thanh của Sullivan King đưa tới sự khuấy đảo qua thủ pháp biến tấu những chất liệu hard rock, metal và dubstep, đem đến cho bạn một cảm giác tựa như không thể bị ngáng bước."
+		"coupon_sullivanking_01"				"Gói âm thanh | Sullivan King, Lock Me Up"
+		"coupon_sullivanking_01_stattrak"		"Gói âm thanh StatTrak™ | Sullivan King, Lock Me Up"
+		
+		"musickit_perfectworld_01"				"Perfect World, 花脸 (Hoa Liễm)"
+		"musickit_perfectworld_01_desc"			"Mừng kỷ niệm 5 năm CS:GO ra mắt tại Trung Quốc với gói âm nhạc độc nhất vô nhị, 花脸 (Hoa Liễm). Gói này là sự kết hợp giữa Qinqiang, một dòng nhạc kịch - dân ca thời nhà Thanh (phiên bản Rock 'n' Roll đời đầu mang phong cách Trung Quốc) và dòng nhạc Rock 'n' Roll hiện đại. Dù cho bạn có bị nhấn chìm trong làn khói mờ hay chói mắt vì lựu đạn choáng, đừng bao giờ để mất phương hướng!"
+		"coupon_perfectworld_01"				"Gói âm thanh | Perfect World, 花脸 (Hoa Liễm)"
+		"coupon_perfectworld_01_stattrak"		"Gói âm thanh StatTrak™ | Perfect World, 花脸 (Hoa Liễm)"
 
 //////////////////
 
@@ -5215,6 +5279,9 @@ Hộ tống VIP đến một trong các khu vực này."
 
 		"quest_action_singular_multikill"								"lần giết đa mạng trong ván"
 		"quest_action_plural_multikill"									"lần giết đa mạng trong ván"
+
+		"quest_action_singular_act_apply_graffiti"						"graffiti"
+		"quest_action_plural_act_apply_graffiti"						"graffiti"
 
 		"quest_action_singular_act_detonate_smokegrenade"				"lựu đạn khói"
 		"quest_action_plural_act_detonate_smokegrenade"					"lựu đạn khói"
@@ -5442,7 +5509,9 @@ Hộ tống VIP đến một trong các khu vực này."
 		"quest_1040_var_desc"                                  "Giết {s:weapon} mạng trong <b>{s:location}</b>."
 		"quest_1042_var_desc"                                  "Thắng ván đấu trong <b>{s:gamemode}: {s:location}</b>."
 		"quest_1043_var_desc"                                  "Giết {s:kills} mạng bằng {s:weapon} trong <b>Hộ vệ: {s:location}</b>."
+		"quest_1044_var_desc"                                  "Giết mạng ở cự ly ít nhất 15m trong <b>{s:gamemode}: {s:location}</b>."
 		"quest_1048_var_desc"                                  "Gây sát thương bằng lựu đạn trong <b>{s:location}</b>."
+		"quest_1049_var_desc"                                  "Kiếm tiền trong <b>{s:gamemode}: {s:location}</b>."
 		"quest_1050_var_desc"                                  "Thắng ván đấu trong <b>{s:gamemode}: {s:location}</b>."
 		"quest_1051_var_desc"                                  "Giết {s:kills} mạng trong <b>Hộ vệ: {s:location}</b>."
 		"quest_1053_var_desc"                                  "Sử dụng lựu đạn khói ở vị trí nhất định trong <b>{s:gamemode}: {s:location}</b>."
@@ -5508,6 +5577,8 @@ Hộ tống VIP đến một trong các khu vực này."
 // OP11 Week 12 Missions
 		"quest_1151_var_desc"                              "Giết mạng bằng súng tiểu liên trong <b>Hộ vệ: {s:location}</b>."
 		"quest_1152_var_desc"                              "Đạt chuỗi giết"
+// OP11 Week 14 Missions
+		"quest_1159_var_desc"                              "Giết mạng bằng khối thuốc phá trong <b>Hộ vệ: {s:location}</b>."
 // OP11 Week 1 Sub-Missions
 		"quest_1200_var_desc"                              "Thắng {d:points} trận đấu"
 		"quest_1201_var_desc"                              "Thắng {d:points} ván đấu"
@@ -5558,12 +5629,18 @@ Hộ tống VIP đến một trong các khu vực này."
 // OP11 Week 4 Sub-Missions		
 		"quest_1241_var_desc"                              "Thắng {d:points} trận đấu"
 		"quest_1242_var_desc"                              "Thắng {d:points} ván đấu"
+		"quest_1243_var_desc"                              "Giết một mạng từ: Khu bên ngoài"
 		"quest_1244_var_desc"                              "Giết một mạng từ: Khu A"
 		"quest_1245_var_desc"                              "Giết một mạng từ: Sảnh"
 		"quest_1246_var_desc"                              "Giết một mạng từ: Dốc"
 		"quest_1247_var_desc"                              "Giết một mạng từ: Khu B"
+		"quest_1248_var_desc"                              "Giết một mạng từ: SEC-RT"
+		"quest_1249_var_desc"                              "Giết một mạng từ: Khu bên ngoài (lần nữa!)"
 		"quest_1254_var_desc"                              "Giết {d:points} mạng"
-"quest_1256_var_desc"                              "Thắng {d:points} ván đấu"
+
+// OP11 Week 5 Sub-Missions		
+		"quest_1255_var_desc"                              "Đạt {d:points} MVP trong <i>một trận đấu</i>"
+		"quest_1256_var_desc"                              "Thắng {d:points} ván đấu"
 		// OP11 Week 6 Sub-Missions	
 		"quest_1264_var_desc"                              "Thắng {d:points} trận đấu"
 		"quest_1265_var_desc"                              "Thắng {d:points} ván đấu"
@@ -16924,8 +17001,11 @@ Hộ tống VIP đến một trong các khu vực này."
 
 	"CSGO_CollectibleCoin_stockh2021_Champion"				"Nhà vô địch PGL Stockholm 2021"
 	"CSGO_CollectibleCoin_stockh2021_Champion_Desc"			"Cúp giải đấu này được trao tặng nhà vô địch giải Major CS:GO PGL Stockholm 2021."
+	"CSGO_CollectibleCoin_stockh2021_Finalist"				"Lọt vào chung kết tại giải PGL Stockholm 2021"
 	"CSGO_CollectibleCoin_stockh2021_Finalist_Desc"			"Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải Major CS:GO PGL Stockholm 2021."
+	"CSGO_CollectibleCoin_stockh2021_Semifinalist"				"Lọt vào bán kết tại giải PGL Stockholm 2021"
 	"CSGO_CollectibleCoin_stockh2021_Semifinalist_Desc"			"Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải Major CS:GO PGL Stockholm 2021."
+	"CSGO_CollectibleCoin_stockh2021_Quarterfinalist"				"Lọt vào tứ kết tại giải PGL Stockholm 2021"
 	"CSGO_CollectibleCoin_stockh2021_Quarterfinalist_Desc"			"Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải Major CS:GO PGL Stockholm 2021."
 
 		//
@@ -17519,7 +17599,11 @@ Hộ tống VIP đến một trong các khu vực này."
 	"CSGO_CollectibleCoin_antwerp2022_Semifinalist"				"Lọt vào bán kết tại giải PGL Antwerp 2022"
 	"CSGO_CollectibleCoin_antwerp2022_Quarterfinalist"				"Lọt vào tứ kết tại giải PGL Antwerp 2022"
 	//
-		// 2022 PGL Antwerp CS:GO Major Championship Strings Block End
+//
+//
+//
+	//
+		// 2022 ESL Rio CS:GO Major Championship Strings Block End
 		// ======================================
 
 		//
@@ -22240,6 +22324,9 @@ Hộ tống VIP đến một trong các khu vực này."
 
 // END COMMUNITY_31
 
+
+
+
 		//Recipes
 		"CSGO_Recipe_TradeUp"						"Hợp đồng đổi hàng"
 		"CSGO_Recipe_TradeUp_Desc"					"Đổi 10 vật phẩm có cùng độ hiếm để lấy được một vật phẩm có độ hiếm cao hơn, từ một trong các bộ sưu tập được chọn thông qua các vật phẩm bạn đăng ký trong hợp đồng."
@@ -22815,7 +22902,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"SFUI_Map_dz_frostbite"	"Frostbite"
 		"SFUI_Map_dz_county"	"County"
 
-		"SFUI_Map_de_prime"		"Primetime"
+		"SFUI_Map_de_prime"		"Cascade"
 		"SFUI_Map_de_blagai"	"Blagai"
 		"SFUI_Map_de_tuscan"	"Tuscan"
 
@@ -23030,6 +23117,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"Store_Connecting_ToGc"					"Đang kết nối đến mạng lưới CS:GO..."
 		"Store_Connecting_ToGc_Tooltip"			"Vui lòng đợi khi chúng tôi kết nối tới mạng CS:GO và đăng nhập bạn vào. Tìm trận, kho đồ, trang bị, phòng chờ, lời mời, cửa hàng và các tính năng cần tới mạng CS:GO có thể sẽ tạm thời không hiện diện."
 		"Store_Confirm_Purchase" 				"Xác nhận giao dịch"
+		"Store_Dismiss_Inventory"				"Bỏ qua"
 
 
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -23092,8 +23180,8 @@ Hộ tống VIP đến một trong các khu vực này."
 		"SFUI_MainMenu_Navigation_Submenu"				"${cancel} Back   ${confirm} Select   ${north} View Invites" [$PS3]
 		"SFUI_MainMenu_Navigation_Submenu_Invite_On"	"${cancel} Quay lại   ${confirm} Chọn   ${north} Xem lời mời <img src='icon-invite.png'/>"
 
-		"SFUI_MainMenu_Navigation_Root"		" " [$WIN32]
-		"SFUI_MainMenu_Navigation_Submenu"	" " [$WIN32]
+		"SFUI_MainMenu_Navigation_Root"		"" [$WIN32]
+		"SFUI_MainMenu_Navigation_Submenu"	"" [$WIN32]
 
 		"SFUI_MainMenu_TickerText"		"Thông điệp hôm nay: 50% giảm giá cho mọi Avatar Gear trên chợ!"
 
@@ -23918,6 +24006,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"CSGO_Watch_Tournament_Info_18"      "Địa điểm: Stockholm, Thụy Điển \n26/10 - 7/11"
 		"CSGO_Watch_NoMatch_Tournament_18"   "Các trận đấu giải PGL Stockholm 2021 sẽ được liệt kê ở đây.\nHiện tại không có trận đấu nào trực tiếp hay có thể tải về."
 		"CSGO_Watch_Loading_Tournament_18"   "Đang nạp thông tin các trận đấu của PGL Stockholm 2021..."
+		"CSGO_Watch_Loading_Tournament_19"   "Đang nạp các trận đấu PGL Antwerp 2022..."
 		"CSGO_Watch_Tournament_Items"       "Vỏ nhộng không khóa EMS One 2014"
 		"CSGO_Watch_Tournament_Info_Link"   "Thông tin giải đấu"
 		"CSGO_Watch_Tournament_Market_Link" "Duyệt tìm hình dán EMS One trên chợ cộng đồng Steam"
@@ -25103,6 +25192,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"SFUI_Scoreboard_XPBar_TooltipNoBonusesMax"			"XP hiện tại: %s1"
 		"SFUI_Scoreboard_XPBar_TooltipInspectProfile"		"XP hiện tại là %s1 (Cần %s2 XP để thăng cấp)"
 		"SFUI_Scoreboard_XPBar_TooltipInspectProfileMax"	"XP hiện tại: %s1"
+		"SFUI_Redeem_Service_Medal"							"Nhận huy chương"
 		"SFUI_Redeem_Service_XpBarToolTip"					"Chúc mừng, bạn đã đạt hạng \"Tướng toàn cầu\"! Bạn đủ điều kiện để nhận một huy chương phục vụ để khoe thành tích của mình. Nhận huy chương phục vụ sẽ cho phép bạn lội qua các thứ hạng một lần nữa lên \"Tướng toàn cầu\" và nhận huy chương phục vụ tiếp theo của mình."
 		"SFUI_Redeem_Service_Medal_NewYear"					"Nếu bạn muốn nhận huy chương phục vụ của năm tiếp theo, vui lòng chờ %s1 giờ trước khi tiếp tục."
 		//for main menu display
@@ -26324,7 +26414,12 @@ Hộ tống VIP đến một trong các khu vực này."
 		"SFUI_ToggleConsole"			"Bật tắt bảng điều khiển"
 		"SFUI_RadialWeaponMenu"			"Bảng chọn vũ khí"
 		"SFUI_RadialWeaponMenu_Desc"	"Thay đổi vũ khí qua bảng nhanh bằng cách lướt chuột. Cho phép bạn chọn ngay lựu đạn hoặc trang bị riêng biệt mà không cần phải đi qua từng loại vũ khí."
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+"SFUI_FlickStickDisabledForScope"			"Bật, tắt khi ngắm bắn"
+"SFUI_EnableGyro_Always"						"Luôn bật"
+		"SFUI_EnableGyro_When_Scoped"					"Khi nhấn nút 'Ngắm'"
+		"SFUI_EnableGyro_When_AimStickNeutral"			"Khi 'Ngắm cần trỏ' ở trạng thái trung lập"
+
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Motion Controller
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -29633,6 +29728,9 @@ Hộ tống VIP đến một trong các khu vực này."
 		"SFUI_LoginLicenseAssist_NoOnlineLicense_SC"			"Bạn cần chuyển tài khoản Perfect World CS:GO của mình sang Steam China.\n\nQuá trình chuyển sẽ kèm theo tiến trình, thành tựu, vật phẩm trong trò chơi. Điểm CS:GO sẽ được chuyển vĩnh viễn sang ví Steam China."
 		"SFUI_LoginLicenseAssist_NoOnlineLicense"				"Bạn hiện không có sở hữu bản quyền cho trò chơi Counter-Strike: Global Offensive để chơi chế độ nhiều người trên toàn cầu.\n\nBạn có muốn mua bản quyền CS:GO ngay bây giờ?"
 
+		"SFUI_InventoryFull"									"Bạn hiện đang sử dụng {d:inv-usage}% chỗ chứa trong kho đồ. Bạn sẽ không thể nhận thêm vật phẩm rơi ra một khi kho đồ đã hết chỗ chứa. Hãy di chuyển vật phẩm vào thùng chứa riêng để làm trống chỗ chứa cho kho đồ."
+
+
 		"SFUI_LoginPerfectWorld_Title_Error"			"Lỗi tài khoản"
 		"SFUI_LoginPerfectWorld_FatalError"				"Đã có lỗi khi đăng nhập vào tài khoản của bạn.\n\nVui lòng liên hệ bộ phận hỗ trợ khách hàng Perfect World."
 // Displayed in message box just before the start screen on PS3
@@ -30407,6 +30505,7 @@ Hộ tống VIP đến một trong các khu vực này."
 		"inv_context_open_contract"			"Mở hợp đồng"
 		"inv_context_preview"				"Quan sát"
 		"inv_context_flair"					"Hiển thị vật phẩm này"
+		"inv_context_getprestige"			"Nhận huy chương"
 		"inv_context_useitem"				"Sử dụng vật phẩm"
 		"inv_context_usespray"				"Mở và dán vào"
 		"inv_context_open_package"			"Mở khóa"
@@ -30520,6 +30619,8 @@ Hộ tống VIP đến một trong các khu vực này."
 		"popup_prestigeget_desc"	"Xin chúc mừng bạn đạt cấp độ tướng toàn cầu!"
 		"popup_prestigeget_warning"	"
 "
+		"popup_prestigeget_button"	"Nhận huy chương"
+
 		"popup_prestigeupgrade_title"	"Nâng cấp {s:itemname}"
 		"popup_prestigeupgrade_desc"	"Xin chúc mừng bạn đạt cấp độ tướng toàn cầu!"
 		"popup_prestigeupgrade_warning"	"
@@ -32968,8 +33069,8 @@ Hộ tống VIP đến một trong các khu vực này."
 
 		"Propcounter_money" "$%s1" //e.g. used on danger zone security door
 
-// crow_mask_36451_comment
-// crow_mask_36452_comment
+// crow_mask_37835_comment
+// crow_mask_37836_comment
 }
 
 

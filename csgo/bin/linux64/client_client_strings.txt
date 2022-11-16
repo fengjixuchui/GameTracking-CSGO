@@ -4902,6 +4902,7 @@ $world_mins
 17CCSUsrMsg_KillCam
 17CCSUsrMsg_SayText
 17CCSUsrMsg_TextMsg
+17CCSUsrMsg_UtilMsg
 17CCamoTextureRegen
 17CChangeGameDialog
 17CChoreoStringPool
@@ -4970,6 +4971,8 @@ $world_mins
 17CSolidSetDefaults
 17CSpatialEntityMgr
 17CStickerPeelProxy
+17CStructuredReportI15BhopReportFieldLb0EIii6VectorS1_ffS1_fbbbbEE
+17CStructuredReportI4TSRCLb0EIffff8Vector2DS1_S1_EE
 17CTraceFilterChain
 17CUIRootGameSystem
 17CUI_Popup_Generic
@@ -5033,6 +5036,7 @@ $world_mins
 187
 188
 189
+18:21:09
 18CBloodSprayEmitter
 18CBuildModeNavCombo
 18CCLCMsg_ClientInfo
@@ -5448,6 +5452,7 @@ $world_mins
 20CUserMessageRegisterILi62E30CCSUsrMsg_RoundBackupFilenamesE
 20CUserMessageRegisterILi64E19CCSUsrMsg_ReportHitE
 20CUserMessageRegisterILi69E21CCSUsrMsg_WeaponSoundE
+20CUserMessageRegisterILi82E17CCSUsrMsg_UtilMsgE
 20C_BaseParticleEntity
 20C_BumpMineProjectile
 20C_INIT_CreateOnModel
@@ -5503,7 +5508,6 @@ $world_mins
 217
 218
 219
-21:12:10
 21CAchievement_StatGoal
 21CAnimatedTextureProxy
 21CBackgroundMenuButton
@@ -13971,6 +13975,8 @@ ExtraMatchDataTextR
 ExtraParticleFilesTable
 Extraction
 F
+F6VectorvE
+F8Vector2DvE
 FACEIT 2018 London CS:GO Major Championship
 FAIL
 FAILED
@@ -14195,12 +14201,14 @@ FastSwitchCheck
 Faster way of placing icons on the mini map.
 Fatal error (code: %d)
 Favela
+FbvE
 FeaturedItemLabel
 FeaturedItemPrice
 Feb
 FeedbackSize
 Feel free to add support for more if you need it.
 Fetched %d bytes for web resource via HTTP.
+FfvE
 FiPKN8panorama14IUIPanelClientES2_E
 Field       :
 Field does not match message type.
@@ -14326,6 +14334,7 @@ First argument to Swap() (of type "
 First control point to set
 First valid class must be less than or equal to last valid class.
 First valid item slot must be less than or equal to last valid item slot.
+FivE
 Five-SeveN
 FlashAnim
 FlashWindow
@@ -15004,6 +15013,7 @@ GetLoadoutSlotNames
 GetLocalOrInEyePlayerXuid
 GetLocalPlayerForHireAdvertising
 GetLocalPlayerXuid
+GetLootListAllEntriesAreAdditionalDrops
 GetLootListItemIdByIndex
 GetLootListItemsCount
 GetLootListUnusualItemImage
@@ -15814,6 +15824,7 @@ ICON_OFFSET
 ICON_RELATIVE_OFFSET
 IDR
 IEM 2019 Katowice CS:GO Major Championship
+IEM Rio 2022 CS:GO Major Championship
 IEconItemDescription::YieldingFillOutEconItemDescription()
 IEffects001
 IEngineSoundClient003
@@ -16354,6 +16365,9 @@ Item definition %s: Duplicate name on index %d
 Item definition %s: Missing required field "item_class"
 Item definition %s: Missing required field "name"
 Item definition %s: Unable to find equip region mask for region named "%s"
+Item definition %s: Unable to find flai0 display rules
+Item definition %s: Unable to set explicit item taxonomy
+Item definition %s: item name cannot contain slashes
 Item definition index %d in achievement reward %s was not found
 Item definition index %d must be greater than or equal to zero
 Item used notification: %u (%s)
@@ -17153,6 +17167,7 @@ Loot list %s: Invalid "additional_drop" loot list "%s"
 Loot list %s: Item definition index "%s" (%d) has invalid weight %.2f
 Loot list %s: Item definition index "%s" (%d) was not found
 Loot list %s: Missing "additional_drop" loot list name
+Loot list %s: all entries for additional drops must be loot lists, "%s" was not
 Lost Voice Tweak channels, resetting
 Lost connection to LIVE
 Lost locator target handle.
@@ -17813,6 +17828,7 @@ N18CUserMessageBinder10BindParamsILi79E30CCSUsrMsg_RoundImpactScoreDataLi0EEE
 N18CUserMessageBinder10BindParamsILi7E17CCSUsrMsg_TextMsgLi1EEE
 N18CUserMessageBinder10BindParamsILi80E26CCSUsrMsg_CurrentRoundOddsLi0EEE
 N18CUserMessageBinder10BindParamsILi81E19CCSUsrMsg_DeepStatsLi0EEE
+N18CUserMessageBinder10BindParamsILi82E17CCSUsrMsg_UtilMsgLi0EEE
 N18CUserMessageBinder10BindParamsILi8E16CCSUsrMsg_HudMsgLi0EEE
 N18CUserMessageBinder10BindParamsILi9E18CCSUsrMsg_ResetHudLi0EEE
 N18KnifeSlashPrecache18CResourcePrecacherE
@@ -19555,7 +19571,12 @@ PCRE does not support \L, \l, \N{name}, \U, or \u
 PCrate%d
 PERF/ms
 PF%d %d-1.000000
+PF6VectorvE
+PF8Vector2DvE
+PFbvE
+PFfvE
 PFiPKN8panorama14IUIPanelClientES2_E
+PFivE
 PFvPK14C_EconItemViewR10CUtlBufferiiyE
 PFviiiiiiiifbE
 PGDN
@@ -24797,6 +24818,7 @@ alertstate
 aliceblue
 alive_loc
 all_class
+all_entries_as_additional_drops
 all_same_class
 all_same_slot
 allcaps
@@ -25161,6 +25183,7 @@ bevel
 bf
 bg_BG
 bgblockout
+bhop
 bias distance
 bias in local system
 bias lifetime by trail length
@@ -25338,6 +25361,7 @@ bumpmine_active
 bumpmine_detonate
 bumpmine_player_trail
 bumpmine_projectile
+bunny hopping
 burlywood
 burndamage
 burning
@@ -26547,6 +26571,8 @@ controlpoint_updateowner
 controls
 controlsnotfullscreen
 convar
+convar_pitch_sensitivity
+convar_yaw_sensitivity
 coop
 cooperative
 coopmission
@@ -26561,6 +26587,7 @@ cosmeticlabel
 could not find SOC data for item
 could not find matching item ID
 count to maintain
+count2
 count_xpos_from_right
 count_ypos
 countdown_state
@@ -26583,9 +26610,12 @@ crafted
 crafting
 cramp
 crate_unlock
+crc
+crc2
 crc32
 crc32_combine
 crc32_combine64
+crc_%2.2d
 create from parent particles
 create_flare
 createclient
@@ -26728,6 +26758,7 @@ current_level
 current_spectators
 current_xp
 cursor
+curtime
 curve_%s_to_curve_%s
 custom
 custom desc attr
@@ -27048,6 +27079,8 @@ dev/scope_mask
 dev/screenhighlight_pulse
 dev/zone_player_outline
 dev/zone_projection
+dev_break_after_count
+dev_create_sensitivity_report
 dface_t
 dfacebrushlist_t
 dfaceid_t
@@ -28118,6 +28151,7 @@ frame_origin_x
 frame_origin_y
 frame_origin_z
 frame_rightGrip
+frame_time
 frame_tlGrip
 frame_topGrip
 frame_trGrip
@@ -28169,6 +28203,7 @@ funfact_player
 funfact_token
 futimes
 futimes@@GLIBC_2.3
+fvalue
 fwrite
 fwrite@@GLIBC_2.2.5
 fx_drawimpactdebris
@@ -29341,6 +29376,7 @@ itempanel%d
 itempanel_xpos
 itempanel_ydelta
 itemrow
+items count
 items/item1
 itemsToBuy
 items_game_live
@@ -29447,7 +29483,10 @@ jsCallback
 jsCallbackFunc
 jsCallbackHandle
 js_raw_arg
+jump_down
+jump_down_previous
 jump_fall
+jump_recently_pressed
 k
 kC
 k_EGCMsgResponseDenied
@@ -32344,6 +32383,7 @@ max_particles
 max_processor_count
 max_recipients
 max_rounds
+max_speed
 max_text_height
 max_val
 maxchars
@@ -32961,11 +33001,13 @@ more bytes of input needed
 motiondisabled
 mount
 mount@@GLIBC_2.2.5
+mouse sensitivity
 mouse%d
 mouseOverImage
 mouse_double_pressed_sound
 mouse_pressed_sound
 mouse_rotate
+mouse_sens
 mousedown
 mousedx
 mousedy
@@ -32978,6 +33020,7 @@ move_%s
 move_blend_crouch
 move_blend_run
 move_blend_walk
+move_mode
 move_stick_aggression_strength
 move_stick_aggressive
 move_stick_circular_deadzone_max
@@ -32997,6 +33040,7 @@ move_yaw
 movecollide
 movementwrap
 moveparent
+moves
 moveto
 movetype
 moveup_analog
@@ -34182,7 +34226,6 @@ preview_item_purchased
 preview_period
 preview_period_discount
 preview_period_nonpublic
-previous
 previously
 previtem
 prevpage
@@ -34661,6 +34704,7 @@ rarity_class
 ratelimit
 raw://
 raw://%s
+raw_mouse
 ray trace environment name
 read /dev/random
 read /dev/urandom
@@ -35107,6 +35151,7 @@ scaleX(
 scaleY(
 scaleZ(
 scale_bias
+scaled_mouse
 scaleoffset
 scalesettings
 scandir
@@ -36578,6 +36623,9 @@ target_rule
 target_team
 targetid--hidden
 taunt
+taxonomy
+taxonomy/table_display
+taxonomy/wall_display
 tchinese
 teaching
 teal
@@ -37141,6 +37189,7 @@ tournament:15
 tournament:16
 tournament:18
 tournament:19
+tournament:20
 tournament:4
 tournament:5
 tournament:6
@@ -37241,10 +37290,16 @@ typeinfo for CThread
 typeinfo for CryptoPP::BlockPaddingSchemeDef::BlockPaddingScheme
 typeinfo for CryptoPP::Integer::RandomNumberType
 typeinfo for bool
+typeinfo for bool ()
+typeinfo for bool (*)()
 typeinfo for bool*
 typeinfo for double
 typeinfo for float
+typeinfo for float ()
+typeinfo for float (*)()
 typeinfo for int
+typeinfo for int ()
+typeinfo for int (*)()
 typeinfo for int const*
 typeinfo for std::bad_alloc
 typeinfo for std::exception
@@ -37263,6 +37318,12 @@ typeinfo name for ELanguage
 typeinfo name for EVideoPlayerEvent
 typeinfo name for EVideoPlayerPlaybackError
 typeinfo name for GenericPopupResult_t
+typeinfo name for bool ()
+typeinfo name for bool (*)()
+typeinfo name for float ()
+typeinfo name for float (*)()
+typeinfo name for int ()
+typeinfo name for int (*)()
 typeinfo name for loadout_positions_t
 typeinfo name for panorama::EActiveControllerType
 typeinfo name for panorama::ELoadLayoutAsyncDetails

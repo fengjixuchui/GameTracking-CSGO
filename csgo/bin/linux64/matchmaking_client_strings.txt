@@ -276,6 +276,7 @@ $tI
 13CCallbackImplILi8EE
 13IMatchSession
 13IPlayerFriend
+13ISteamFriends
 13PlayerManager
 14CBaseAppSystemI15IMatchFrameworkE
 14CMatchSearcher
@@ -359,6 +360,7 @@ $tI
 30
 30CMatchNetworkMsgControllerBase
 31CMatchSearcher_OnlineTeamSearch
+35CFastSteamFriendsWithInProcessCache
 35ISteamMatchmakingServerListResponse
 3600
 4
@@ -870,6 +872,12 @@ Mutelist/%d
 N
 N11CDsSearcher19CServerListListenerE
 N25CMatchSessionOnlineSearch19CServerListListenerE
+N35CFastSteamFriendsWithInProcessCache12CacheableMapI13EPersonaStateS1_13ISteamFriendsEE
+N35CFastSteamFriendsWithInProcessCache12CacheableMapI19EFriendRelationshipS1_13ISteamFriendsEE
+N35CFastSteamFriendsWithInProcessCache12CacheableMapIPKc10CUtlString13ISteamFriendsEE
+N35CFastSteamFriendsWithInProcessCache12CacheableMapIbbS_EE
+N35CFastSteamFriendsWithInProcessCache12CacheableMapIii13ISteamFriendsEE
+N35CFastSteamFriendsWithInProcessCache22ICacheableMapEvictableE
 NAV_CONTROLLER
 NONE (Not Set)
 NULL
@@ -1199,7 +1207,6 @@ Z
 [L:%u:%u]
 [M:%u:%u:%u]
 [MM] Could not get lobby data for lobby %llu (%llx)
-[MM] Failed pinging server %s for lobby#%d %llu (%llx)
 [MM] Joining session %llx, %d search results remaining...
 [MM] Lobby %d: id %llu (%llx), num Players %d, sv ip %s, pinging dist %d
 [MM] Received %d search results.
@@ -1705,6 +1712,7 @@ net_allow_syslink
 new
 newValue
 nextpass
+nextpass?
 no_reset_vote_threshold_ct
 no_reset_vote_threshold_t
 nodelay

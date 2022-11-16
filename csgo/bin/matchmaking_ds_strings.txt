@@ -20,7 +20,7 @@
 #include is NULL
 #int#
 $
-$U
+$\
 $tI
 %
 % 2d %s %s
@@ -172,7 +172,7 @@ $tI
 ( payload2 /  max( payload1, 1 ) )
 (%u)
 (*%s*),
-(U
+(\
 (muted)
 (unknown)
 )
@@ -182,7 +182,7 @@ $tI
 +
 ,
 ,%03d
-,U
+,\
 ,ar_monastery
 -
 -------     ----------------
@@ -214,7 +214,7 @@ $tI
 0123456789ABCDEF$
 0123456789abcdef
 0@
-0U
+0\
 0x%016llX
 0x%p
 1
@@ -278,7 +278,7 @@ $tI
 3600
 4
 48
-4U
+4\
 5
 6
 6"
@@ -289,6 +289,7 @@ $tI
 7IConVar
 8
 8CFmtStrNILi256ELb0EE
+8\
 9
 9GameTypes
 :
@@ -317,7 +318,7 @@ $tI
 <<
 << NULL >>
 <INVALID>
-<U
+<\
 <b>
 <br>
 <h1>
@@ -336,7 +337,7 @@ $tI
 ?
 @
 @@
-@U
+@\
 @info/installed
 @workshop
 A
@@ -398,7 +399,7 @@ DEMO
 DLCMANAGER: Forcing wait for update to finish stalled for %.3f sec
 DLCMANAGER: RequestDlcUpdate has no new content.
 DLOPEN Error:%s
-DU
+D\
 Data version to report to DC.
 Datacenter::EnableUpdate( %d ), current state = %d
 DebugTextureInfo001
@@ -551,7 +552,7 @@ GamesTypes: unable to set game type and mode. Could not find type/mode matching 
 GamesTypes: unable to set game type and mode. Game type value is outside valid range.  (value == %d)
 GetCPUInformation
 H
-HU
+H\
 How long to wait between pinging internet server details.
 How long to wait for internet server details.
 How long until a server is no longer returned by the master till we remove it.
@@ -594,7 +595,7 @@ LINUX
 LIVE
 LOG_GENERAL
 LOWVIOLENCE
-LU
+L\
 LanSearch
 LanSearchServerPing
 LanSearchServerPing/timestamp
@@ -654,7 +655,7 @@ P?
 P@
 POSIX
 PS3
-PU
+P\
 Physics2 Interface ActorMgr v0.1
 Physics2 Interface ResourceMgr v0.1
 Physics2 Interface v0.3
@@ -711,7 +712,7 @@ SteamLeaderboard
 String %d: ref:%d %s
 System/dependentlobby
 T
-TU
+T\
 The current game is online.
 The current game is public.
 The current game mode (based on game type). See GameModes.txt.
@@ -773,7 +774,7 @@ WorldRendererMgr001
 WriteMiniDump
 X
 X360
-XU
+X\
 Xbox 360
 Y
 Z
@@ -811,6 +812,7 @@ Z
 [u]
 [url=
 \
+\\
 ]
 ^
 _
@@ -842,6 +844,7 @@ _remote_xuidsrc
 _valveinternal
 _xlsp
 `
+`\
 a
 abort@@GLIBC_2.0
 acos
@@ -913,6 +916,7 @@ custom
 custom_bot_difficulty
 custommatch
 d
+d\
 deathmatch
 dedicated
 default
@@ -1012,6 +1016,7 @@ gungame
 gungameprogressive
 gungametrbomb
 h
+h\
 hl2
 hltv_replay
 host_info_show
@@ -1048,6 +1053,7 @@ k
 k%s%d
 kills
 l
+l\
 ld-linux.so.2
 libc.so.6
 libdl.so.2
@@ -1150,6 +1156,7 @@ options/server
 options/sessionid
 options/sv_load_test
 p
+p\
 pingxuid
 player%d
 player%d/xuid
@@ -1281,6 +1288,7 @@ system/lock
 system/network
 t
 t%
+t\
 tan@@GLIBC_2.0
 tanf
 tanf@@GLIBC_2.0
@@ -1351,6 +1359,7 @@ weaponprogression_t
 what():
 wks:1,
 x
+x\
 xuidHost
 y
 z
@@ -1358,6 +1367,7 @@ zD
 {
 {}()':
 |
+|\
 }
 ~
 
