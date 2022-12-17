@@ -1820,10 +1820,10 @@ Teď nemůžeš změnit roli."
 		"FreezePanel_Killer2"			" "
 		"FreezePanel_HappyHolidays"		"TI PŘEJE VESELÉ VÁNOCE"
 		"FreezePanel_ScreenShot"		"[{v:csgo_bind:bind_jpeg}] Zachytit tento moment"
-		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Utržené poškození: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> v</font> <font color='#FFFFFF'><b>%s2 zásahu </b></font> <font color='#A0A0A0'>od hráče %s3</font>"
-		"FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Udělené poškození: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> v</font> <font color='#FFFFFF'><b>%s2 zásahu </b></font> <font color='#A0A0A0'>hráči %s3</font>"
-		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Utržené poškození: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> ve</font> <font color='#FFFFFF'><b>%s2 zásazích </b></font> <font color='#A0A0A0'>od hráče %s3</font>"
-		"FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Udělené poškození: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> ve</font> <font color='#FFFFFF'><b>%s2 zásazích </b></font> <font color='#A0A0A0'>hráči %s3</font>"
+		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Utržené poškození: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'>v</font> <font color='#FFFFFF'><b>%s2 zásahu</b></font> <font color='#A0A0A0'>od hráče %s3</font>"
+		"FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Udělené poškození: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'>v</font> <font color='#FFFFFF'><b>%s2 zásahu</b></font> <font color='#A0A0A0'>hráči %s3</font>"
+		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Utržené poškození: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'>ve</font> <font color='#FFFFFF'><b>%s2 zásazích</b></font> <font color='#A0A0A0'>od hráče %s3</font>"
+		"FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Udělené poškození: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'>ve</font> <font color='#FFFFFF'><b>%s2 zásazích</b></font> <font color='#A0A0A0'>hráči %s3</font>"
 
 		"CS_FreezeNemesis"			"Nemesis"
 		"CS_FreezeNewNemesis"		"Nová nemesis"
@@ -2875,6 +2875,8 @@ Teď nemůžeš změnit roli."
 		"CSGO_Collectible_MapTokenTuscan"				"Mince mapy Tuscan"
 		"CSGO_Collectible_MapTokenPrime"				"Mince mapy Cascade"
 		"CSGO_Collectible_MapTokenBlagai"				"Mince mapy Blagai"
+		"CSGO_Collectible_MapTokenBoyard"				"Mince mapy Boyard"
+		"CSGO_Collectible_MapTokenChalice"				"Mince mapy Chalice"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"Odznak Za věrnost"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"Tento odznak byl udělen věrným členům komunity hry Counter-Strike, kteří narukovali před vydáním aktualizace Zóna smrti. <i>Věrnost značí sílu</i>"
 		"CSGO_CollectibleCoin_FiveYearService"		"Veteránská mince (5 let)"
@@ -19237,6 +19239,52 @@ Teď nemůžeš změnit roli."
 	"CSGO_crate_signature_pack_rio2022_group_champions_tinyname" "Samolepky šampionů"
 	"CSGO_crate_signature_pack_rio2022_group_champions_desc" "Tato kapsle obsahuje jednu běžnou, třpytivou, holografickou nebo zlatou samolepku podepsanou jedním z vítězů šampionátu IEM Rio 2022.\n\nPolovina výtěžku z prodeje této kapsle bude použita na podporu tohoto týmu.\n\nSamolepka může být nalepena na jakoukoli zbraň. Nalepenou samolepku můžeš postupně strhávat, každým strhnutím odlepíš kousek samolepky. Pokud ji strhneš celou, navždy ji ze zbraně odstraníš."
 
+	"StickerKit_rio2022_signature_fl1t_champion" "FL1T (šampion) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_champion" "Tuto samolepku podepsal profesionální hráč Evgenii Lebedev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_fl1t_glitter_champion" "FL1T (šampion, třpytivá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_glitter_champion" "Tuto třpytivou samolepku podepsal profesionální hráč Evgenii Lebedev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_fl1t_holo_champion" "FL1T (šampion, holografická) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_holo_champion" "Tuto holografickou samolepku podepsal profesionální hráč Evgenii Lebedev, který na šampionátu IEM Rio 2022 hrál za tým Outsider, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_fl1t_gold_champion" "FL1T (šampion, zlatá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_gold_champion" "Tuto zlatou samolepku podepsal profesionální hráč Evgenii Lebedev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+
+	"StickerKit_rio2022_signature_n0rb3r7_champion" "n0rb3r7 (šampion) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_champion" "Tuto samolepku podepsal profesionální hráč David Danielyan, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_n0rb3r7_glitter_champion" "n0rb3r7 (šampion, třpytivá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_glitter_champion" "Tuto třpytivou samolepku podepsal profesionální hráč David Danielyan, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_n0rb3r7_holo_champion" "n0rb3r7 (šampion, holografická) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_holo_champion" "Tuto holografickou samolepku podepsal profesionální hráč David Danielyan, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_n0rb3r7_gold_champion" "n0rb3r7 (šampion, zlatá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_gold_champion" "Tuto zlatou samolepku podepsal profesionální hráč David Danielyan, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+
+	"StickerKit_rio2022_signature_jame_champion" "Jame (šampion) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_champion" "Tuto samolepku podepsal profesionální hráč Ali Dzhami, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_jame_glitter_champion" "Jame (šampion, třpytivá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_glitter_champion" "Tuto třpytivou samolepku podepsal profesionální hráč Ali Dzhami, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_jame_holo_champion" "Jame (šampion, holografická) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_holo_champion" "Tuto holografickou samolepku podepsal profesionální hráč Ali Dzhami, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_jame_gold_champion" "Jame (šampion, zlatá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_gold_champion" "Tuto zlatou samolepku podepsal profesionální hráč Ali Dzhami, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+
+	"StickerKit_rio2022_signature_qikert_champion" "qikert (šampion) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_champion" "Tuto samolepku podepsal profesionální hráč Alexey Golubev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_qikert_glitter_champion" "qikert (šampion, třpytivá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_glitter_champion" "Tuto třpytivou samolepku podepsal profesionální hráč Alexey Golubev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_qikert_holo_champion" "qikert (šampion, holografická) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_holo_champion" "Tuto holografickou samolepku podepsal profesionální hráč Alexey Golubev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_qikert_gold_champion" "qikert (šampion, zlatá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_gold_champion" "Tuto zlatou samolepku podepsal profesionální hráč Alexey Golubev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+
+	"StickerKit_rio2022_signature_fame_champion" "fame (šampion) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_champion" "Tuto samolepku podepsal profesionální hráč Petr Bolyshev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_fame_glitter_champion" "fame (šampion, třpytivá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_glitter_champion" "Tuto třpytivou samolepku podepsal profesionální hráč Petr Bolyshev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_fame_holo_champion" "fame (šampion, holografická) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_holo_champion" "Tuto holografickou samolepku podepsal profesionální hráč Petr Bolyshev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+	"StickerKit_rio2022_signature_fame_gold_champion" "fame (šampion, zlatá) | IEM Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_gold_champion" "Tuto zlatou samolepku podepsal profesionální hráč Petr Bolyshev, který na šampionátu IEM Rio 2022 hrál za tým Outsiders, vítěze tohoto šampionátu."
+
+
 	"StickerKit_rio2022_signature_snappi" "Snappi | IEM Rio 2022"
 	"StickerKit_desc_rio2022_signature_snappi" "Tuto samolepku podepsal profesionální hráč Marco Pfeiffer, který na šampionátu IEM Rio 2022 hrál za tým ENCE."
 	"StickerKit_rio2022_signature_snappi_glitter" "Snappi (třpytivá) | IEM Rio 2022"
@@ -25627,6 +25675,9 @@ Teď nemůžeš změnit roli."
 		"SFUI_Map_de_blagai"	"Blagai"
 		"SFUI_Map_de_tuscan"	"Tuscan"
 
+		"SFUI_Map_de_boyard"	"Boyard"
+		"SFUI_Map_de_chalice"	"Chalice"
+
 		"SFUI_Map_de_mutiny"		"Mutiny"
 		"SFUI_Map_de_swamp"			"Swamp"
 		"SFUI_Map_de_anubis"		"Anubis"
@@ -27874,6 +27925,9 @@ Teď nemůžeš změnit roli."
 
 		"CSGO_Collectible_GlobalGeneral2022"		"Medaile Za zásluhy (2022)"
 		"CSGO_Collectible_Desc_GlobalGeneral2022"	"Uděleno za příkladnou službu a úspěchy dosažené v roce 2022."
+
+		"CSGO_Collectible_GlobalGeneral2023"		"Medaile Za zásluhy (2023)"
+		"CSGO_Collectible_Desc_GlobalGeneral2023"	"Uděleno za příkladnou službu a úspěchy dosažené v roce 2023."
 
 		//for main menu display
 		"SFUI_XP_Bonus_1"							"Je dostupný týdenní bonus!"
@@ -32852,7 +32906,6 @@ Teď nemůžeš změnit roli."
 
 		"SFUI_LoginPerfectWorld_AntiAddiction1"			"Je ti méně než 18 let, a proto se na tebe vztahuje systém proti závislosti." // 您的年龄未满18岁，正受到“防沉迷系统”的限制。
 		"SFUI_LoginPerfectWorld_AntiAddiction2"			"Informace o tvém účtu nejsou kompletní a vztahuje se na tebe systém proti závislosti. Po určité době proto bude omezena funkčnost tvojí hry. Doporučujeme, abys co nejdříve doplnil informace o svém účtu na oficiálních stránkách společnosti Perfect World." // 您尚未登记防沉迷信息，一段时间后游戏收益将受到限制，建议您立即前往CSGO官网个人中心补全信息。
-
 		"SFUI_LoginPerfectWorld_Title_Info"				"Informace o účtu"
 		"SFUI_LoginPerfectWorld_Error_Launcher"			"Nastavení hry neodpovídá nastavení tvého účtu.\n\nKontaktuj zákaznickou podporu."
 		"SFUI_LoginPerfectWorld_Error_LauncherPW"		"Hru musíš spustit pomocí spouštěče Perfect World CS:GO."
@@ -36077,10 +36130,10 @@ Teď nemůžeš změnit roli."
 		"Panorama_FreezePanel_Killer1_Weapon_Plural" 		"tě zabil pomocí {s:h:weapon_name}"
 		"Panorama_FreezePanel_Killer1_Weapon_CustomString" 	"{s:h:weapon_name}"
 
-		"Panorama_FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Utržené poškození: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> v</font> <font color='#FFFFFF'><b>{d:hits_taken} zásahu </b></font> <font color='#A0A0A0'>od hráče {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Udělené poškození: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> v</font> <font color='#FFFFFF'><b>{d:hits_given} zásahu </b></font> <font color='#A0A0A0'>hráči {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Utržené poškození: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> ve</font> <font color='#FFFFFF'><b>{d:hits_taken} zásazích </b></font> <font color='#A0A0A0'>od hráče {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Udělené poškození: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> v</font> <font color='#FFFFFF'><b>{d:hits_given} zásazích </b></font> <font color='#A0A0A0'>hráči {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Utržené poškození: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'>v</font> <font color='#FFFFFF'><b>{d:hits_taken} zásahu</b></font> <font color='#A0A0A0'>od hráče {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Udělené poškození: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font> <font color='#A0A0A0'>v</font> <font color='#FFFFFF'><b>{d:hits_given} zásahu</b></font> <font color='#A0A0A0'>hráči {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Utržené poškození: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'>ve</font> <font color='#FFFFFF'><b>{d:hits_taken} zásazích</b></font> <font color='#A0A0A0'>od hráče {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Udělené poškození: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font> <font color='#A0A0A0'>v</font> <font color='#FFFFFF'><b>{d:hits_given} zásazích</b></font> <font color='#A0A0A0'>hráči {s:killer_name}</font>"
 
 		/////////////////////////////////////////////////////////////////
 		//
@@ -36244,8 +36297,8 @@ Teď nemůžeš změnit roli."
 
 		"Propcounter_money" "%s1 $" //e.g. used on danger zone security door
 
-// crow_mask_37880_comment
-// crow_mask_37881_comment
+// crow_mask_37891_comment
+// crow_mask_37892_comment
 }
 
 

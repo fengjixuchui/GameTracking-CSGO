@@ -2889,6 +2889,8 @@
 		"CSGO_Collectible_MapTokenTuscan"				"Tuscan Pályaérem"
 		"CSGO_Collectible_MapTokenPrime"				"Cascade Pályaérem"
 		"CSGO_Collectible_MapTokenBlagai"				"Blagai Pályaérem"
+		"CSGO_Collectible_MapTokenBoyard"				"Boyard Pályaérem"
+		"CSGO_Collectible_MapTokenChalice"				"Chalice Pályaérem"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"Hűség kitűző"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"Ez a kitűző a Counter-Strike közösség hű tagjainak állít emléket a Veszélyzóna frissítés előtti időkből. <i>Hűségben az erő.</i>"
 		"CSGO_CollectibleCoin_FiveYearService"		"5 Éves Veterán Érem"
@@ -19466,6 +19468,51 @@
 	"CSGO_crate_signature_pack_rio2022_group_champions_desc" "Ez a kapszula egyetlen, a Rio 2022 egyik Bajnoka által aláírt papír, csillámos, hologramos vagy arany matricát tartalmaz.\n\nE kapszula minden eladásának bevételéből 50% az adott játékost és szervezetet támogatja.\n\nA matrica bármely általad birtokolt fegyverre felragasztható, és meg lehet kaparni, hogy viseltesebbnek tűnjön. Ugyanazt a matricát többször is megkaparhatod, minden alkalommal kicsivel viseltesebbé téve, amíg teljesen el nem távolítódik a fegyverről."
 
 	"StickerKit_rio2022_signature_fl1t_champion" "FL1T (bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_champion" "Ezt a matricát Evgenii Lebedev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_fl1t_glitter_champion" "FL1T (csillámos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_glitter_champion" "Ezt a csillámos matricát Evgenii Lebedev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_fl1t_holo_champion" "FL1T (hologramos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_holo_champion" "Ezt a hologramos matricát Evgenii Lebedev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_fl1t_gold_champion" "FL1T (arany, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_gold_champion" "Ezt az arany matricát Evgenii Lebedev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+
+	"StickerKit_rio2022_signature_n0rb3r7_champion" "n0rb3r7 (bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_champion" "Ezt a matricát David Danielyan hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_n0rb3r7_glitter_champion" "n0rb3r7 (csillámos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_glitter_champion" "Ezt a csillámos matricát David Danielyan hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_n0rb3r7_holo_champion" "n0rb3r7 (hologramos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_holo_champion" "Ezt a hologramos matricát David Danielyan hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_n0rb3r7_gold_champion" "n0rb3r7 (arany, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_gold_champion" "Ezt az arany matricát David Danielyan hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+
+	"StickerKit_rio2022_signature_jame_champion" "Jame (bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_champion" "Ezt a matricát Ali Dzhami hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_jame_glitter_champion" "Jame (csillámos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_glitter_champion" "Ezt a csillámos matricát Ali Dzhami hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_jame_holo_champion" "Jame (hologramos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_holo_champion" "Ezt a hologramos matricát Ali Dzhami hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_jame_gold_champion" "Jame (arany, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_gold_champion" "Ezt az arany matricát Ali Dzhami hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+
+	"StickerKit_rio2022_signature_qikert_champion" "qikert (bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_champion" "Ezt a matricát Alexey Golubev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_qikert_glitter_champion" "qikert (csillámos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_glitter_champion" "Ezt a csillámos matricát Alexey Golubev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_qikert_holo_champion" "qikert (hologramos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_holo_champion" "Ezt a hologramos matricát Alexey Golubev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_qikert_gold_champion" "qikert (arany, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_gold_champion" "Ezt az arany matricát Alexey Golubev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+
+	"StickerKit_rio2022_signature_fame_champion" "fame (bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_champion" "Ezt a matricát Petr Bolyshev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_fame_glitter_champion" "fame (csillámos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_glitter_champion" "Ezt a csillámos matricát Petr Bolyshev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_fame_holo_champion" "fame (hologramos, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_holo_champion" "Ezt a hologramos matricát Petr Bolyshev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+	"StickerKit_rio2022_signature_fame_gold_champion" "fame (arany, bajnok) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_gold_champion" "Ezt az arany matricát Petr Bolyshev hivatásos játékos írta alá, aki az Outsiders tagjaként bajnok lett az IEM Rio 2022 CS:GO Major Bajnokságon."
+
+
 	"StickerKit_rio2022_signature_snappi" "Snappi | Rio 2022"
 	"StickerKit_desc_rio2022_signature_snappi" "Ezt a matricát Marco Pfeiffer hivatásos játékos írta alá, aki az ENCE tagjaként játszott az IEM Rio 2022 CS:GO Major Bajnokságon."
 	"StickerKit_rio2022_signature_snappi_glitter" "Snappi (csillámos) | Rio 2022"
@@ -25814,6 +25861,9 @@
 		"SFUI_Map_de_blagai"	"Blagai"
 		"SFUI_Map_de_tuscan"	"Tuscan"
 
+		"SFUI_Map_de_boyard"	"Boyard"
+		"SFUI_Map_de_chalice"	"Chalice"
+
 		"SFUI_Map_de_mutiny"		"Mutiny"
 		"SFUI_Map_de_swamp"			"Swamp"
 		"SFUI_Map_de_anubis"		"Anubis"
@@ -28061,6 +28111,9 @@
 
 		"CSGO_Collectible_GlobalGeneral2022"		"2022-es Szolgálati Érdemérem"
 		"CSGO_Collectible_Desc_GlobalGeneral2022"	"A 2022-es kimagasló szolgálatért és teljesítményért jár."
+
+		"CSGO_Collectible_GlobalGeneral2023"		"2023-as Szolgálati Érdemérem"
+		"CSGO_Collectible_Desc_GlobalGeneral2023"	"A 2023-as kimagasló szolgálatért és teljesítményért jár."
 
 		//for main menu display
 		"SFUI_XP_Bonus_1"							"Heti TP-bónusz érhető el!"
@@ -33043,7 +33096,6 @@
 
 		"SFUI_LoginPerfectWorld_AntiAddiction1"			"Még nem vagy 18 éves, ezért fiókodra vonatkozik a függőség elleni rendszer." // 您的年龄未满18岁，正受到“防沉迷系统”的限制。
 		"SFUI_LoginPerfectWorld_AntiAddiction2"			"Fiókadataid hiányosak, ezért vonatkozik rád a függőség elleni rendszer. Egy idő után a játékod működése korlátozva lesz. Ajánlott azonnal kitölteni fiókinformációidat a hivatalos Perfect World fiókbeállítások weboldalon." // 您尚未登记防沉迷信息，一段时间后游戏收益将受到限制，建议您立即前往CSGO官网个人中心补全信息。
-
 		"SFUI_LoginPerfectWorld_Title_Info"				"Fiókadatok"
 		"SFUI_LoginPerfectWorld_Error_Launcher"			"Játékindítási beállításaid nem egyeznek fiókbeállításaiddal.\n\nLépj kapcsolatba az ügyfélszolgálattal."
 		"SFUI_LoginPerfectWorld_Error_LauncherPW"		"A Perfect World CS:GO Launcherből kell indítanod a játékot."
@@ -36435,8 +36487,8 @@
 
 		"Propcounter_money" "%s1$" //e.g. used on danger zone security door
 
-// crow_mask_37880_comment
-// crow_mask_37881_comment
+// crow_mask_37891_comment
+// crow_mask_37892_comment
 }
 
 

@@ -1811,10 +1811,10 @@
 
 		"FreezePanel_HappyHolidays"		"TE DESEA FELICES FIESTAS"
 		"FreezePanel_ScreenShot"		"[{v:csgo_bind:bind_jpeg}] Recordar este momento"
-		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Daño recibido: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> en</font> <font color='#FFFFFF'><b>%s2 impacto </b></font> <font color='#A0A0A0'>de %s3</font>"
-		"FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Daño causado: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> en</font> <font color='#FFFFFF'><b>%s2 impacto </b></font> <font color='#A0A0A0'>a %s3</font>"
-		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Daño recibido: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> en</font> <font color='#FFFFFF'><b>%s2 impactos </b></font> <font color='#A0A0A0'>de %s3</font>"
-		"FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Daño causado: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> en</font> <font color='#FFFFFF'><b>%s2 impactos </b></font> <font color='#A0A0A0'>a %s3</font>"
+		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Daño recibido: </font><font color='#FFFFFF'><b>%s1</b></font><font color='#A0A0A0'> en</font><font color='#FFFFFF'><b> %s2 impacto</b></font><font color='#A0A0A0'> de %s3</font>"
+		"FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Daño causado: </font><font color='#FFFFFF'><b>%s1</b></font><font color='#A0A0A0'> en</font><font color='#FFFFFF'><b> %s2 impacto</b></font><font color='#A0A0A0'> a %s3</font>"
+		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Daño recibido: </font><font color='#FFFFFF'><b>%s1</b></font><font color='#A0A0A0'> en</font><font color='#FFFFFF'><b> %s2 impactos</b></font><font color='#A0A0A0'> de %s3</font>"
+		"FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Daño causado: </font><font color='#FFFFFF'><b>%s1</b></font><font color='#A0A0A0'> en</font><font color='#FFFFFF'><b> %s2 impactos </b></font><font color='#A0A0A0'> a %s3</font>"
 
 		"CS_FreezeNemesis"			"Némesis"
 		"CS_FreezeNewNemesis"		"Nueva némesis"
@@ -18327,6 +18327,52 @@
 	"CSGO_crate_signature_pack_rio2022_group_champions_tinyname" "Autógrafos de los campeones"
 	"CSGO_crate_signature_pack_rio2022_group_champions_desc" "Esta cápsula contiene una pegatina normal, con purpurina, holográfica o de oro autografiada por uno de los campeones de Río 2022.\n\nEl 50 % de los beneficios de la venta de esta cápsula se destina a los jugadores y las organizaciones incluidos.\n\nLa pegatina puede colocarse en cualquier arma que tengas y rasparse para que parezca más desgastada. Puedes raspar la misma pegatina varias veces para desgastarla progresivamente hasta eliminarla del arma."
 
+	"StickerKit_rio2022_signature_fl1t_champion" "FL1T (campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_champion" "Esta pegatina está autografiada por el jugador profesional Evgenii Lebedev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_fl1t_glitter_champion" "FL1T (purpurina, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_glitter_champion" "Esta pegatina con purpurina está autografiada por el jugador profesional Evgenii Lebedev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_fl1t_holo_champion" "FL1T (holográfica, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_holo_champion" "Esta pegatina holográfica está autografiada por el jugador profesional Evgenii Lebedev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_fl1t_gold_champion" "FL1T (oro, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_gold_champion" "Esta pegatina de oro está autografiada por el jugador profesional Evgenii Lebedev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+
+	"StickerKit_rio2022_signature_n0rb3r7_champion" "n0rb3r7 (campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_champion" "Esta pegatina está autografiada por el jugador profesional David Danielyan del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_n0rb3r7_glitter_champion" "n0rb3r7 (purpurina, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_glitter_champion" "Esta pegatina con purpurina está autografiada por el jugador profesional David Danielyan del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_n0rb3r7_holo_champion" "n0rb3r7 (holográfica, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_holo_champion" "Esta pegatina holográfica está autografiada por el jugador profesional David Danielyan del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_n0rb3r7_gold_champion" "n0rb3r7 (oro, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_gold_champion" "Esta pegatina de oro está autografiada por el jugador profesional David Danielyan del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+
+	"StickerKit_rio2022_signature_jame_champion" "Jame (campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_jame_champion" "Esta pegatina está autografiada por el jugador profesional Ali Dzhami del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_jame_glitter_champion" "Jame (purpurina, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_jame_glitter_champion" "Esta pegatina con purpurina está autografiada por el jugador profesional Ali Dzhami del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_jame_holo_champion" "Jame (holográfica, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_jame_holo_champion" "Esta pegatina holográfica está autografiada por el jugador profesional Ali Dzhami del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_jame_gold_champion" "Jame (oro, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_jame_gold_champion" "Esta pegatina de oro está autografiada por el jugador profesional Ali Dzhami del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+
+	"StickerKit_rio2022_signature_qikert_champion" "qikert (campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_qikert_champion" "Esta pegatina está autografiada por el jugador profesional Alexey Golubev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_qikert_glitter_champion" "qikert (purpurina, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_qikert_glitter_champion" "Esta pegatina con purpurina está autografiada por el jugador profesional Alexey Golubev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_qikert_holo_champion" "qikert (holográfica, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_qikert_holo_champion" "Esta pegatina holográfica está autografiada por el jugador profesional Alexey Golubev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_qikert_gold_champion" "qikert (oro, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_qikert_gold_champion" "Esta pegatina de oro está autografiada por el jugador profesional Alexey Golubev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+
+	"StickerKit_rio2022_signature_fame_champion" "fame (campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_fame_champion" "Esta pegatina está autografiada por el jugador profesional Petr Bolyshev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_fame_glitter_champion" "fame (purpurina, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_fame_glitter_champion" "Esta pegatina con purpurina está autografiada por el jugador profesional Petr Bolyshev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_fame_holo_champion" "fame (holográfica, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_fame_holo_champion" "Esta pegatina holográfica está autografiada por el jugador profesional Petr Bolyshev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+	"StickerKit_rio2022_signature_fame_gold_champion" "fame (oro, campeón) | Río 2022"
+	"StickerKit_desc_rio2022_signature_fame_gold_champion" "Esta pegatina de oro está autografiada por el jugador profesional Petr Bolyshev del equipo Outsiders, campeones en el Major Championship de CS:GO IEM Río 2022."
+
+
 	"StickerKit_rio2022_signature_snappi" "Snappi | Río 2022"
 	"StickerKit_desc_rio2022_signature_snappi" "Esta pegatina está autografiada por el jugador profesional Marco Pfeiffer, jugador del equipo ENCE en el Major Championship de CS:GO IEM Río 2022."
 	"StickerKit_rio2022_signature_snappi_glitter" "Snappi (purpurina) | Río 2022"
@@ -31427,7 +31473,6 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 
 		"SFUI_LoginPerfectWorld_AntiAddiction1"			"Tienes menos de 18 años y estás sujeto al sistema antiadicción." // 您的年龄未满18岁，正受到“防沉迷系统”的限制。
 		"SFUI_LoginPerfectWorld_AntiAddiction2"			"La información de tu cuenta está incompleta y estás sujeto al sistema antiadicción. Tras un periodo de tiempo, la funcionalidad de tu juego quedará limitada. Te recomendamos que completes inmediatamente esta información en el sitio web oficial de configuración de cuentas de Perfect World." // 您尚未登记防沉迷信息，一段时间后游戏收益将受到限制，建议您立即前往CSGO官网个人中心补全信息。
-
 		"SFUI_LoginPerfectWorld_Title_Info"				"Información de la cuenta"
 		"SFUI_LoginPerfectWorld_Error_Launcher"			"La configuración de lanzamiento del juego no coincide con la configuración de tu cuenta.\n\nPor favor, ponte en contacto con el equipo de Soporte."
 		"SFUI_LoginPerfectWorld_Error_LauncherPW"		"Debes iniciar el juego desde el lanzador de CS:GO de Perfect World."
@@ -34586,10 +34631,10 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 		"Panorama_FreezePanel_Killer1_Weapon_Plural" 		"te han matado con {s:h:weapon_name}"
 		"Panorama_FreezePanel_Killer1_Weapon_CustomString" 	"{s:h:weapon_name}"
 
-		"Panorama_FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Daño recibido: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> en</font> <font color='#FFFFFF'><b>{d:hits_taken} impacto</b></font> <font color='#A0A0A0'>de {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Daño causado: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> en</font> <font color='#FFFFFF'><b>{d:hits_given} impacto </b></font> <font color='#A0A0A0'>a {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Daño recibido: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> en</font> <font color='#FFFFFF'><b>{d:hits_taken} impactos </b></font> <font color='#A0A0A0'>de {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Daño causado:</font> <font color='#FFFFFF'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> en</font> <font color='#FFFFFF'><b>{d:hits_given} impactos </b></font> <font color='#A0A0A0'>a {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Daño recibido: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font><font color='#A0A0A0'> en</font><font color='#FFFFFF'><b>{d:hits_taken} impacto</b></font><font color='#A0A0A0'> de {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Daño causado: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font><font color='#A0A0A0'> en</font><font color='#FFFFFF'><b>{d:hits_given} impacto</b></font><font color='#A0A0A0'> a {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Daño recibido: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font><font color='#A0A0A0'> en</font><font color='#FFFFFF'><b>{d:hits_taken} impactos</b></font><font color='#A0A0A0'> de {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Daño causado: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font><font color='#A0A0A0'> en</font><font color='#FFFFFF'><b>{d:hits_given} impactos </b></font><font color='#A0A0A0'> a {s:killer_name}</font>"
 
 		/////////////////////////////////////////////////////////////////
 		//
@@ -34753,8 +34798,8 @@ Tu obtención de EXP de recompensa de misión no volverá a su valor normal hast
 
 		"Propcounter_money" "%s1 $" //e.g. used on danger zone security door
 
-// crow_mask_37880_comment
-// crow_mask_37881_comment
+// crow_mask_37891_comment
+// crow_mask_37892_comment
 }
 
 

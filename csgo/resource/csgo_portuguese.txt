@@ -1811,10 +1811,10 @@
 		"FreezePanel_Killer2"			" "
 		"FreezePanel_HappyHolidays"		"DESEJA-TE BOAS FESTAS"
 		"FreezePanel_ScreenShot"		"[{v:csgo_bind:bind_jpeg}] Guardar este momento"
-		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Dano sofrido: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'>- atingido</font> <font color='#FFFFFF'><b>%s2 vez </b></font> <font color='#A0A0A0'>por %s3</font>"
-		"FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Dano causado: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> - atingiste</font> <font color='#FFFFFF'><b>%s2 vez </b></font> <font color='#A0A0A0'>o jogador %s3</font>"
-		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Dano sofrido: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> - atingido</font> <font color='#FFFFFF'><b>%s2 vezes </b></font> <font color='#A0A0A0'>por %s3</font>"
-		"FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Dano causado: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> - atingiste</font> <font color='#FFFFFF'><b>%s2 vezes </b></font> <font color='#A0A0A0'>o jogador %s3</font>"
+		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Dano sofrido: </font><font color='#FFFFFF'><b>%s1</b></font><font color='#A0A0A0'> - %s3 atingiu-te </font><font color='#FFFFFF'><b>%s2 vez</b></font>"
+		"FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Dano causado: </font><font color='#FFFFFF'><b>%s1</b></font><font color='#A0A0A0'> - atingiste %s3 </font><font color='#FFFFFF'><b>%s2 vez</b></font>"
+		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Dano sofrido: </font><font color='#FFFFFF'><b>%s1</b></font><font color='#A0A0A0'> - %s3 atingiu-te </font><font color='#FFFFFF'><b>%s2 vezes</b></font>"
+		"FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Dano causado: </font><font color='#FFFFFF'><b>%s1</b></font><font color='#A0A0A0'> - atingiste %s3 </font><font color='#FFFFFF'><b>%s2 vezes</b></font>"
 
 		"CS_FreezeNemesis"			"Némesis"
 		"CS_FreezeNewNemesis"		"Nova Némesis"
@@ -2899,6 +2899,8 @@
 		"CSGO_Collectible_MapTokenTuscan"				"Moeda do Mapa \"Tuscan\""
 		"CSGO_Collectible_MapTokenPrime"				"Moeda do Mapa \"Cascade\""
 		"CSGO_Collectible_MapTokenBlagai"				"Moeda do Mapa \"Blagai\""
+		"CSGO_Collectible_MapTokenBoyard"				"Moeda do Mapa \"Boyard\""
+		"CSGO_Collectible_MapTokenChalice"				"Moeda do Mapa \"Chalice\""
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"Medalha de Lealdade"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"Esta medalha comemora a tua participação leal na comunidade do Counter-Strike antes do lançamento do modo Zona de Perigo. <i>Da lealdade vem a força.</i>"
 		"CSGO_CollectibleCoin_FiveYearService"		"Moeda de Veterano de 5 Anos"
@@ -26312,6 +26314,9 @@
 		"SFUI_Map_de_blagai"	"Blagai"
 		"SFUI_Map_de_tuscan"	"Tuscan"
 
+		"SFUI_Map_de_boyard"	"Boyard"
+		"SFUI_Map_de_chalice"	"Chalice"
+
 		"SFUI_Map_de_mutiny"		"Mutiny"
 		"SFUI_Map_de_swamp"			"Swamp"
 		"SFUI_Map_de_anubis"		"Anubis"
@@ -28560,6 +28565,9 @@
 
 		"CSGO_Collectible_GlobalGeneral2022"		"Medalha de Serviço de 2022"
 		"CSGO_Collectible_Desc_GlobalGeneral2022"	"Concedida pelo serviço extraordinário e feitos notáveis em 2022."
+
+		"CSGO_Collectible_GlobalGeneral2023"		"Medalha de Serviço de 2023"
+		"CSGO_Collectible_Desc_GlobalGeneral2023"	"Concedida pelo serviço extraordinário e feitos notáveis em 2023."
 
 		//for main menu display
 		"SFUI_XP_Bonus_1"							"Bónus semanal de XP adicional disponível!"
@@ -33545,7 +33553,6 @@
 
 		"SFUI_LoginPerfectWorld_AntiAddiction1"			"Tens menos de 18 anos de idade e estás sujeito(a) ao sistema antivício." // 您的年龄未满18岁，正受到“防沉迷系统”的限制。
 		"SFUI_LoginPerfectWorld_AntiAddiction2"			"As informações da tua conta estão incompletas e estás sujeito(a) ao sistema antivício. Após um certo período de tempo, o funcionamento do jogo ser-te-á limitado. Recomendamos que preenchas as tuas informações o mais cedo possível no site de definições de conta do Perfect World." // 您尚未登记防沉迷信息，一段时间后游戏收益将受到限制，建议您立即前往CSGO官网个人中心补全信息。
-
 		"SFUI_LoginPerfectWorld_Title_Info"				"Informações da conta"
 		"SFUI_LoginPerfectWorld_Error_Launcher"			"A configuração de início do teu jogo não corresponde à da tua conta.\n\nEntra em contacto com o apoio ao cliente."
 		"SFUI_LoginPerfectWorld_Error_LauncherPW"		"Tens de iniciar o jogo a partir do launcher do CS:GO do Perfect World."
@@ -36772,10 +36779,10 @@
 		"Panorama_FreezePanel_Killer1_Weapon_Plural" 		"matou-te com: {s:h:weapon_name}"
 		"Panorama_FreezePanel_Killer1_Weapon_CustomString" 	"{s:h:weapon_name}"
 
-		"Panorama_FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Dano sofrido: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font><font color='#A0A0A0'></font> - <font color='#FFFFFF'><b>{d:hits_taken} vez</b></font> <font color='#A0A0A0'>por {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Dano causado: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font><font color='#A0A0A0'> - atingiste </font><font color='#FFFFFF'><b>{d:hits_given} vez</b></font> <font color='#A0A0A0'>o jogador {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Dano sofrido: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> -</font> <font color='#FFFFFF'><b>{d:hits_taken} vezes </b></font> <font color='#A0A0A0'>por {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Dano causado: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> - atingiste</font> <font color='#FFFFFF'><b>{d:hits_given} vezes </b></font> <font color='#A0A0A0'>o jogador {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Dano sofrido: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font><font color='#A0A0A0'> - {s:killer_name} atingiu-te </font><font color='#FFFFFF'><b>{d:hits_taken} vez</b></font>"
+		"Panorama_FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Dano causado: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font><font color='#A0A0A0'> - atingiste {s:killer_name} </font><font color='#FFFFFF'><b>{d:hits_given} vez</b></font>"
+		"Panorama_FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Dano sofrido: </font><font color='#FFFFFF'><b>{d:damage_taken}</b></font><font color='#A0A0A0'> - {s:killer_name} atingiu-te </font><font color='#FFFFFF'><b>{d:hits_taken} vezes</b></font>"
+		"Panorama_FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Dano causado: </font><font color='#FFFFFF'><b>{d:damage_given}</b></font><font color='#A0A0A0'> - atingiste {s:killer_name} </font><font color='#FFFFFF'><b>{d:hits_given} vezes</b></font>"
 
 		/////////////////////////////////////////////////////////////////
 		//
@@ -36939,8 +36946,8 @@
 
 		"Propcounter_money" "%s1$" //e.g. used on danger zone security door
 
-// crow_mask_37880_comment
-// crow_mask_37881_comment
+// crow_mask_37891_comment
+// crow_mask_37892_comment
 }
 
 

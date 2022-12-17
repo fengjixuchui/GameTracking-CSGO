@@ -1811,10 +1811,10 @@
 
 		"FreezePanel_HappyHolidays"		"TI AUGURA BUONE FESTE"
 		"FreezePanel_ScreenShot"		"[{v:csgo_bind:bind_jpeg}] Immortala questo momento"
-		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Danni subiti: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> con</font> <font color='#FFFFFF'><b>%s2 colpo </b></font> <font color='#A0A0A0'>da %s3</font>"
+		"FreezePanel_DamageTaken"		"<font color='#A0A0A0'>Danni subiti: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'>con</font> <font color='#FFFFFF'><b>%s2 colpo</b></font> <font color='#A0A0A0'>da %s3</font>"
 		"FreezePanel_DamageGiven"		"<font color='#A0A0A0'>Danni inflitti: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> con</font> <font color='#FFFFFF'><b>%s2 colpo </b></font> <font color='#A0A0A0'>a %s3</font>"
-		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Danni subiti: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> con</font> <font color='#FFFFFF'><b>%s2 colpi </b></font> <font color='#A0A0A0'>da %s3</font>"
-		"FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Danni inflitti: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'> con</font> <font color='#FFFFFF'><b>%s2 colpi </b></font> <font color='#A0A0A0'>a %s3</font>"
+		"FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Danni subiti: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'>con</font> <font color='#FFFFFF'><b>%s2 colpi</b></font> <font color='#A0A0A0'>da %s3</font>"
+		"FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Danni inflitti: </font><font color='#FFFFFF'><b>%s1</b></font> <font color='#A0A0A0'>con</font> <font color='#FFFFFF'><b>%s2 colpi</b></font> <font color='#A0A0A0'>a %s3</font>"
 
 		"CS_FreezeNemesis"			"Nemesi"
 		"CS_FreezeNewNemesis"		"Nuova nemesi"
@@ -2825,6 +2825,8 @@
 		"CSGO_Collectible_MapTokenTuscan"				"Gettone della mappa Tuscan"
 		"CSGO_Collectible_MapTokenPrime"				"Gettone della mappa Cascade"
 		"CSGO_Collectible_MapTokenBlagai"				"Gettone della mappa Blagai"
+		"CSGO_Collectible_MapTokenBoyard"				"Gettone della mappa Boyard"
+		"CSGO_Collectible_MapTokenChalice"				"Gettone della mappa Chalice"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"Medaglia di lealtà"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"Questa medaglia viene assegnata in commemorazione della fedele partecipazione alla comunità di Counter-Strike prima dell'aggiornamento Zona di pericolo. <i>Forza tramite fedeltà.</i>"
 		"CSGO_CollectibleCoin_FiveYearService"		"Gettone da veterano quinquennale"
@@ -18330,6 +18332,52 @@ Certo che no, cazzo."
 	"CSGO_crate_signature_pack_rio2022_group_champions_tinyname" "Autografi dei campioni"
 	"CSGO_crate_signature_pack_rio2022_group_champions_desc" "Questa capsula contiene un adesivo di carta glitterato, olografico o dorato autografato da uno dei Campioni del Major di Rio 2022.\n\nIl 50% dei ricavi della vendita di questa capsula andrà alle organizzazioni e ai giocatori coinvolti.\n\nQuesto adesivo può essere applicato a qualunque arma tu possieda e può essere raschiato per apparire più consumato. Puoi raschiarlo più volte facendolo apparire via via sempre più consumato, finché non lo rimuoverai del tutto dall'arma."
 
+	"StickerKit_rio2022_signature_fl1t_champion" "FL1T (Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_champion" "Questo adesivo è stato autografato dal giocatore professionista Evgenii Lebedev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_fl1t_glitter_champion" "FL1T (Glitter, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_glitter_champion" "Questo adesivo glitterato è stato autografato dal giocatore professionista Evgenii Lebedev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_fl1t_holo_champion" "FL1T (Olografico, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_holo_champion" "Questo adesivo olografico è stato autografato dal giocatore professionista Evgenii Lebedev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_fl1t_gold_champion" "FL1T (Oro, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fl1t_gold_champion" "Questo adesivo dorato è stato autografato dal giocatore professionista Evgenii Lebedev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+
+	"StickerKit_rio2022_signature_n0rb3r7_champion" "n0rb3r7 (Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_champion" "Questo adesivo è stato autografato dal giocatore professionista David Danielyan, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_n0rb3r7_glitter_champion" "n0rb3r7 (Glitter, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_glitter_champion" "Questo adesivo glitterato è stato autografato dal giocatore professionista David Danielyan, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_n0rb3r7_holo_champion" "n0rb3r7 (Olografico, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_holo_champion" "Questo adesivo olografico è stato autografato dal giocatore professionista David Danielyan, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_n0rb3r7_gold_champion" "n0rb3r7 (Oro, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_n0rb3r7_gold_champion" "Questo adesivo dorato è stato autografato dal giocatore professionista David Danielyan, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+
+	"StickerKit_rio2022_signature_jame_champion" "Jame (Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_champion" "Questo adesivo è stato autografato dal giocatore professionista Ali Dzhami, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_jame_glitter_champion" "Jame (Glitter, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_glitter_champion" "Questo adesivo glitterato è stato autografato dal giocatore professionista Ali Dzhami, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_jame_holo_champion" "Jame (Olografico, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_holo_champion" "Questo adesivo olografico è stato autografato dal giocatore professionista Ali Dzhami, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_jame_gold_champion" "Jame (Oro, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_jame_gold_champion" "Questo adesivo dorato è stato autografato dal giocatore professionista Ali Dzhami, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+
+	"StickerKit_rio2022_signature_qikert_champion" "qikert (Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_champion" "Questo adesivo è stato autografato dal giocatore professionista Alexey Golubev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_qikert_glitter_champion" "qikert (Glitter, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_glitter_champion" "Questo adesivo glitterato è stato autografato dal giocatore professionista Alexey Golubev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_qikert_holo_champion" "qikert (Olografico, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_holo_champion" "Questo adesivo olografico è stato autografato dal giocatore professionista Alexey Golubev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_qikert_gold_champion" "qikert (Oro, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_qikert_gold_champion" "Questo adesivo dorato è stato autografato dal giocatore professionista Alexey Golubev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+
+	"StickerKit_rio2022_signature_fame_champion" "fame (Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_champion" "Questo adesivo è stato autografato dal giocatore professionista Petr Bolyshev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_fame_glitter_champion" "fame (Glitter, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_glitter_champion" "Questo adesivo glitterato è stato autografato dal giocatore professionista Petr Bolyshev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_fame_holo_champion" "fame (Olografico, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_holo_champion" "Questo adesivo olografico è stato autografato dal giocatore professionista Petr Bolyshev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+	"StickerKit_rio2022_signature_fame_gold_champion" "fame (Oro, Campione) | Rio 2022"
+	"StickerKit_desc_rio2022_signature_fame_gold_champion" "Questo adesivo dorato è stato autografato dal giocatore professionista Petr Bolyshev, che ha giocato per Outsiders, campioni del Major di CS:GO IEM di Rio 2022."
+
+
 	"StickerKit_rio2022_signature_snappi" "Snappi | Rio 2022"
 	"StickerKit_desc_rio2022_signature_snappi" "Questo adesivo è stato autografato dal giocatore professionista Marco Pfeiffer, che ha giocato per ENCE al campionato Major di CS:GO IEM di Rio 2022."
 	"StickerKit_rio2022_signature_snappi_glitter" "Snappi (Glitter) | Rio 2022"
@@ -24240,6 +24288,9 @@ Certo che no, cazzo."
 		"SFUI_Map_de_blagai"	"Blagai"
 		"SFUI_Map_de_tuscan"	"Tuscan"
 
+		"SFUI_Map_de_boyard"	"Boyard"
+		"SFUI_Map_de_chalice"	"Chalice"
+
 		"SFUI_Map_de_mutiny"		"Mutiny"
 		"SFUI_Map_de_swamp"			"Swamp"
 		"SFUI_Map_de_anubis"		"Anubis"
@@ -26488,6 +26539,9 @@ Certo che no, cazzo."
 
 		"CSGO_Collectible_GlobalGeneral2022"		"Medaglia al merito di servizio (2022)"
 		"CSGO_Collectible_Desc_GlobalGeneral2022"	"Conferita per un servizio impeccabile e grandi risultati nel 2022."
+
+		"CSGO_Collectible_GlobalGeneral2023"		"Medaglia al merito di servizio (2023)"
+		"CSGO_Collectible_Desc_GlobalGeneral2023"	"Conferita per l'impegno eccezionale e per i risultati conseguiti nel 2023."
 
 		//for main menu display
 		"SFUI_XP_Bonus_1"							"Bonus di aumento dei punti ESP settimanali disponibile!"
@@ -31438,7 +31492,6 @@ Vuoi attivare il tuo pass ora?"
 
 		"SFUI_LoginPerfectWorld_AntiAddiction1"			"Hai meno di 18 anni, quindi il tuo account è soggetto al sistema anti-assuefazione." // 您的年龄未满18岁，正受到“防沉迷系统”的限制。
 		"SFUI_LoginPerfectWorld_AntiAddiction2"			"Le informazioni del tuo account sono incomplete, quindi sei soggetto al sistema anti-assuefazione. Dopo un certo periodo di tempo, le funzionalità del tuo gioco saranno limitate. Ti consigliamo di inserire subito le informazioni del tuo account tramite la pagina ufficiale delle impostazioni del tuo account di Perfect World." // 您尚未登记防沉迷信息，一段时间后游戏收益将受到限制，建议您立即前往CSGO官网个人中心补全信息。
-
 		"SFUI_LoginPerfectWorld_Title_Info"				"Informazioni dell'account"
 		"SFUI_LoginPerfectWorld_Error_Launcher"			"La tua configurazione di avvio del gioco non corrisponde a quella del tuo account.\n\nContatta l'assistenza clienti."
 		"SFUI_LoginPerfectWorld_Error_LauncherPW"		"Devi avviare il gioco dal launcher di CS:GO di Perfect World."
@@ -34762,8 +34815,8 @@ Vuoi attivare il tuo pass ora?"
 
 		"Propcounter_money" "%s1 $" //e.g. used on danger zone security door
 
-// crow_mask_37880_comment
-// crow_mask_37881_comment
+// crow_mask_37891_comment
+// crow_mask_37892_comment
 }
 
 
